@@ -1,0 +1,2087 @@
+"Marca","Modelo","Ano","Combustível","Tração","Preçoref"
+"1","Audi","A6 4.2 Quattro Tiptronic","2008","Gasolina","AWD",112406
+"2","Audi","A8 4.2 Quattro Tiptronic","2007","Gasolina","AWD",156342
+"3","Audi","A8 4.2 Quattro Tiptronic","2008","Gasolina","AWD",164581
+"4","Audi","A8 4.2 Quattro Tiptronic","2011","Gasolina","AWD",179950
+"5","Audi","A8 4.2 Quattro Tiptronic","2012","Gasolina","AWD",223970
+"6","Audi","A8 4.2 Quattro Tiptronic","2013","Gasolina","AWD",288749
+"7","BMW","X5 3.0 4x4","2007","Gasolina","4x4",66913
+"8","BMW","X5 3.0 4x4","2008","Gasolina","4x4",68800
+"9","BMW","X5 3.0 4x4","2009","Gasolina","4x4",75287
+"10","BMW","X5 3.0 4x4","2010","Gasolina","4x4",78787
+"11","BMW","X5 4.8 4x4 V8 32V 360cv","2007","Gasolina","4x4",82477
+"12","BMW","X5 4.8 4x4 V8 32V 360cv","2008","Gasolina","4x4",89311
+"13","Dodge","Ram 2500 H.DUTY 5.9 SLT 24V CD 4x4 Dies.","2007","Diesel","4x4",129128
+"14","Dodge","Ram 2500 H.DUTY 5.9 SLT 24V CD 4x4 Dies.","2008","Diesel","4x4",132744
+"15","Dodge","Ram 2500 H.DUTY 5.9 SLT 24V CD 4x4 Dies.","2009","Diesel","4x4",138520
+"16","Ford","EcoSport 4WD 2.0/ 2.0 Flex 16V 5p","2007","Flex","4x4",30230
+"17","Ford","EcoSport 4WD 2.0/ 2.0 Flex 16V 5p","2008","Flex","4x4",34254
+"18","Ford","EcoSport 4WD 2.0/ 2.0 Flex 16V 5p","2009","Flex","4x4",35230
+"19","Ford","EcoSport 4WD 2.0/ 2.0 Flex 16V 5p","2010","Flex","4x4",38745
+"20","Ford","EcoSport 4WD 2.0/ 2.0 Flex 16V 5p","2011","Flex","4x4",40655
+"21","Ford","EcoSport 4WD 2.0/ 2.0 Flex 16V 5p","2012","Flex","4x4",42652
+"22","Ford","Ranger Limited 3.0 PSE 4x4 CD TB Diesel","2007","Diesel","4x4",62854
+"23","Ford","Ranger Limited 3.0 PSE 4x4 CD TB Diesel","2008","Diesel","4x4",64528
+"24","Ford","Ranger Limited 3.0 PSE 4x4 CD TB Diesel","2009","Diesel","4x4",72754
+"25","Ford","Ranger Limited 3.0 PSE 4x4 CD TB Diesel","2010","Diesel","4x4",75201
+"26","Ford","Ranger Limited 3.0 PSE 4x4 CD TB Diesel","2011","Diesel","4x4",79516
+"27","Ford","Ranger Limited 3.0 PSE 4x4 CD TB Diesel","2012","Diesel","4x4",81759
+"28","Ford","Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.","2007","Diesel","4x4",59476
+"29","Ford","Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.","2008","Diesel","4x4",61154
+"30","Ford","Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.","2009","Diesel","4x4",66016
+"31","Ford","Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.","2010","Diesel","4x4",69605
+"32","Ford","Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.","2011","Diesel","4x4",75344
+"33","Ford","Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.","2012","Diesel","4x4",77469
+"34","Ford","Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.","2007","Diesel","4x4",62707
+"35","Ford","Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.","2008","Diesel","4x4",64463
+"36","Ford","Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.","2009","Diesel","4x4",72659
+"37","Ford","Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.","2010","Diesel","4x4",74709
+"38","Ford","Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.","2011","Diesel","4x4",78829
+"39","Ford","Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.","2012","Diesel","4x4",81533
+"40","GM - Chevrolet","S10 Blazer Colina 2.8 TDI 4x4 Diesel","2007","Diesel","4x4",58360
+"41","GM - Chevrolet","S10 Blazer Colina 2.8 TDI 4x4 Diesel","2008","Diesel","4x4",61445
+"42","GM - Chevrolet","S10 Blazer Colina 2.8 TDI 4x4 Diesel","2009","Diesel","4x4",64600
+"43","GM - Chevrolet","S10 Blazer Colina 2.8 TDI 4x4 Diesel","2010","Diesel","4x4",73279
+"44","GM - Chevrolet","S10 Blazer Executive 2.8 4x4 TDI Diesel","2007","Diesel","4x4",66451
+"45","GM - Chevrolet","S10 Blazer Executive 2.8 4x4 TDI Diesel","2008","Diesel","4x4",70269
+"46","GM - Chevrolet","S10 Blazer Executive 2.8 4x4 TDI Diesel","2009","Diesel","4x4",76261
+"47","GM - Chevrolet","S10 Blazer Executive 2.8 4x4 TDI Diesel","2010","Diesel","4x4",78412
+"48","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.","2007","Diesel","4x4",59533
+"49","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.","2008","Diesel","4x4",61213
+"50","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.","2009","Diesel","4x4",65899
+"51","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.","2010","Diesel","4x4",67758
+"52","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.","2011","Diesel","4x4",69926
+"53","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.","2012","Diesel","4x4",71898
+"54","GM - Chevrolet","S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies","2007","Diesel","4x4",65034
+"55","GM - Chevrolet","S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies","2008","Diesel","4x4",70600
+"56","GM - Chevrolet","S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies","2009","Diesel","4x4",74382
+"57","GM - Chevrolet","S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies","2010","Diesel","4x4",76480
+"58","GM - Chevrolet","S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies","2011","Diesel","4x4",80070
+"59","GM - Chevrolet","S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies","2012","Diesel","4x4",82802
+"60","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.","2007","Diesel","4x4",63326
+"61","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.","2008","Diesel","4x4",67725
+"62","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.","2009","Diesel","4x4",70585
+"63","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.","2010","Diesel","4x4",72577
+"64","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.","2011","Diesel","4x4",74610
+"65","GM - Chevrolet","S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.","2012","Diesel","4x4",76764
+"66","GM - Chevrolet","S10 P-Up Tornado 2.8 TDI 4x2/4x4 CD Dies","2007","Diesel","4x4",65339
+"67","GM - Chevrolet","S10 P-Up Tornado 2.8 TDI 4x2/4x4 CD Dies","2008","Diesel","4x4",67854
+"68","GM - Chevrolet","S10 P-Up Tornado 2.8 TDI 4x2/4x4 CD Dies","2009","Diesel","4x4",70833
+"69","GM - Chevrolet","S10 P-Up Tornado 2.8 TDI 4x2/4x4 CD Dies","2010","Diesel","4x4",75094
+"70","GM - Chevrolet","S10 P-Up Tornado 2.8 TDI 4x2/4x4 CD Dies","2011","Diesel","4x4",77213
+"71","Hyundai","Santa Fe GLS 2.7 V6 4x4TipTronic","2007","Gasolina","4x4",37605
+"72","Hyundai","Santa Fe GLS 2.7 V6 4x4TipTronic","2008","Gasolina","4x4",41244
+"73","Hyundai","Santa Fe GLS 2.7 V6 4x4TipTronic","2009","Gasolina","4x4",42408
+"74","Hyundai","Santa Fe GLS 2.7 V6 4x4TipTronic","2010","Gasolina","4x4",45001
+"75","Hyundai","Santa Fe GLS 2.7 V6 4x4TipTronic","2011","Gasolina","4x4",50978
+"76","Jeep","Cherokee Sport 3.7 4x4 V6 12V Aut.","2007","Gasolina","4x4",44551
+"77","Jeep","Cherokee Sport 3.7 4x4 V6 12V Aut.","2008","Gasolina","4x4",51278
+"78","Jeep","Cherokee Sport 3.7 4x4 V6 12V Aut.","2009","Gasolina","4x4",52724
+"79","Jeep","Cherokee Sport 3.7 4x4 V6 12V Aut.","2010","Gasolina","4x4",54201
+"80","Jeep","Cherokee Sport 3.7 4x4 V6 12V Aut.","2012","Gasolina","4x4",66041
+"81","Kia Motors","Bongo K-2700 2.7 4x2/4x4 Diesel","2007","Diesel","4x4",48731
+"82","Kia Motors","Bongo K-2700 2.7 4x2/4x4 Diesel","2008","Diesel","4x4",57102
+"83","Kia Motors","Bongo K-2700 2.7 4x2/4x4 Diesel","2009","Diesel","4x4",59274
+"84","Kia Motors","Bongo K-2700 2.7 4x2/4x4 Diesel","2010","Diesel","4x4",60946
+"85","Kia Motors","Bongo K-2700 2.7 4x2/4x4 Diesel","2011","Diesel","4x4",68396
+"86","Kia Motors","Bongo K-2700 2.7 4x2/4x4 Diesel","2012","Diesel","4x4",73521
+"87","Kia Motors","Bongo K-2700 2.7 4x4 CD Diesel","2007","Diesel","4x4",42494
+"88","Kia Motors","Bongo K-2700 2.7 4x4 CD Diesel","2008","Diesel","4x4",46079
+"89","Kia Motors","Bongo K-2700 2.7 4x4 CD Diesel","2009","Diesel","4x4",58109
+"90","Kia Motors","Bongo K-2700 2.7 4x4 CD Diesel","2010","Diesel","4x4",59748
+"91","Kia Motors","Bongo K-2700 2.7 4x4 CD Diesel","2011","Diesel","4x4",64450
+"92","Kia Motors","Bongo K-2700 2.7 4x4 CD Diesel","2012","Diesel","4x4",66789
+"93","Kia Motors","Sorento EX 2.5 140/170cv 4x4 Aut.Diesel","2007","Diesel","4x4",49757
+"94","Kia Motors","Sorento EX 2.5 140/170cv 4x4 Aut.Diesel","2008","Diesel","4x4",51151
+"95","Kia Motors","Sorento EX 2.5 140/170cv 4x4 Aut.Diesel","2009","Diesel","4x4",60296
+"96","Kia Motors","Sportage EX 2.7 V6 4x4 Aut.","2007","Gasolina","4x4",31201
+"97","Kia Motors","Sportage EX 2.7 V6 4x4 Aut.","2008","Gasolina","4x4",35632
+"98","Kia Motors","Sportage EX 2.7 V6 4x4 Aut.","2009","Gasolina","4x4",37145
+"99","Kia Motors","Sportage EX 2.7 V6 4x4 Aut.","2010","Gasolina","4x4",43201
+"100","Land Rover","Defender 130 TDI CD Diesel","2008","Diesel","4x4",107414
+"101","Land Rover","Defender 130 TDI CD Diesel","2009","Diesel","4x4",116445
+"102","Land Rover","Defender 130 TDI CD Diesel","2010","Diesel","4x4",126455
+"103","Land Rover","Defender 130 TDI CD Diesel","2011","Diesel","4x4",146685
+"104","Land Rover","Discovery3 HSE 2.7 4x4 TDI Diesel Aut.","2007","Diesel","4x4",71047
+"105","Land Rover","Discovery3 HSE 2.7 4x4 TDI Diesel Aut.","2008","Diesel","4x4",73462
+"106","Land Rover","Discovery3 HSE 2.7 4x4 TDI Diesel Aut.","2009","Diesel","4x4",86573
+"107","Land Rover","Discovery3 HSE 4.4 V8 4x4 299cv Aut.","2007","Gasolina","4x4",57916
+"108","Land Rover","Discovery3 HSE 4.4 V8 4x4 299cv Aut.","2008","Gasolina","4x4",64308
+"109","Land Rover","Discovery3 HSE 4.4 V8 4x4 299cv Aut.","2009","Gasolina","4x4",81049
+"110","Land Rover","Discovery3 S 2.7 4x4 TDI Diesel Aut.","2007","Diesel","4x4",69375
+"111","Land Rover","Discovery3 S 2.7 4x4 TDI Diesel Aut.","2008","Diesel","4x4",74389
+"112","Land Rover","Discovery3 S 2.7 4x4 TDI Diesel Aut.","2009","Diesel","4x4",79029
+"113","Mercedes-Benz","ML-350 3.5  4x4","2007","Gasolina","4x4",70690
+"114","Mercedes-Benz","ML-350 3.5  4x4","2008","Gasolina","4x4",72684
+"115","Mercedes-Benz","ML-350 3.5  4x4","2009","Gasolina","4x4",80722
+"116","Mercedes-Benz","ML-350 3.5  4x4","2010","Gasolina","4x4",102528
+"117","Mitsubishi","Airtrek 2.4 16V 163cv/ 136cv 4x4 5p Aut.","2007","Gasolina","4x4",29723
+"118","Mitsubishi","Airtrek 2.4 16V 163cv/ 136cv 4x4 5p Aut.","2008","Gasolina","4x4",31635
+"119","Mitsubishi","L200 GL 2.5 4X4 CD Diesel","2007","Diesel","4x4",53743
+"120","Mitsubishi","L200 GL 2.5 4X4 CD Diesel","2008","Diesel","4x4",55692
+"121","Mitsubishi","L200 GL 2.5 4X4 CD Diesel","2009","Diesel","4x4",58390
+"122","Mitsubishi","L200 GL 2.5 4X4 CD Diesel","2010","Diesel","4x4",60025
+"123","Mitsubishi","L200 GL 2.5 4X4 CD Diesel","2011","Diesel","4x4",61706
+"124","Mitsubishi","L200 GL 2.5 4X4 CD Diesel","2012","Diesel","4x4",65330
+"125","Mitsubishi","L200 GLS 2.5 4X4 CD Diesel","2007","Diesel","4x4",54132
+"126","Mitsubishi","L200 GLS Sport 2.5 4x4 121cv CD DTI Dies","2007","Diesel","4x4",55292
+"127","Mitsubishi","L200 Savana 2.5 4x4 121cv CD DTI  Dies.","2007","Diesel","4x4",48206
+"128","Mitsubishi","L200 Savana 2.5 4x4 121cv CD DTI  Dies.","2008","Diesel","4x4",54045
+"129","Mitsubishi","L200 Savana 2.5 4x4 121cv CD DTI  Dies.","2009","Diesel","4x4",55570
+"130","Mitsubishi","L200 Savana 2.5 4x4 121cv CD DTI  Dies.","2010","Diesel","4x4",60745
+"131","Mitsubishi","L200 Savana 2.5 4x4 121cv CD DTI  Dies.","2011","Diesel","4x4",69058
+"132","Mitsubishi","L200 Savana 2.5 4x4 121cv CD DTI  Dies.","2012","Diesel","4x4",73714
+"133","Mitsubishi","L200 Sport HPE 2.5 4x4 CD DTI Dies. Aut.","2007","Diesel","4x4",68958
+"134","Mitsubishi","L200 Sport HPE 2.5 4x4 CD DTI Dies. Mec.","2007","Diesel","4x4",53054
+"135","Mitsubishi","L200 Sport RS 2.5 CD DTI (passeio) Dies.","2007","Diesel","4x4",52524
+"136","Mitsubishi","Pajero Sport SE/ HPE 2.8 4x4 Diesel Aut.","2007","Diesel","4x4",51673
+"137","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2007","Flex","4x4",37426
+"138","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2008","Flex","4x4",40720
+"139","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2009","Flex","4x4",43724
+"140","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2010","Flex","4x4",52832
+"141","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2011","Flex","4x4",55515
+"142","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2012","Flex","4x4",60025
+"143","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2013","Flex","4x4",62034
+"144","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2014","Flex","4x4",67748
+"145","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Aut.","2015","Flex","4x4",71778
+"146","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.","2007","Flex","4x4",36030
+"147","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.","2008","Flex","4x4",39792
+"148","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.","2009","Flex","4x4",43297
+"149","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.","2010","Flex","4x4",52337
+"150","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.","2011","Flex","4x4",55289
+"151","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.","2012","Flex","4x4",59144
+"152","Mitsubishi","Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.","2015","Flex","4x4",62480
+"153","Mitsubishi","Pajero TR4 2.0 Blind. 16V 131cv 4x4 Aut.","2007","Gasolina","4x4",41020
+"154","Mitsubishi","Pajero TR4 2.0 Blind. 16V 131cv 4x4 Aut.","2008","Gasolina","4x4",42930
+"155","Mitsubishi","Pajero TR4 2.0 Blind. 16V 131cv 4x4 Aut.","2009","Gasolina","4x4",44236
+"156","Mitsubishi","Pajero TR4 2.0 Blind. 16V 131cv 4x4 Mec.","2007","Gasolina","4x4",40416
+"157","Nissan","Frontier SE Serrana CD 4x4 2.8 TB Dies","2007","Diesel","4x4",67053
+"158","Nissan","Frontier SE/SE Strik/ONE CD 4x4 2.8 Dies","2007","Diesel","4x4",66632
+"159","Nissan","Frontier SE/SE Strik/ONE CD 4x4 2.8 Dies","2008","Diesel","4x4",69521
+"160","Nissan","Frontier XE/ XE TIT. CD 4x4 2.8 TDI Dies","2007","Diesel","4x4",66424
+"161","Nissan","Frontier XE/ XE TIT. CD 4x4 2.8 TDI Dies","2008","Diesel","4x4",68297
+"162","Nissan","XTerra SE 4x4 2.8 132/140cv TB Int.Dies.","2007","Diesel","4x4",76854
+"163","Nissan","XTerra SE 4x4 2.8 132/140cv TB Int.Dies.","2008","Diesel","4x4",79006
+"164","Nissan","XTerra XE 4x4 2.8 132cv TB Int. Diesel","2007","Diesel","4x4",52994
+"165","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2007","Gasolina","4x4",27723
+"166","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2008","Gasolina","4x4",33369
+"167","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2009","Gasolina","4x4",36373
+"168","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2010","Gasolina","4x4",38421
+"169","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2011","Gasolina","4x4",45974
+"170","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2012","Gasolina","4x4",49404
+"171","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2013","Gasolina","4x4",65188
+"172","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2014","Gasolina","4x4",72093
+"173","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2015","Gasolina","4x4",90850
+"174","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2016","Gasolina","4x4",103352
+"175","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2017","Gasolina","4x4",120000
+"176","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2018","Gasolina","4x4",126647
+"177","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2019","Gasolina","4x4",146442
+"178","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2020","Gasolina","4x4",176633
+"179","Subaru","Forester 2.0/2.0 S/2.0 ES 4x4 Aut.","2021","Gasolina","4x4",182287
+"180","Subaru","Impreza SD WRX 2.0 16V TB 4x4","2018","Gasolina","4x4",157408
+"181","Subaru","Impreza SD WRX 2.0 16V TB 4x4","2019","Gasolina","4x4",181559
+"182","Subaru","Impreza SD WRX 2.0 16V TB 4x4","2020","Gasolina","4x4",187359
+"183","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2009","Gasolina","4x4",43050
+"184","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2010","Gasolina","4x4",44219
+"185","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2011","Gasolina","4x4",46344
+"186","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2012","Gasolina","4x4",49172
+"187","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2013","Gasolina","4x4",57273
+"188","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2014","Gasolina","4x4",62090
+"189","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2015","Gasolina","4x4",65166
+"190","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Aut.","2016","Gasolina","4x4",78669
+"191","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2009","Gasolina","4x4",35753
+"192","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2010","Gasolina","4x4",43289
+"193","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2011","Gasolina","4x4",44511
+"194","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2012","Gasolina","4x4",46796
+"195","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2013","Gasolina","4x4",48840
+"196","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2014","Gasolina","4x4",57984
+"197","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2015","Gasolina","4x4",60700
+"198","Suzuki","Grand Vitara 2.0 16V 4x2/4x4 5p Mec.","2016","Gasolina","4x4",75554
+"199","Toyota","Hilux CD 4x4 2.8 Diesel Mec.","2016","Diesel","4x4",155000
+"200","Toyota","Hilux CD 4x4 2.8 Diesel Mec.","2017","Diesel","4x4",165178
+"201","Toyota","Hilux CD 4x4 2.8 Diesel Mec.","2018","Diesel","4x4",169836
+"202","Toyota","Hilux CD 4x4 2.8 Diesel Mec.","2019","Diesel","4x4",178198
+"203","Toyota","Hilux CD 4x4 2.8 Diesel Mec.","2020","Diesel","4x4",192212
+"204","Toyota","Hilux CD 4x4 2.8 Diesel Mec.","2021","Diesel","4x4",224515
+"205","Toyota","Hilux CD 4x4 2.8 Diesel Mec.","2022","Diesel","4x4",230849
+"206","Toyota","Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.","2007","Diesel","4x4",83985
+"207","Toyota","Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.","2008","Diesel","4x4",87136
+"208","Toyota","Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.","2009","Diesel","4x4",92714
+"209","Toyota","Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.","2010","Diesel","4x4",95329
+"210","Toyota","Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.","2011","Diesel","4x4",100223
+"211","Toyota","Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.","2012","Diesel","4x4",107741
+"212","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2007","Diesel","4x4",89535
+"213","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2008","Diesel","4x4",92678
+"214","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2009","Diesel","4x4",98883
+"215","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2010","Diesel","4x4",101672
+"216","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2011","Diesel","4x4",115187
+"217","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2012","Diesel","4x4",118436
+"218","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2013","Diesel","4x4",126475
+"219","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2014","Diesel","4x4",141120
+"220","Toyota","Hilux CD SR D4-D 4x4 3.0  TDI Dies.","2015","Diesel","4x4",144977
+"221","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2007","Diesel","4x4",97124
+"222","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2008","Diesel","4x4",103953
+"223","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2009","Diesel","4x4",109720
+"224","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2010","Diesel","4x4",122155
+"225","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2011","Diesel","4x4",127747
+"226","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2012","Diesel","4x4",139136
+"227","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2013","Diesel","4x4",143060
+"228","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2014","Diesel","4x4",160231
+"229","Toyota","Hilux CD SRV D4-D 4x4 3.0  TDI Dies","2015","Diesel","4x4",166668
+"230","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2007","Diesel","4x4",105635
+"231","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2008","Diesel","4x4",110254
+"232","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2009","Diesel","4x4",115334
+"233","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2010","Diesel","4x4",123119
+"234","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2011","Diesel","4x4",129798
+"235","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2012","Diesel","4x4",142025
+"236","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2013","Diesel","4x4",149521
+"237","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2014","Diesel","4x4",160907
+"238","Toyota","Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut","2015","Diesel","4x4",168600
+"239","Toyota","Hilux Chassi D4-D 4x4 2.5 102cv TB Dies.","2007","Diesel","4x4",37148
+"240","Toyota","Hilux Chassi D4-D 4x4 2.5 102cv TB Dies.","2008","Diesel","4x4",38628
+"241","Toyota","Hilux Chassi D4-D 4x4 2.5 102cv TB Dies.","2009","Diesel","4x4",41874
+"242","Toyota","Hilux Chassi D4-D 4x4 2.5 102cv TB Dies.","2010","Diesel","4x4",43480
+"243","Toyota","Hilux Chassi D4-D 4x4 2.5 102cv TB Dies.","2011","Diesel","4x4",45714
+"244","Toyota","Hilux Chassi D4-D 4x4 2.5 102cv TB Dies.","2012","Diesel","4x4",51773
+"245","Toyota","Hilux CS D4-D 4x4 2.5 16V 102cv TB Dies.","2007","Diesel","4x4",56665
+"246","Toyota","Hilux CS D4-D 4x4 2.5 16V 102cv TB Dies.","2008","Diesel","4x4",78573
+"247","Toyota","Hilux CS D4-D 4x4 2.5 16V 102cv TB Dies.","2009","Diesel","4x4",80790
+"248","Toyota","Hilux CS D4-D 4x4 2.5 16V 102cv TB Dies.","2010","Diesel","4x4",86155
+"249","Toyota","Hilux CS D4-D 4x4 2.5 16V 102cv TB Dies.","2011","Diesel","4x4",89008
+"250","Toyota","Hilux CS D4-D 4x4 2.5 16V 102cv TB Dies.","2012","Diesel","4x4",93390
+"251","Toyota","Land Cruiser Prado 3.0 4x4 TB Diesel Aut","2007","Diesel","4x4",94152
+"252","Toyota","Land Cruiser Prado 3.0 4x4 TB Diesel Aut","2008","Diesel","4x4",109166
+"253","Toyota","Land Cruiser Prado 3.0 4x4 TB Diesel Aut","2009","Diesel","4x4",112540
+"254","Toyota","Land Cruiser Prado 3.0 4x4 TB Diesel Mec","2007","Diesel","4x4",76525
+"255","Toyota","RAV4 2.0 4x4 16V Aut.","2013","Gasolina","4x4",90043
+"256","Toyota","RAV4 2.0 4x4 16V Aut.","2014","Gasolina","4x4",93299
+"257","Toyota","RAV4 2.0 4x4 16V Aut.","2015","Gasolina","4x4",106419
+"258","Troller","T-4 4x4 3.0 TB Int. Cap. Lona Diesel","2007","Diesel","4x4",73487
+"259","Troller","T-4 4x4 3.0 TB Int. Cap. Lona Diesel","2008","Diesel","4x4",79894
+"260","Troller","T-4 4x4 3.0 TB Int. Cap. Lona Diesel","2009","Diesel","4x4",82148
+"261","Troller","T-4 4x4 3.0 TB Int. Cap. Lona Diesel","2010","Diesel","4x4",86224
+"262","Troller","T-4 4x4 3.0 TB Int. Cap. Lona Diesel","2011","Diesel","4x4",92372
+"263","Troller","T-4 4x4 3.0 TB Int. Cap. Rígida Diesel","2007","Diesel","4x4",84007
+"264","Troller","T-4 4x4 3.0 TB Int. Cap. Rígida Diesel","2008","Diesel","4x4",88907
+"265","Troller","T-4 4x4 3.0 TB Int. Cap. Rígida Diesel","2009","Diesel","4x4",91415
+"266","Troller","T-4 4x4 3.0 TB Int. Cap. Rígida Diesel","2010","Diesel","4x4",99468
+"267","Troller","T-4 4x4 3.0 TB Int. Cap. Rígida Diesel","2011","Diesel","4x4",102274
+"268","Troller","T-4 4x4 3.0 TB Int. Cap. Rígida Diesel","2012","Diesel","4x4",106931
+"269","Volvo","V70 R 2.5 300cv AWD Aut.","2007","Gasolina","AWD",79060
+"270","Volvo","V70 R 2.5 300cv AWD Mec.","2007","Gasolina","AWD",62685
+"271","Volvo","XC 90 2.5T 210cv AWD 5p","2007","Gasolina","AWD",38013
+"272","Volvo","XC 90 4.4 V8 315cv AWD 5p","2007","Gasolina","AWD",41779
+"273","Volvo","XC 90 4.4 V8 315cv AWD 5p","2008","Gasolina","AWD",44120
+"274","Volvo","XC 90 4.4 V8 315cv AWD 5p","2009","Gasolina","AWD",48038
+"275","Volvo","XC 90 4.4 V8 315cv AWD 5p","2010","Gasolina","AWD",52870
+"276","Volvo","XC 90 4.4 V8 315cv AWD 5p","2011","Gasolina","AWD",79152
+"277","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2007","Gasolina","AWD",56782
+"278","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2008","Gasolina","AWD",58765
+"279","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2009","Gasolina","AWD",60700
+"280","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2010","Gasolina","AWD",62933
+"281","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2011","Gasolina","AWD",94450
+"282","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2012","Gasolina","AWD",97346
+"283","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2013","Gasolina","AWD",115096
+"284","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2014","Gasolina","AWD",142058
+"285","VW - VolksWagen","TOUAREG 4.2 32V V8  Tiptronic 5p","2016","Gasolina","AWD",209765
+"286","Ford","Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel","2007","Diesel","4x4",55124
+"287","Ford","Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel","2008","Diesel","4x4",57549
+"288","Ford","Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel","2009","Diesel","4x4",60313
+"289","Ford","Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel","2010","Diesel","4x4",69400
+"290","Ford","Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel","2011","Diesel","4x4",73433
+"291","Ford","Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel","2012","Diesel","4x4",75505
+"292","Ford","Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel","2007","Diesel","4x4",53233
+"293","Ford","Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel","2008","Diesel","4x4",54724
+"294","Ford","Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel","2009","Diesel","4x4",56257
+"295","Ford","Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel","2010","Diesel","4x4",59254
+"296","Ford","Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel","2011","Diesel","4x4",73433
+"297","Ford","Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel","2012","Diesel","4x4",75505
+"298","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2007","Diesel","4x4",106106
+"299","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2008","Diesel","4x4",112875
+"300","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2009","Diesel","4x4",121275
+"301","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2010","Diesel","4x4",126610
+"302","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2011","Diesel","4x4",135440
+"303","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2012","Diesel","4x4",154412
+"304","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2013","Diesel","4x4",160168
+"305","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2014","Diesel","4x4",173521
+"306","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut","2015","Diesel","4x4",182521
+"307","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Mec","2007","Diesel","4x4",93167
+"308","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Mec","2008","Diesel","4x4",101604
+"309","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Mec","2009","Diesel","4x4",104882
+"310","Toyota","Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Mec","2010","Diesel","4x4",108173
+"311","VW - VolksWagen","TOUAREG 3.2 24V V6 Tiptronic 5p","2007","Gasolina","AWD",42313
+"312","VW - VolksWagen","TOUAREG 3.2 24V V6 Tiptronic 5p","2008","Gasolina","AWD",43507
+"313","Subaru","Forester XT 2.5 16V 4x4 Turbo Aut.","2007","Gasolina","4x4",33794
+"314","Subaru","Forester XT 2.5 16V 4x4 Turbo Aut.","2008","Gasolina","4x4",39439
+"315","Subaru","Forester XT 2.5 16V 4x4 Turbo Aut.","2009","Gasolina","4x4",46341
+"316","Subaru","Forester XT 2.5 16V 4x4 Turbo Aut.","2010","Gasolina","4x4",49265
+"317","Subaru","Forester XT 2.5 16V 4x4 Turbo Aut.","2011","Gasolina","4x4",63521
+"318","Subaru","Forester XT 2.5 16V 4x4 Turbo Aut.","2012","Gasolina","4x4",65313
+"319","Subaru","Impreza SD WRX 2.5 16V TB 4x4 4p","2007","Gasolina","4x4",78971
+"320","Subaru","Impreza SD WRX 2.5 16V TB 4x4 4p","2009","Gasolina","4x4",85900
+"321","Subaru","Impreza SD WRX 2.5 16V TB 4x4 4p","2010","Gasolina","4x4",88556
+"322","Subaru","Impreza SD WRX 2.5 16V TB 4x4 4p","2011","Gasolina","4x4",110295
+"323","Subaru","Impreza SD WRX 2.5 16V TB 4x4 4p","2012","Gasolina","4x4",113252
+"324","Subaru","Impreza SD WRX 2.5 16V TB 4x4 4p","2014","Gasolina","4x4",116634
+"325","Subaru","Impreza SW WRX 2.5 16V TB 4x4 5p","2007","Gasolina","4x4",60023
+"326","Dodge","Ram 2500 H.DUTY 5.9 SLT TDI CS 4x4 Dies.","2007","Diesel","4x4",127316
+"327","Dodge","Ram 2500 H.DUTY 5.9 SLT TDI CS 4x4 Dies.","2008","Diesel","4x4",131422
+"328","Dodge","Ram 2500 H.DUTY 5.9 SLT TDI CS 4x4 Dies.","2009","Diesel","4x4",137498
+"329","Kia Motors","Sorento EX 2.5 16V 4x4 Mec. Diesel","2007","Diesel","4x4",42838
+"330","Kia Motors","Sorento EX 2.5 16V 4x4 Mec. Diesel","2008","Diesel","4x4",48510
+"331","Kia Motors","Sorento EX 2.5 16V 4x4 Mec. Diesel","2009","Diesel","4x4",49879
+"332","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2007","Diesel","4x4",77178
+"333","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2008","Diesel","4x4",79967
+"334","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2009","Diesel","4x4",96581
+"335","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2010","Diesel","4x4",104121
+"336","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2011","Diesel","4x4",118121
+"337","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2012","Diesel","4x4",121452
+"338","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2013","Diesel","4x4",135559
+"339","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2014","Diesel","4x4",163395
+"340","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2015","Diesel","4x4",168480
+"341","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2016","Diesel","4x4",189130
+"342","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2017","Diesel","4x4",195230
+"343","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2018","Diesel","4x4",221818
+"344","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2019","Diesel","4x4",259859
+"345","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.","2020","Diesel","4x4",267896
+"346","Mitsubishi","Pajero Sport HPE 3.5 4x4 200cv Aut.","2007","Gasolina","4x4",42130
+"347","Mitsubishi","Pajero Sport HPE 3.5 4x4 200cv Aut.","2008","Gasolina","4x4",43396
+"348","Mitsubishi","Pajero Sport HPE 3.5 4x4 200cv Aut.","2009","Gasolina","4x4",44612
+"349","Toyota","RAV4 2.4 4x4 16V 170cv Aut.","2007","Gasolina","4x4",45242
+"350","Toyota","RAV4 2.4 4x4 16V 170cv Aut.","2008","Gasolina","4x4",48073
+"351","Toyota","RAV4 2.4 4x4 16V 170cv Aut.","2009","Gasolina","4x4",50456
+"352","Toyota","RAV4 2.4 4x4 16V 170cv Aut.","2010","Gasolina","4x4",57075
+"353","Toyota","RAV4 2.4 4x4 16V 170cv Aut.","2011","Gasolina","4x4",61868
+"354","Toyota","RAV4 2.4 4x4 16V 170cv Aut.","2012","Gasolina","4x4",68920
+"355","Troller","PANTANAL 3.0 TDI Elet. 4x4 CS Diesel","2007","Diesel","4x4",36848
+"356","Ford","F-250 XL 3.9 4x4 TB Diesel","2007","Diesel","4x4",93064
+"357","Ford","F-250 XL 3.9 4x4 TB Diesel","2008","Diesel","4x4",95972
+"358","Ford","F-250 XL 3.9 4x4 TB Diesel","2009","Diesel","4x4",99522
+"359","Ford","F-250 XL 3.9 4x4 TB Diesel","2010","Diesel","4x4",103236
+"360","Ford","F-250 XL 3.9 4x4 TB Diesel","2011","Diesel","4x4",106521
+"361","Ford","F-250 XLT 3.9 4x4 CD TB Diesel","2007","Diesel","4x4",148420
+"362","Ford","F-250 XLT 3.9 4x4 CD TB Diesel","2008","Diesel","4x4",152605
+"363","Ford","F-250 XLT 3.9 4x4 CD TB Diesel","2009","Diesel","4x4",160824
+"364","Ford","F-250 XLT 3.9 4x4 CD TB Diesel","2010","Diesel","4x4",183352
+"365","Ford","F-250 XLT 3.9 4x4 CD TB Diesel","2011","Diesel","4x4",190299
+"366","Ford","F-250 XLT 3.9 4x4 TB Diesel","2007","Diesel","4x4",129758
+"367","Ford","F-250 XLT 3.9 4x4 TB Diesel","2008","Diesel","4x4",135744
+"368","Ford","F-250 XLT 3.9 4x4 TB Diesel","2009","Diesel","4x4",139545
+"369","Ford","F-250 XLT 3.9 4x4 TB Diesel","2010","Diesel","4x4",143453
+"370","Ford","F-250 XLT 3.9 4x4 TB Diesel","2011","Diesel","4x4",176198
+"371","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Aut.","2007","Diesel","4x4",56881
+"372","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Aut.","2008","Diesel","4x4",60039
+"373","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Aut.","2009","Diesel","4x4",63626
+"374","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Aut.","2010","Diesel","4x4",67135
+"375","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Aut.","2011","Diesel","4x4",75740
+"376","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Mec.","2007","Diesel","4x4",56814
+"377","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Mec.","2008","Diesel","4x4",58405
+"378","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Mec.","2009","Diesel","4x4",60041
+"379","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Mec.","2010","Diesel","4x4",62707
+"380","Mitsubishi","Pajero Sport HPE 2.5 4x4 Diesel Mec.","2011","Diesel","4x4",64892
+"381","Nissan","XTerra ECOTRIP 4x4 140cv 2.8 TB Int.Dies","2007","Diesel","4x4",62979
+"382","Mitsubishi","L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel","2007","Diesel","4x4",53026
+"383","Mitsubishi","L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel","2008","Diesel","4x4",54997
+"384","Mitsubishi","L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel","2009","Diesel","4x4",56548
+"385","Mitsubishi","L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel","2010","Diesel","4x4",58633
+"386","Mitsubishi","L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel","2011","Diesel","4x4",62000
+"387","Mitsubishi","L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel","2012","Diesel","4x4",70614
+"388","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Mec.","2007","Diesel","4x4",51798
+"389","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Mec.","2008","Diesel","4x4",53260
+"390","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Mec.","2009","Diesel","4x4",59816
+"391","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Mec.","2010","Diesel","4x4",61504
+"392","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Mec.","2011","Diesel","4x4",67282
+"393","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Mec.","2012","Diesel","4x4",69180
+"394","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Aut.","2007","Diesel","4x4",55578
+"395","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Aut.","2008","Diesel","4x4",57135
+"396","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Aut.","2009","Diesel","4x4",58735
+"397","Mitsubishi","L200 OUTDOOR HPE 2.5 4x4 CD T.Dies. Aut.","2010","Diesel","4x4",60380
+"398","Kia Motors","Bongo K-2700 2.7 4x4 Basculante Diesel","2007","Diesel","4x4",35854
+"399","Kia Motors","Bongo K-2700 2.7 4x4 Basculante Diesel","2008","Diesel","4x4",40120
+"400","Audi","Q7 4.2 V8 40V 350cv Quattro Tiptronic","2007","Gasolina","AWD",70269
+"401","Audi","Q7 4.2 V8 40V 350cv Quattro Tiptronic","2008","Gasolina","AWD",77236
+"402","Audi","Q7 4.2 V8 40V 350cv Quattro Tiptronic","2009","Gasolina","AWD",92616
+"403","Audi","Q7 4.2 V8 40V 350cv Quattro Tiptronic","2010","Gasolina","AWD",108178
+"404","Land Rover","Discovery3 S 4.0 V6 4x4 215cv Aut.","2007","Gasolina","4x4",58226
+"405","Land Rover","Discovery3 S 4.0 V6 4x4 215cv Aut.","2008","Gasolina","4x4",61880
+"406","Land Rover","Discovery3 S 4.0 V6 4x4 215cv Aut.","2009","Gasolina","4x4",63626
+"407","GM - Chevrolet","TRACKER 2.0 16v 128cv MPFI 4x4 5p","2007","Gasolina","4x4",33196
+"408","GM - Chevrolet","TRACKER 2.0 16v 128cv MPFI 4x4 5p","2008","Gasolina","4x4",37328
+"409","GM - Chevrolet","TRACKER 2.0 16v 128cv MPFI 4x4 5p","2009","Gasolina","4x4",39042
+"410","Volvo","S80 4.4 V8 315cv AWD Aut.","2007","Gasolina","AWD",55220
+"411","Volvo","S80 4.4 V8 315cv AWD Aut.","2008","Gasolina","AWD",65843
+"412","Volvo","S80 4.4 V8 315cv AWD Aut.","2009","Gasolina","AWD",83803
+"413","Volvo","S80 4.4 V8 315cv AWD Aut.","2010","Gasolina","AWD",89075
+"414","Mercedes-Benz","GL-500 5.5 V8 32V 4x4 388cv Aut.","2007","Gasolina","4x4",80329
+"415","Mercedes-Benz","GL-500 5.5 V8 32V 4x4 388cv Aut.","2008","Gasolina","4x4",86811
+"416","Mercedes-Benz","GL-500 5.5 V8 32V 4x4 388cv Aut.","2009","Gasolina","4x4",113266
+"417","Mercedes-Benz","GL-500 5.5 V8 32V 4x4 388cv Aut.","2010","Gasolina","4x4",117888
+"418","Mercedes-Benz","GL-500 5.5 V8 32V 4x4 388cv Aut.","2011","Gasolina","4x4",131267
+"419","Mercedes-Benz","GL-500 5.5 V8 32V 4x4 388cv Aut.","2012","Gasolina","4x4",192036
+"420","Mercedes-Benz","GL-500 5.5 V8 32V 4x4 388cv Aut.","2013","Gasolina","4x4",296937
+"421","Mitsubishi","Airtrek 2.0 16V TB-IC 202cv 4x4 5p","2007","Gasolina","4x4",35512
+"422","Nissan","Frontier LE CD 4x4 2.5 TB dies.(Import.)","2007","Gasolina","4x4",68146
+"423","Kia Motors","Sorento EX 3.8 V6 24V 267cv 4x4 Aut.","2007","Gasolina","4x4",36927
+"424","Kia Motors","Sorento EX 3.8 V6 24V 267cv 4x4 Aut.","2008","Gasolina","4x4",39776
+"425","Kia Motors","Sorento EX 3.8 V6 24V 267cv 4x4 Aut.","2009","Gasolina","4x4",42192
+"426","BMW","X5 Sport 4.8 4x4 V8 32V 355cv","2007","Gasolina","4x4",77622
+"427","BMW","X5 Sport 4.8 4x4 V8 32V 355cv","2008","Gasolina","4x4",81161
+"428","BMW","X5 Sport 4.8 4x4 V8 32V 355cv","2009","Gasolina","4x4",83451
+"429","BMW","X5 Sport 4.8 4x4 V8 32V 355cv","2010","Gasolina","4x4",90658
+"430","Hyundai","VERACRUZ GLS 3.8 4WD Aut.","2007","Gasolina","4x4",41362
+"431","Hyundai","VERACRUZ GLS 3.8 4WD Aut.","2008","Gasolina","4x4",43488
+"432","Hyundai","VERACRUZ GLS 3.8 4WD Aut.","2009","Gasolina","4x4",45601
+"433","Hyundai","VERACRUZ GLS 3.8 4WD Aut.","2010","Gasolina","4x4",50986
+"434","Hyundai","VERACRUZ GLS 3.8 4WD Aut.","2011","Gasolina","4x4",54006
+"435","Hyundai","VERACRUZ GLS 3.8 4WD Aut.","2012","Gasolina","4x4",67359
+"436","Land Rover","Discovery3 SE 2.7 4x4 TDI Diesel Aut.","2008","Diesel","4x4",75453
+"437","Land Rover","Discovery3 SE 2.7 4x4 TDI Diesel Aut.","2009","Diesel","4x4",80120
+"438","Jeep","Wrangler Sport 3.8 V6 199cv","2007","Gasolina","4x4",108409
+"439","Jeep","Wrangler Sport 3.8 V6 199cv","2008","Gasolina","4x4",111907
+"440","Jeep","Wrangler Sport 3.8 V6 199cv","2009","Gasolina","4x4",130511
+"441","Jeep","Wrangler Sport 3.8 V6 199cv","2010","Gasolina","4x4",144059
+"442","Jeep","Wrangler Sport 3.8 V6 199cv","2011","Gasolina","4x4",157612
+"443","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2007","Gasolina","AWD",43095
+"444","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2008","Gasolina","AWD",45743
+"445","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2009","Gasolina","AWD",49614
+"446","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2010","Gasolina","AWD",51014
+"447","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2011","Gasolina","AWD",79079
+"448","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2012","Gasolina","AWD",82704
+"449","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2013","Gasolina","AWD",106326
+"450","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2014","Gasolina","AWD",109325
+"451","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2015","Gasolina","AWD",137527
+"452","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2016","Gasolina","AWD",184094
+"453","VW - VolksWagen","TOUAREG 3.6 24V V6 280cv Tiptronic 5p","2017","Gasolina","AWD",223522
+"454","Volvo","XC 90 3.2 238cv AWD 5p","2008","Gasolina","AWD",37898
+"455","Volvo","XC 90 3.2 238cv AWD 5p","2009","Gasolina","AWD",47283
+"456","Volvo","XC 90 3.2 238cv AWD 5p","2010","Gasolina","AWD",48617
+"457","Volvo","XC 90 3.2 238cv AWD 5p","2011","Gasolina","AWD",50000
+"458","Volvo","XC 90 3.2 238cv AWD 5p","2012","Gasolina","AWD",79650
+"459","Volvo","XC 90 3.2 238cv AWD 5p","2013","Gasolina","AWD",88930
+"460","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2008","Diesel","4x4",84370
+"461","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2009","Diesel","4x4",91025
+"462","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2010","Diesel","4x4",93593
+"463","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2011","Diesel","4x4",96214
+"464","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2012","Diesel","4x4",110728
+"465","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2013","Diesel","4x4",121660
+"466","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2014","Diesel","4x4",131787
+"467","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2015","Diesel","4x4",140072
+"468","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2016","Diesel","4x4",147713
+"469","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Aut","2017","Diesel","4x4",159123
+"470","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2008","Flex","4x4",59460
+"471","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2009","Flex","4x4",66774
+"472","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2010","Flex","4x4",72503
+"473","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2011","Flex","4x4",74549
+"474","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2012","Flex","4x4",83442
+"475","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2013","Flex","4x4",88733
+"476","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2014","Flex","4x4",96499
+"477","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2015","Flex","4x4",103540
+"478","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2016","Flex","4x4",110119
+"479","Mitsubishi","L200 Triton HPE 3.5 CD V6 24V Flex Aut.","2017","Flex","4x4",118685
+"480","Mahindra","SCORPIO 2.6 CD TB Diesel CRDe 4x4","2008","Diesel","4x4",33111
+"481","Mahindra","SCORPIO 2.6 CD TB Diesel CRDe 4x4","2009","Diesel","4x4",38384
+"482","Mahindra","SCORPIO 2.6 CD TB Diesel CRDe 4x4","2010","Diesel","4x4",41317
+"483","Mahindra","SCORPIO 2.6 CD TB Diesel CRDe 4x4","2011","Diesel","4x4",46639
+"484","Mahindra","SCORPIO 2.6 CD TB Diesel CRDe 4x4","2012","Diesel","4x4",47955
+"485","Mahindra","SCORPIO 2.6 CS/ Chassi TB Dies. CRDe 4x4","2008","Diesel","4x4",29168
+"486","Mahindra","SCORPIO 2.6 CS/ Chassi TB Dies. CRDe 4x4","2009","Diesel","4x4",33826
+"487","Mahindra","SCORPIO 2.6 CS/ Chassi TB Dies. CRDe 4x4","2010","Diesel","4x4",34917
+"488","Mahindra","SCORPIO 2.6 CS/ Chassi TB Dies. CRDe 4x4","2011","Diesel","4x4",38095
+"489","Mahindra","SCORPIO 2.6 CS/ Chassi TB Dies. CRDe 4x4","2012","Diesel","4x4",40676
+"490","Mahindra","SCORPIO GLX SUV 2.6 TB Diesel CRDe 4WD","2008","Diesel","4x4",37727
+"491","Mahindra","SCORPIO GLX SUV 2.6 TB Diesel CRDe 4WD","2009","Diesel","4x4",40870
+"492","Mahindra","SCORPIO GLX SUV 2.6 TB Diesel CRDe 4WD","2010","Diesel","4x4",42189
+"493","Mahindra","SCORPIO GLX SUV 2.6 TB Diesel CRDe 4WD","2011","Diesel","4x4",50114
+"494","Mahindra","SCORPIO GLX SUV 2.6 TB Diesel CRDe 4WD","2012","Diesel","4x4",51528
+"495","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2008","Diesel","4x4",83417
+"496","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2009","Diesel","4x4",86063
+"497","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2010","Diesel","4x4",88473
+"498","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2011","Diesel","4x4",90951
+"499","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2012","Diesel","4x4",100360
+"500","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2013","Diesel","4x4",103191
+"501","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2014","Diesel","4x4",106868
+"502","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2015","Diesel","4x4",109883
+"503","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2016","Diesel","4x4",120000
+"504","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2017","Diesel","4x4",124437
+"505","Mitsubishi","L200 Triton HPE 3.2 CD TB Int.Diesel Mec","2018","Diesel","4x4",134156
+"506","Nissan","Frontier SEL CD 4x4 2.5 TB Diesel","2008","Diesel","4x4",81243
+"507","Nissan","Frontier SEL CD 4x4 2.5 TB Diesel Aut.","2008","Diesel","4x4",81602
+"508","Land Rover","Defender 110 2.4 122cv T.Diesel","2007","Diesel","4x4",195164
+"509","Land Rover","Defender 110 2.4 122cv T.Diesel","2008","Diesel","4x4",243721
+"510","Land Rover","Defender 110 2.4 122cv T.Diesel","2009","Diesel","4x4",259996
+"511","Land Rover","Defender 110 2.4 122cv T.Diesel","2010","Diesel","4x4",304328
+"512","Land Rover","Defender 110 2.4 122cv T.Diesel","2011","Diesel","4x4",352945
+"513","Land Rover","Defender 90 2.4 122cv T.Diesel","2007","Diesel","4x4",171764
+"514","Land Rover","Defender 90 2.4 122cv T.Diesel","2008","Diesel","4x4",176608
+"515","Land Rover","Defender 90 2.4 122cv T.Diesel","2009","Diesel","4x4",189424
+"516","Land Rover","Defender 90 2.4 122cv T.Diesel","2010","Diesel","4x4",194766
+"517","Land Rover","Defender 90 2.4 122cv T.Diesel","2011","Diesel","4x4",262312
+"518","Dodge","Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.","2007","Diesel","4x4",130201
+"519","Dodge","Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.","2008","Diesel","4x4",134118
+"520","Dodge","Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.","2009","Diesel","4x4",139021
+"521","Dodge","Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.","2010","Diesel","4x4",145525
+"522","BMW","X5 Endurance 4.8is 4x4 V8 32V 355cv Aut.","2008","Gasolina","4x4",70950
+"523","BMW","X5 Endurance 4.8is 4x4 V8 32V 355cv Aut.","2009","Gasolina","4x4",78013
+"524","BMW","X5 Endurance 4.8is 4x4 V8 32V 355cv Aut.","2010","Gasolina","4x4",83136
+"525","Subaru","Impreza WRX 2.5 16V TB 4x4 5p","2007","Gasolina","4x4",46584
+"526","Subaru","Impreza WRX 2.5 16V TB 4x4 5p","2008","Gasolina","4x4",60920
+"527","Subaru","Impreza WRX 2.5 16V TB 4x4 5p","2009","Gasolina","4x4",72161
+"528","Subaru","Impreza WRX 2.5 16V TB 4x4 5p","2010","Gasolina","4x4",74489
+"529","Subaru","Impreza WRX 2.5 16V TB 4x4 5p","2011","Gasolina","4x4",90943
+"530","Subaru","Impreza WRX 2.5 16V TB 4x4 5p","2012","Gasolina","4x4",93876
+"531","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2008","Flex","4x4",48095
+"532","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2009","Flex","4x4",51867
+"533","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2010","Flex","4x4",56025
+"534","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2011","Flex","4x4",59249
+"535","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2012","Flex","4x4",82201
+"536","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2013","Flex","4x4",86587
+"537","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2014","Flex","4x4",92936
+"538","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2015","Flex","4x4",106479
+"539","Honda","CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.","2016","Flex","4x4",109482
+"540","Mitsubishi","Pajero TR4 GLS 2.0 Flex 16V 4x4 Mec.","2008","Flex","4x4",39507
+"541","Mitsubishi","Pajero TR4 GLS 2.0 Flex 16V 4x4 Mec.","2009","Flex","4x4",40622
+"542","Mitsubishi","Pajero TR4 GLS 2.0 Flex 16V 4x4 Mec.","2010","Flex","4x4",48016
+"543","Mitsubishi","Pajero TR4 GLS 2.0 Flex 16V 4x4 Mec.","2011","Flex","4x4",50100
+"544","Mitsubishi","Pajero TR4 GLS 2.0 Flex 16V 4x4 Mec.","2012","Flex","4x4",58141
+"545","Mercedes-Benz","ML-320 3.0 V6 224cv 4x4 diesel","2007","Gasolina","4x4",77760
+"546","Mercedes-Benz","ML-320 3.0 V6 224cv 4x4 diesel","2008","Gasolina","4x4",84956
+"547","Mercedes-Benz","ML-320 3.0 V6 224cv 4x4 diesel","2009","Gasolina","4x4",89447
+"548","Audi","Q7 3.6 V6 284cv Quattro Tiptronic","2008","Gasolina","AWD",68233
+"549","Audi","Q7 3.6 V6 284cv Quattro Tiptronic","2009","Gasolina","AWD",71710
+"550","Audi","Q7 3.6 V6 284cv Quattro Tiptronic","2010","Gasolina","AWD",102325
+"551","Subaru","Impreza WRX STI 2.5 16V TB 4x4","2008","Gasolina","4x4",94029
+"552","Subaru","Impreza WRX STI 2.5 16V TB 4x4","2009","Gasolina","4x4",100722
+"553","Subaru","Impreza WRX STI 2.5 16V TB 4x4","2010","Gasolina","4x4",103563
+"554","Subaru","Impreza WRX STI 2.5 16V TB 4x4","2011","Gasolina","4x4",131615
+"555","Subaru","Impreza WRX STI 2.5 16V TB 4x4","2012","Gasolina","4x4",135327
+"556","Subaru","Impreza WRX STI 2.5 16V TB 4x4","2013","Gasolina","4x4",153896
+"557","Subaru","Impreza WRX STI 2.5 16V TB 4x4","2014","Gasolina","4x4",161792
+"558","Audi","A4 3.2 FSI 24V 269cv Quattro Tiptronic","2009","Gasolina","AWD",64597
+"559","Audi","A4 3.2 FSI 24V 269cv Quattro Tiptronic","2010","Gasolina","AWD",70427
+"560","Audi","A4 3.2 FSI 24V 269cv Quattro Tiptronic","2011","Gasolina","AWD",82430
+"561","Audi","A4 3.2 FSI 24V 269cv Quattro Tiptronic","2012","Gasolina","AWD",94692
+"562","GM - Chevrolet","CAPTIVA SPORT AWD 3.6 V6 24V 261cv 4x4","2008","Gasolina","4x4",35524
+"563","GM - Chevrolet","CAPTIVA SPORT AWD 3.6 V6 24V 261cv 4x4","2009","Gasolina","4x4",38515
+"564","GM - Chevrolet","CAPTIVA SPORT AWD 3.6 V6 24V 261cv 4x4","2010","Gasolina","4x4",40336
+"565","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Aut.","2009","Diesel","4x4",81669
+"566","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Aut.","2010","Diesel","4x4",86338
+"567","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Aut.","2011","Diesel","4x4",90606
+"568","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Aut.","2012","Diesel","4x4",101041
+"569","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Aut.","2013","Diesel","4x4",103891
+"570","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Mec.","2009","Diesel","4x4",77590
+"571","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Mec.","2010","Diesel","4x4",81296
+"572","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Mec.","2011","Diesel","4x4",89482
+"573","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Mec.","2012","Diesel","4x4",93497
+"574","Nissan","Frontier LE CD 4x4 2.5 TB Diesel Mec.","2013","Diesel","4x4",101608
+"575","Nissan","Frontier SE/SE Strik CD 4x4 2.5 TB Dies.","2009","Diesel","4x4",80239
+"576","Nissan","Frontier SE/SE Strik CD 4x4 2.5 TB Dies.","2010","Diesel","4x4",82503
+"577","Nissan","Frontier SE/SE Strik CD 4x4 2.5 TB Dies.","2011","Diesel","4x4",88526
+"578","Nissan","Frontier SE/SE Strik CD 4x4 2.5 TB Dies.","2012","Diesel","4x4",91400
+"579","GREAT WALL","HOVER CUV 2.4 16V 4WD 5p Mec.","2007","Gasolina","4x4",35931
+"580","GREAT WALL","HOVER CUV 2.4 16V 4WD 5p Mec.","2008","Gasolina","4x4",39202
+"581","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2007","Diesel","4x4",77375
+"582","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2008","Diesel","4x4",88064
+"583","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2009","Diesel","4x4",99994
+"584","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2010","Diesel","4x4",109638
+"585","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2011","Diesel","4x4",119693
+"586","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2012","Diesel","4x4",130734
+"587","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2013","Diesel","4x4",143854
+"588","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2014","Diesel","4x4",164077
+"589","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2015","Diesel","4x4",189046
+"590","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2016","Diesel","4x4",201817
+"591","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2017","Diesel","4x4",233432
+"592","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2018","Diesel","4x4",250020
+"593","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2019","Diesel","4x4",287681
+"594","Mitsubishi","Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut","2020","Diesel","4x4",340197
+"595","Ford","EDGE SEL 3.5 V6 24V AWD Aut.","2009","Gasolina","AWD",47246
+"596","Ford","EDGE SEL 3.5 V6 24V AWD Aut.","2010","Gasolina","AWD",53448
+"597","Ford","EDGE SEL 3.5 V6 24V AWD Aut.","2011","Gasolina","AWD",57911
+"598","Ford","EDGE SEL 3.5 V6 24V AWD Aut.","2012","Gasolina","AWD",65038
+"599","Land Rover","Defender 110 SVX Lim.Edit. 2.4 T.Diesel","2009","Diesel","4x4",217245
+"600","Land Rover","Defender 90 SVX Lim.Edit. 2.4 T.Diesel","2009","Diesel","4x4",202811
+"601","Volvo","XC 60 3.0 AWD 5p","2009","Gasolina","AWD",51157
+"602","Volvo","XC 60 3.0 AWD 5p","2010","Gasolina","AWD",57505
+"603","Volvo","XC 60 3.0 AWD 5p","2011","Gasolina","AWD",60947
+"604","Volvo","XC 60 3.0 AWD 5p","2012","Gasolina","AWD",82225
+"605","Volvo","XC 60 3.0 AWD 5p","2013","Gasolina","AWD",88920
+"606","Volvo","XC 60 3.0 AWD 5p","2014","Gasolina","AWD",108991
+"607","Volvo","XC 60 3.0 AWD 5p","2015","Gasolina","AWD",147063
+"608","Mercedes-Benz","GLK 280 3.0 V6 24V 4x4 231cv Aut.","2009","Gasolina","4x4",68208
+"609","Ford","Ranger XLS 3.0 PSE Storm 4x4 CD TB Dies.","2009","Diesel","4x4",54924
+"610","Kia Motors","MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.","2009","Gasolina","4x4",50014
+"611","Kia Motors","MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.","2010","Gasolina","4x4",51426
+"612","Kia Motors","MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.","2011","Gasolina","4x4",60121
+"613","Kia Motors","MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.","2012","Gasolina","4x4",68749
+"614","Kia Motors","MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.","2013","Gasolina","4x4",89215
+"615","Suzuki","Grand Vitara 3.2 24V 4WD 5p Aut.","2009","Gasolina","4x4",51002
+"616","Suzuki","Grand Vitara 3.2 24V 4WD 5p Aut.","2010","Gasolina","4x4",56481
+"617","Suzuki","Grand Vitara 3.2 24V 4WD 5p Aut.","2011","Gasolina","4x4",58074
+"618","Toyota","Hilux SW4 SRV 4x4 4.0 V6 24V Aut.","2009","Gasolina","4x4",86125
+"619","Toyota","Hilux SW4 SRV 4x4 4.0 V6 24V Aut.","2010","Gasolina","4x4",90999
+"620","Toyota","Hilux SW4 SRV 4x4 4.0 V6 24V Aut.","2011","Gasolina","4x4",101696
+"621","Toyota","Hilux SW4 SRV 4x4 4.0 V6 24V Aut.","2012","Gasolina","4x4",137466
+"622","Toyota","Hilux SW4 SRV 4x4 4.0 V6 24V Aut.","2013","Gasolina","4x4",143692
+"623","Ford","Fusion SEL 3.0 V6 AWD 24V 243cv Aut.","2010","Gasolina","AWD",41602
+"624","Ford","Fusion SEL 3.0 V6 AWD 24V 243cv Aut.","2011","Gasolina","AWD",44125
+"625","Ford","Fusion SEL 3.0 V6 AWD 24V 243cv Aut.","2012","Gasolina","AWD",49163
+"626","Audi","A4 3.2 FSI Avant 24V Quattro S Tronic","2009","Gasolina","AWD",67400
+"627","Audi","A4 3.2 FSI Avant 24V Quattro S Tronic","2010","Gasolina","AWD",82956
+"628","Audi","A4 3.2 FSI Avant 24V Quattro S Tronic","2011","Gasolina","AWD",94724
+"629","Audi","A4 3.2 FSI Avant 24V Quattro S Tronic","2012","Gasolina","AWD",101409
+"630","Audi","Q5 2.0 16V TFSI Quattro S Tronic","2009","Gasolina","AWD",71296
+"631","Audi","Q5 2.0 16V TFSI Quattro S Tronic","2010","Gasolina","AWD",76486
+"632","Audi","Q5 2.0 16V TFSI Quattro S Tronic","2011","Gasolina","AWD",78643
+"633","Audi","Q5 2.0 16V TFSI Quattro S Tronic","2012","Gasolina","AWD",84725
+"634","Audi","Q5 2.0 16V TFSI Quattro S Tronic","2013","Gasolina","AWD",101153
+"635","Audi","A6 3.0 TB FSI V6 Quattro Tiptronic","2009","Gasolina","AWD",71117
+"636","Audi","A6 3.0 TB FSI V6 Quattro Tiptronic","2010","Gasolina","AWD",74812
+"637","Audi","A6 3.0 TB FSI V6 Quattro Tiptronic","2011","Gasolina","AWD",103745
+"638","Audi","A6 3.0 TB FSI V6 Quattro Tiptronic","2012","Gasolina","AWD",124484
+"639","Audi","Q5 3.2 FSI V6 Quattro S Tronic","2009","Gasolina","AWD",75816
+"640","Audi","Q5 3.2 FSI V6 Quattro S Tronic","2010","Gasolina","AWD",86934
+"641","Audi","Q5 3.2 FSI V6 Quattro S Tronic","2011","Gasolina","AWD",89387
+"642","Audi","Q5 3.2 FSI V6 Quattro S Tronic","2012","Gasolina","AWD",97181
+"643","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.","2009","Diesel","4x4",99345
+"644","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.","2010","Diesel","4x4",102147
+"645","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.","2011","Diesel","4x4",107330
+"646","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.","2012","Diesel","4x4",110828
+"647","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.","2013","Diesel","4x4",119812
+"648","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.","2014","Diesel","4x4",138698
+"649","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.","2015","Diesel","4x4",145084
+"650","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.","2009","Diesel","4x4",81232
+"651","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.","2010","Diesel","4x4",91775
+"652","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.","2011","Diesel","4x4",95078
+"653","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.","2012","Diesel","4x4",97760
+"654","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.","2013","Diesel","4x4",105401
+"655","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.","2014","Diesel","4x4",108374
+"656","Mitsubishi","Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.","2015","Diesel","4x4",138176
+"657","Mitsubishi","Pajero Sport 3.5 V6 Flex 4x4 Aut.","2010","Flex","4x4",51740
+"658","Mitsubishi","Pajero Sport 3.5 V6 Flex 4x4 Aut.","2011","Flex","4x4",56898
+"659","Kia Motors","MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut.","2009","Gasolina","4x4",54669
+"660","Kia Motors","MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut.","2010","Gasolina","4x4",68890
+"661","Kia Motors","MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut.","2011","Gasolina","4x4",73654
+"662","Kia Motors","MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut.","2012","Gasolina","4x4",88711
+"663","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2008","Gasolina","4x4",26708
+"664","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2009","Gasolina","4x4",27872
+"665","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2010","Gasolina","4x4",32726
+"666","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2011","Gasolina","4x4",38142
+"667","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2012","Gasolina","4x4",39836
+"668","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2013","Gasolina","4x4",46659
+"669","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2014","Gasolina","4x4",51561
+"670","Suzuki","SX4 2.0 16V 145cv 4WD 5p Aut.","2015","Gasolina","4x4",56734
+"671","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2008","Gasolina","4x4",25696
+"672","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2009","Gasolina","4x4",26519
+"673","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2010","Gasolina","4x4",32435
+"674","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2011","Gasolina","4x4",33351
+"675","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2012","Gasolina","4x4",37250
+"676","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2013","Gasolina","4x4",44503
+"677","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2014","Gasolina","4x4",45759
+"678","Suzuki","SX4 2.0 16V 145cv 4WD 5p Mec.","2015","Gasolina","4x4",49883
+"679","BMW","X5 Security 4.8is 4x4 V8 32V 355cv Aut.","2009","Gasolina","4x4",169977
+"680","BMW","X5 Security 4.8is 4x4 V8 32V 355cv Aut.","2010","Gasolina","4x4",186245
+"681","Mercedes-Benz","ML-350 3.0 V6  4x4 Diesel","2010","Diesel","4x4",99805
+"682","Mercedes-Benz","ML-350 3.0 V6  4x4 Diesel","2011","Diesel","4x4",110147
+"683","Mercedes-Benz","ML-350 3.0 V6  4x4 Diesel","2012","Diesel","4x4",154420
+"684","Mercedes-Benz","ML-350 3.0 V6  4x4 Diesel","2013","Diesel","4x4",161580
+"685","Mercedes-Benz","ML-350 3.0 V6  4x4 Diesel","2014","Diesel","4x4",170341
+"686","Mercedes-Benz","ML-350 3.0 V6  4x4 Diesel","2015","Diesel","4x4",185580
+"687","Land Rover","Defender 110 LE FIRE & ICE 2.4 T. Diesel","2010","Diesel","4x4",310443
+"688","Land Rover","Defender 90 LE FIRE & ICE 2.4 T. Diesel","2010","Diesel","4x4",207165
+"689","Land Rover","Discovery4 SE 2.7 4x4 TDV6 Diesel Aut.","2010","Diesel","4x4",88514
+"690","Audi","A5 3.2 FSI V6 24V 269cv Quattro Tiptroni","2010","Gasolina","AWD",93358
+"691","Audi","A5 3.2 FSI V6 24V 269cv Quattro Tiptroni","2011","Gasolina","AWD",96370
+"692","Audi","S3 Sportback 2.0 TFSI Quattro S Tronic","2010","Gasolina","AWD",97609
+"693","Audi","S3 Sportback 2.0 TFSI Quattro S Tronic","2011","Gasolina","AWD",107742
+"694","Audi","S3 Sportback 2.0 TFSI Quattro S Tronic","2012","Gasolina","AWD",116237
+"695","Audi","S3 Sportback 2.0 TFSI Quattro S Tronic","2013","Gasolina","AWD",119986
+"696","Audi","S3 Sportback 2.0 TFSI Quattro S Tronic","2014","Gasolina","AWD",180330
+"697","Audi","S3 Sportback 2.0 TFSI Quattro S Tronic","2015","Gasolina","AWD",189512
+"698","Audi","S3 Sportback 2.0 TFSI Quattro S Tronic","2016","Gasolina","AWD",198538
+"699","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2010","Gasolina","AWD",168599
+"700","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2011","Gasolina","AWD",176916
+"701","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2012","Gasolina","AWD",181905
+"702","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2013","Gasolina","AWD",190401
+"703","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2014","Gasolina","AWD",197860
+"704","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2016","Gasolina","AWD",280293
+"705","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2017","Gasolina","AWD",339900
+"706","Audi","TTS 2.0 TFSI QUATTRO S Tronic","2018","Gasolina","AWD",361758
+"707","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2010","Gasolina","AWD",168946
+"708","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2011","Gasolina","AWD",180844
+"709","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2012","Gasolina","AWD",187319
+"710","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2013","Gasolina","AWD",193188
+"711","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2014","Gasolina","AWD",203323
+"712","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2016","Gasolina","AWD",292966
+"713","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2017","Gasolina","AWD",349132
+"714","Audi","TTS Roadster 2.0 TB FSI Quattro S Tronic","2018","Gasolina","AWD",386003
+"715","Land Rover","Discovery4 S 2.7 4x4 TDV6 Diesel Aut.","2010","Diesel","4x4",89490
+"716","Land Rover","Discovery4 S 2.7 4x4 TDV6 Diesel Aut.","2011","Diesel","4x4",103958
+"717","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2010","Diesel","4x4",97480
+"718","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2011","Diesel","4x4",116130
+"719","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2012","Diesel","4x4",119405
+"720","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2013","Diesel","4x4",149055
+"721","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2014","Diesel","4x4",257308
+"722","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2015","Diesel","4x4",297709
+"723","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2016","Diesel","4x4",334124
+"724","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2017","Diesel","4x4",385487
+"725","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2018","Diesel","4x4",525579
+"726","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2019","Diesel","4x4",569395
+"727","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2020","Diesel","4x4",629954
+"728","Land Rover","Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.","2021","Diesel","4x4",648765
+"729","Mercedes-Benz","GLK 300 3.0 V6 24V 4x4 231cv Aut.","2010","Gasolina","4x4",76508
+"730","Mercedes-Benz","GLK 300 3.0 V6 24V 4x4 231cv Aut.","2011","Gasolina","4x4",82519
+"731","Mercedes-Benz","GLK 300 3.0 V6 24V 4x4 231cv Aut.","2012","Gasolina","4x4",89918
+"732","Mercedes-Benz","GLK 300 3.0 V6 24V 4x4 231cv Aut.","2013","Gasolina","4x4",100819
+"733","Nissan","Frontier XE  CD 4x4 2.5 TB Diesel","2009","Diesel","4x4",69148
+"734","Nissan","Frontier XE  CD 4x4 2.5 TB Diesel","2010","Diesel","4x4",78296
+"735","Nissan","Frontier XE  CD 4x4 2.5 TB Diesel","2011","Diesel","4x4",80505
+"736","Nissan","Frontier XE  CD 4x4 2.5 TB Diesel","2012","Diesel","4x4",85745
+"737","Nissan","Frontier XE  CD 4x4 2.5 TB Diesel","2013","Diesel","4x4",91466
+"738","Land Rover","Discovery4 HSE 2.7 4x4 TDV6 Diesel Aut.","2010","Diesel","4x4",92641
+"739","Land Rover","Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut","2010","Diesel","4x4",109705
+"740","Land Rover","Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut","2011","Diesel","4x4",121528
+"741","Land Rover","Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut","2012","Diesel","4x4",134293
+"742","Land Rover","Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut","2013","Diesel","4x4",162733
+"743","Land Rover","Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut","2014","Diesel","4x4",183660
+"744","Land Rover","Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut","2015","Diesel","4x4",224413
+"745","Land Rover","Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut","2016","Diesel","4x4",258223
+"746","Land Rover","Discovery4 HSE 5.0 4x4 Aut.","2010","Gasolina","4x4",79750
+"747","Land Rover","Discovery4 HSE 5.0 4x4 Aut.","2011","Gasolina","4x4",92158
+"748","Land Rover","Discovery4 HSE 5.0 4x4 Aut.","2012","Gasolina","4x4",127859
+"749","Land Rover","Discovery4 HSE 5.0 4x4 Aut.","2013","Gasolina","4x4",160450
+"750","Land Rover","Discovery4 SE 3.0 4x4 TDV6/SDV6 Die.Aut.","2010","Diesel","4x4",99983
+"751","Land Rover","Discovery4 SE 3.0 4x4 TDV6/SDV6 Die.Aut.","2011","Diesel","4x4",105709
+"752","Land Rover","Discovery4 SE 3.0 4x4 TDV6/SDV6 Die.Aut.","2012","Diesel","4x4",120715
+"753","Land Rover","Discovery4 SE 3.0 4x4 TDV6/SDV6 Die.Aut.","2013","Diesel","4x4",140891
+"754","Land Rover","Discovery4 SE 3.0 4x4 TDV6/SDV6 Die.Aut.","2014","Diesel","4x4",173953
+"755","Land Rover","Discovery4 SE 3.0 4x4 TDV6/SDV6 Die.Aut.","2015","Diesel","4x4",198328
+"756","Land Rover","Discovery4 SE 3.0 4x4 TDV6/SDV6 Die.Aut.","2016","Diesel","4x4",243527
+"757","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2010","Diesel","4x4",112732
+"758","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2011","Diesel","4x4",128291
+"759","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2012","Diesel","4x4",142750
+"760","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2013","Diesel","4x4",153979
+"761","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2014","Diesel","4x4",257505
+"762","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2015","Diesel","4x4",316833
+"763","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2016","Diesel","4x4",336696
+"764","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2017","Diesel","4x4",398163
+"765","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2018","Diesel","4x4",549995
+"766","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2019","Diesel","4x4",583199
+"767","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2020","Diesel","4x4",650020
+"768","Land Rover","Range Rover Sport HSE 3.0 4x4 SDV6 Dies.","2021","Diesel","4x4",671894
+"769","BMW","X1 XDRIVE 28i 3.0 24V 4x4 Aut.","2010","Gasolina","4x4",73601
+"770","BMW","X1 XDRIVE 28i 3.0 24V 4x4 Aut.","2011","Gasolina","4x4",77811
+"771","BMW","X1 XDRIVE 28i 3.0 24V 4x4 Aut.","2012","Gasolina","4x4",83121
+"772","Audi","S6 5.2 Avant FSI V10 435cv Quattro Tiptr","2010","Gasolina","AWD",206501
+"773","Audi","S6 5.2 Avant FSI V10 435cv Quattro Tiptr","2011","Gasolina","AWD",212325
+"774","Audi","S6 5.2 FSI V10 435cv Quattro Tiptronic","2010","Gasolina","AWD",168366
+"775","Audi","S6 5.2 FSI V10 435cv Quattro Tiptronic","2011","Gasolina","AWD",208393
+"776","BMW","X5 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2010","Gasolina","4x4",142240
+"777","BMW","X5 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2011","Gasolina","4x4",148541
+"778","BMW","X5 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2012","Gasolina","4x4",185055
+"779","BMW","X5 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2017","Gasolina","4x4",447989
+"780","BMW","X5 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2018","Gasolina","4x4",460621
+"781","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2010","Gasolina","4x4",146926
+"782","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2011","Gasolina","4x4",155425
+"783","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2012","Gasolina","4x4",169215
+"784","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2013","Gasolina","4x4",202017
+"785","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2014","Gasolina","4x4",225146
+"786","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2015","Gasolina","4x4",315183
+"787","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2016","Gasolina","4x4",380963
+"788","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2017","Gasolina","4x4",440273
+"789","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2018","Gasolina","4x4",533883
+"790","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2019","Gasolina","4x4",619950
+"791","BMW","X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.","2021","Gasolina","4x4",1043199
+"792","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2010","Diesel","4x4",76918
+"793","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2011","Diesel","4x4",80895
+"794","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2012","Diesel","4x4",83504
+"795","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2013","Diesel","4x4",86209
+"796","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2014","Diesel","4x4",89262
+"797","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2017","Diesel","4x4",94381
+"798","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2018","Diesel","4x4",99648
+"799","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2019","Diesel","4x4",108527
+"800","TAC","Stark 2.3 4WD 127cv TDI Diesel 3p","2020","Diesel","4x4",112218
+"801","Hyundai","Santa Fe GLS 3.5 V6 4x4 Tiptronic","2010","Gasolina","4x4",47511
+"802","Hyundai","Santa Fe GLS 3.5 V6 4x4 Tiptronic","2011","Gasolina","4x4",54495
+"803","Hyundai","Santa Fe GLS 3.5 V6 4x4 Tiptronic","2012","Gasolina","4x4",56997
+"804","Hyundai","Santa Fe GLS 3.5 V6 4x4 Tiptronic","2013","Gasolina","4x4",73341
+"805","Audi","R8 4.2 V8 426cv Quattro R-tronic","2008","Gasolina","AWD",401827
+"806","Audi","R8 4.2 V8 426cv Quattro R-tronic","2009","Gasolina","AWD",413158
+"807","Audi","R8 4.2 V8 426cv Quattro R-tronic","2010","Gasolina","AWD",430327
+"808","Audi","R8 4.2 V8 426cv Quattro R-tronic","2011","Gasolina","AWD",445116
+"809","Audi","R8 4.2 V8 426cv Quattro R-tronic","2012","Gasolina","AWD",525142
+"810","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2010","Gasolina","AWD",522331
+"811","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2011","Gasolina","AWD",553181
+"812","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2012","Gasolina","AWD",655838
+"813","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2014","Gasolina","AWD",775000
+"814","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2015","Gasolina","AWD",880447
+"815","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2017","Gasolina","AWD",1150388
+"816","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2018","Gasolina","AWD",1325346
+"817","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2021","Gasolina","AWD",1582365
+"818","Audi","R8 5.2 V10 Quattro R-tronic/S-tronic","2022","Gasolina","AWD",1624500
+"819","Jeep","Cherokee Limited 3.7 4x4 V6 12V Aut.","2009","Gasolina","4x4",47862
+"820","Jeep","Cherokee Limited 3.7 4x4 V6 12V Aut.","2010","Gasolina","4x4",63149
+"821","Jeep","Cherokee Limited 3.7 4x4 V6 12V Aut.","2011","Gasolina","4x4",70011
+"822","Jeep","Cherokee Limited 3.7 4x4 V6 12V Aut.","2012","Gasolina","4x4",71986
+"823","Kia Motors","Sorento 2.4 16V 4x4 Aut.","2011","Gasolina","4x4",59095
+"824","Kia Motors","Sorento 2.4 16V 4x4 Aut.","2012","Gasolina","4x4",60883
+"825","Kia Motors","Sorento 2.4 16V 4x4 Aut.","2018","Gasolina","4x4",167424
+"826","Kia Motors","Sorento 2.4 16V 4x4 Aut.","2019","Gasolina","4x4",184328
+"827","Kia Motors","Sorento 2.4 16V 4x4 Aut.","2020","Gasolina","4x4",211238
+"828","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2010","Gasolina","4x4",55046
+"829","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2011","Gasolina","4x4",65326
+"830","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2012","Gasolina","4x4",70038
+"831","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2013","Gasolina","4x4",79518
+"832","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2014","Gasolina","4x4",99455
+"833","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2015","Gasolina","4x4",103505
+"834","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2018","Gasolina","4x4",191998
+"835","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2019","Gasolina","4x4",202874
+"836","Kia Motors","Sorento 3.5 V6 24V 4x4 Aut.","2020","Gasolina","4x4",262034
+"837","VW - VolksWagen","AMAROK Highline CD 2.0 16V TDI 4x4 Dies.","2011","Diesel","4x4",88244
+"838","VW - VolksWagen","AMAROK Highline CD 2.0 16V TDI 4x4 Dies.","2012","Diesel","4x4",98847
+"839","VW - VolksWagen","AMAROK Highline CD 2.0 16V TDI 4x4 Dies.","2013","Diesel","4x4",104985
+"840","VW - VolksWagen","AMAROK Highline CD 2.0 16V TDI 4x4 Dies.","2014","Diesel","4x4",129357
+"841","Hyundai","ix35 2.0 16V 170cv 2WD/4WD Mec.","2010","Gasolina","4x4",50968
+"842","Hyundai","ix35 2.0 16V 170cv 2WD/4WD Mec.","2011","Gasolina","4x4",57065
+"843","Hyundai","ix35 2.0 16V 170cv 2WD/4WD Mec.","2012","Gasolina","4x4",67766
+"844","Hyundai","ix35 2.0 16V 170cv 2WD/4WD Aut.","2010","Gasolina","4x4",53838
+"845","Hyundai","ix35 2.0 16V 170cv 2WD/4WD Aut.","2011","Gasolina","4x4",60535
+"846","Hyundai","ix35 2.0 16V 170cv 2WD/4WD Aut.","2012","Gasolina","4x4",67912
+"847","Hyundai","ix35 2.0 16V 170cv 2WD/4WD Aut.","2013","Gasolina","4x4",70785
+"848","Jeep","Wrangler Unlimited Sport 3.8 V6 199cv","2009","Gasolina","4x4",143120
+"849","Jeep","Wrangler Unlimited Sport 3.8 V6 199cv","2010","Gasolina","4x4",147156
+"850","Jeep","Wrangler Unlimited Sport 3.8 V6 199cv","2011","Gasolina","4x4",174958
+"851","Audi","RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.","2010","Gasolina","AWD",384338
+"852","Audi","RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.","2011","Gasolina","AWD",395176
+"853","Audi","RS6 5.0 FSI V10 Bi-TB Quattro Tip.","2010","Gasolina","AWD",325815
+"854","Audi","RS6 5.0 FSI V10 Bi-TB Quattro Tip.","2011","Gasolina","AWD",353389
+"855","VW - VolksWagen","AMAROK Trendline CD 2.0 16V TDI 4x4 Dies","2011","Diesel","4x4",86454
+"856","VW - VolksWagen","AMAROK Trendline CD 2.0 16V TDI 4x4 Dies","2012","Diesel","4x4",88931
+"857","VW - VolksWagen","AMAROK Trendline CD 2.0 16V TDI 4x4 Dies","2013","Diesel","4x4",99879
+"858","VW - VolksWagen","AMAROK Trendline CD 2.0 16V TDI 4x4 Dies","2014","Diesel","4x4",108510
+"859","VW - VolksWagen","AMAROK Trendline CD 2.0 16V TDI 4x4 Dies","2015","Diesel","4x4",111571
+"860","VW - VolksWagen","AMAROK Trendline CD 2.0 16V TDI 4x4 Dies","2016","Diesel","4x4",119687
+"861","VW - VolksWagen","AMAROK Trendline CD 2.0 16V TDI 4x4 Dies","2017","Diesel","4x4",152650
+"862","Ford","Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies.","2009","Diesel","4x4",70950
+"863","Ford","Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies.","2010","Diesel","4x4",77779
+"864","Ford","Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies.","2011","Diesel","4x4",84475
+"865","GM - Chevrolet","S10 Pick-Up RODEIO 2.8 TDI 4x4 CD Dies.","2011","Diesel","4x4",84673
+"866","Audi","A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p","2009","Gasolina","AWD",99685
+"867","Audi","A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p","2010","Gasolina","AWD",102874
+"868","Audi","A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p","2011","Gasolina","AWD",130938
+"869","Audi","A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p","2012","Gasolina","AWD",135161
+"870","Mitsubishi","Lancer Evolution X 2.0 16V 295cv TB Int.","2010","Gasolina","AWD",132865
+"871","Mitsubishi","Lancer Evolution X 2.0 16V 295cv TB Int.","2011","Gasolina","AWD",137151
+"872","Mitsubishi","Lancer Evolution X 2.0 16V 295cv TB Int.","2012","Gasolina","AWD",158458
+"873","Mitsubishi","Lancer Evolution X 2.0 16V 295cv TB Int.","2013","Gasolina","AWD",163569
+"874","Mitsubishi","Lancer Evolution X 2.0 16V 295cv TB Int.","2014","Gasolina","AWD",168149
+"875","Mitsubishi","Lancer Evolution X 2.0 16V 295cv TB Int.","2015","Gasolina","AWD",172858
+"876","Audi","RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p","2011","Gasolina","AWD",181197
+"877","Audi","RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p","2012","Gasolina","AWD",215805
+"878","Audi","RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p","2013","Gasolina","AWD",284566
+"879","Audi","RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p","2014","Gasolina","AWD",308642
+"880","Audi","RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p","2015","Gasolina","AWD",344333
+"881","Ford","EDGE LIMITED 3.5 V6 24V AWD Aut.","2009","Gasolina","AWD",47990
+"882","Ford","EDGE LIMITED 3.5 V6 24V AWD Aut.","2010","Gasolina","AWD",56436
+"883","Ford","EDGE LIMITED 3.5 V6 24V AWD Aut.","2011","Gasolina","AWD",62160
+"884","Ford","EDGE LIMITED 3.5 V6 24V AWD Aut.","2012","Gasolina","AWD",71164
+"885","Ford","EDGE LIMITED 3.5 V6 24V AWD Aut.","2013","Gasolina","AWD",75945
+"886","Ford","EDGE LIMITED 3.5 V6 24V AWD Aut.","2014","Gasolina","AWD",84375
+"887","Ford","EDGE LIMITED 3.5 V6 24V AWD Aut.","2015","Gasolina","AWD",108023
+"888","Mitsubishi","ASX 2.0 16V 4x4 160cv Aut.","2011","Gasolina","4x4",57572
+"889","Mitsubishi","ASX 2.0 16V 4x4 160cv Aut.","2012","Gasolina","4x4",62085
+"890","Mitsubishi","ASX 2.0 16V 4x4 160cv Aut.","2013","Gasolina","4x4",70303
+"891","Mitsubishi","ASX 2.0 16V 4x4 160cv Aut.","2014","Gasolina","4x4",73837
+"892","Mitsubishi","ASX 2.0 16V 4x4 160cv Aut.","2015","Gasolina","4x4",79224
+"893","Mitsubishi","ASX 2.0 16V 4x4 160cv Aut.","2016","Gasolina","4x4",85659
+"894","Mitsubishi","ASX 2.0 16V 4x4 160cv Aut.","2017","Gasolina","4x4",96695
+"895","Jeep","Grand Cherokee Laredo 3.6 4x4 V6 Aut.","2011","Gasolina","4x4",70344
+"896","Jeep","Grand Cherokee Laredo 3.6 4x4 V6 Aut.","2012","Gasolina","4x4",73824
+"897","Jeep","Grand Cherokee Laredo 3.6 4x4 V6 Aut.","2014","Gasolina","4x4",110286
+"898","Jeep","Grand Cherokee Laredo 3.6 4x4 V6 Aut.","2015","Gasolina","4x4",123571
+"899","Jeep","Grand Cherokee Limited 3.6 4x4 V6 Aut.","2011","Gasolina","4x4",73576
+"900","Jeep","Grand Cherokee Limited 3.6 4x4 V6 Aut.","2012","Gasolina","4x4",78922
+"901","Jeep","Grand Cherokee Limited 3.6 4x4 V6 Aut.","2014","Gasolina","4x4",121647
+"902","Jeep","Grand Cherokee Limited 3.6 4x4 V6 Aut.","2015","Gasolina","4x4",137078
+"903","Jeep","Grand Cherokee Limited 3.6 4x4 V6 Aut.","2016","Gasolina","4x4",202451
+"904","Jeep","Grand Cherokee Limited 3.6 4x4 V6 Aut.","2017","Gasolina","4x4",223226
+"905","Jeep","Grand Cherokee Limited 3.6 4x4 V6 Aut.","2018","Gasolina","4x4",230683
+"906","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2011","Gasolina","4x4",142236
+"907","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2012","Gasolina","4x4",146248
+"908","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2013","Gasolina","4x4",150343
+"909","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2014","Gasolina","4x4",154553
+"910","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2015","Gasolina","4x4",170048
+"911","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2016","Gasolina","4x4",227857
+"912","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2018","Gasolina","4x4",234185
+"913","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2019","Gasolina","4x4",265515
+"914","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2020","Gasolina","4x4",273003
+"915","Subaru","Impreza SD WRX STI 2.5 16V TB 4x4","2021","Gasolina","4x4",291732
+"916","Volvo","XC 60 R-DESIGN 3.0 304cv AWD 5p","2011","Gasolina","AWD",62529
+"917","Volvo","XC 60 R-DESIGN 3.0 304cv AWD 5p","2012","Gasolina","AWD",82463
+"918","Volvo","XC 60 R-DESIGN 3.0 304cv AWD 5p","2013","Gasolina","AWD",105195
+"919","Volvo","XC 60 R-DESIGN 3.0 304cv AWD 5p","2014","Gasolina","AWD",121154
+"920","Volvo","XC 60 R-DESIGN 3.0 304cv AWD 5p","2015","Gasolina","AWD",147189
+"921","GM - Chevrolet","CAPTIVA SPORT AWD 3.0 V6 24V 268cv","2011","Gasolina","AWD",46846
+"922","GM - Chevrolet","CAPTIVA SPORT AWD 3.0 V6 24V 268cv","2012","Gasolina","AWD",50144
+"923","GM - Chevrolet","CAPTIVA SPORT AWD 3.0 V6 24V 268cv","2013","Gasolina","AWD",56836
+"924","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2011","Diesel","4x4",86334
+"925","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2012","Diesel","4x4",88753
+"926","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2013","Diesel","4x4",90983
+"927","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2014","Diesel","4x4",97340
+"928","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2015","Diesel","4x4",101781
+"929","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2016","Diesel","4x4",112920
+"930","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2017","Diesel","4x4",123197
+"931","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2018","Diesel","4x4",130056
+"932","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2019","Diesel","4x4",142752
+"933","VW - VolksWagen","AMAROK SE CD 2.0 16V TDI 4x4 Diesel","2020","Diesel","4x4",166424
+"934","Volvo","S60 T-6 3.0 304cv AWD 4p","2011","Gasolina","AWD",64489
+"935","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2011","Gasolina","AWD",142590
+"936","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2012","Gasolina","AWD",148416
+"937","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2013","Gasolina","AWD",164054
+"938","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2014","Gasolina","AWD",179990
+"939","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2015","Gasolina","AWD",214924
+"940","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2016","Gasolina","AWD",253417
+"941","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2017","Gasolina","AWD",290540
+"942","Audi","A7 Sportback 3.0 TFSI Quattro S Tronic","2018","Gasolina","AWD",298733
+"943","Audi","R8 Spyder 5.2 Quattro R-tronic/S-tronic","2010","Gasolina","AWD",558587
+"944","Audi","R8 Spyder 5.2 Quattro R-tronic/S-tronic","2011","Gasolina","AWD",610507
+"945","Audi","R8 Spyder 5.2 Quattro R-tronic/S-tronic","2012","Gasolina","AWD",686025
+"946","Audi","R8 Spyder 5.2 Quattro R-tronic/S-tronic","2013","Gasolina","AWD",705369
+"947","Audi","R8 Spyder 5.2 Quattro R-tronic/S-tronic","2014","Gasolina","AWD",830039
+"948","Audi","R8 Spyder 5.2 Quattro R-tronic/S-tronic","2015","Gasolina","AWD",945689
+"949","Audi","R8 Spyder 5.2 Quattro R-tronic/S-tronic","2016","Gasolina","AWD",972355
+"950","Land Rover","Defender 110 RAW 2.4 122cv T. Diesel","2011","Diesel","4x4",277654
+"951","Land Rover","Defender 90 RAW 2.4 122cv T.Diesel","2011","Diesel","4x4",217174
+"952","Mitsubishi","L200 Triton XB 3.2 CD TB Int.Diesel Mec.","2012","Diesel","4x4",91353
+"953","Mitsubishi","Pajero DAKAR/HPE 3.5 4x4 Flex 5p Aut.","2011","Flex","4x4",69434
+"954","Mitsubishi","Pajero DAKAR/HPE 3.5 4x4 Flex 5p Aut.","2012","Flex","4x4",77695
+"955","Mitsubishi","Pajero DAKAR/HPE 3.5 4x4 Flex 5p Aut.","2013","Flex","4x4",89068
+"956","Mitsubishi","Pajero DAKAR/HPE 3.5 4x4 Flex 5p Aut.","2014","Flex","4x4",98274
+"957","Mitsubishi","Pajero DAKAR/HPE 3.5 4x4 Flex 5p Aut.","2015","Flex","4x4",110933
+"958","Mitsubishi","Pajero DAKAR/HPE 3.5 4x4 Flex 5p Aut.","2016","Flex","4x4",119151
+"959","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2011","Diesel","4x4",86147
+"960","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2012","Diesel","4x4",90254
+"961","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2013","Diesel","4x4",93032
+"962","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2014","Diesel","4x4",96661
+"963","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2015","Diesel","4x4",102100
+"964","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2016","Diesel","4x4",112772
+"965","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2017","Diesel","4x4",121245
+"966","VW - VolksWagen","AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die","2018","Diesel","4x4",129565
+"967","Land Rover","Discovery4 B&W 3.0 4x4 TDV6 Diesel Aut.","2011","Diesel","4x4",117926
+"968","Nissan","Frontier LE ATTACK CD 4x4 2.5 TB Die.Aut","2012","Diesel","4x4",94690
+"969","Nissan","Frontier LE ATTACK CD 4x4 2.5 TB Die.Aut","2013","Diesel","4x4",108738
+"970","Nissan","Frontier SE ATTACK CD 4x4 2.5 TB Diesel","2012","Diesel","4x4",92900
+"971","Nissan","Frontier SE ATTACK CD 4x4 2.5 TB Diesel","2013","Diesel","4x4",98873
+"972","SSANGYONG","Korando 2.0 16V T.Diesel AWD Aut.","2011","Diesel","AWD",53365
+"973","SSANGYONG","Korando 2.0 16V T.Diesel AWD Aut.","2012","Diesel","AWD",57898
+"974","SSANGYONG","Korando 2.0 16V T.Diesel AWD Aut.","2015","Diesel","AWD",90167
+"975","SSANGYONG","Korando 2.0 16V T.Diesel AWD Mec.","2011","Diesel","AWD",45633
+"976","Subaru","Forester XT S-EDITION 2.5 16V 4x4 TB Aut","2011","Gasolina","4x4",80766
+"977","Subaru","Forester XT S-EDITION 2.5 16V 4x4 TB Aut","2012","Gasolina","4x4",102638
+"978","Troller","T-4 DESERT STORM 4x4 3.0 TB Int Diesel","2011","Diesel","4x4",102959
+"979","Troller","T-4 DESERT STORM 4x4 3.0 TB Int Diesel","2012","Diesel","4x4",107640
+"980","Volvo","S60 T-6 R-DESIGN 3.0 AWD 4p","2012","Gasolina","AWD",83099
+"981","Volvo","S60 T-6 R-DESIGN 3.0 AWD 4p","2013","Gasolina","AWD",88730
+"982","Volvo","S60 T-6 R-DESIGN 3.0 AWD 4p","2014","Gasolina","AWD",108198
+"983","Volvo","S60 T-6 R-DESIGN 3.0 AWD 4p","2015","Gasolina","AWD",124996
+"984","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2012","Flex","4x4",47119
+"985","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2013","Flex","4x4",49159
+"986","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2014","Flex","4x4",54441
+"987","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2015","Flex","4x4",57451
+"988","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2016","Flex","4x4",66562
+"989","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2017","Flex","4x4",70112
+"990","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2018","Flex","4x4",76831
+"991","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2019","Flex","4x4",83562
+"992","Renault","DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec","2020","Flex","4x4",88753
+"993","Audi","A8 6.3 W12 48V Quattro Tiptronic","2012","Gasolina","AWD",446855
+"994","Audi","A8 6.3 W12 48V Quattro Tiptronic","2013","Gasolina","AWD",459216
+"995","Audi","A8 6.3 W12 48V Quattro Tiptronic","2014","Gasolina","AWD",474029
+"996","Audi","A8 6.3 W12 48V Quattro Tiptronic","2015","Gasolina","AWD",533115
+"997","Audi","A8 6.3 W12 48V Quattro Tiptronic","2016","Gasolina","AWD",644695
+"998","Audi","A8 6.3 W12 48V Quattro Tiptronic","2017","Gasolina","AWD",760168
+"999","Jeep","Wrangler SAHARA 3.8 V6 199cv 2p","2011","Gasolina","4x4",121448
+"1000","Jeep","Wrangler Unlimited SAHARA 3.8 V6  4p","2011","Gasolina","4x4",165112
+"1001","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2012","Diesel","4x4",80597
+"1002","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2013","Diesel","4x4",84350
+"1003","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2014","Diesel","4x4",86729
+"1004","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2015","Diesel","4x4",97606
+"1005","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2016","Diesel","4x4",100359
+"1006","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2017","Diesel","4x4",117831
+"1007","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2018","Diesel","4x4",128489
+"1008","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2019","Diesel","4x4",139408
+"1009","VW - VolksWagen","AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel","2020","Diesel","4x4",157475
+"1010","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2012","Diesel","4x4",58822
+"1011","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2013","Diesel","4x4",97675
+"1012","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2014","Diesel","4x4",108388
+"1013","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2015","Diesel","4x4",119035
+"1014","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2016","Diesel","4x4",127340
+"1015","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2017","Diesel","4x4",135089
+"1016","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2018","Diesel","4x4",141937
+"1017","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2019","Diesel","4x4",149964
+"1018","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2020","Diesel","4x4",156060
+"1019","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2021","Diesel","4x4",173425
+"1020","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel","2022","Diesel","4x4",193832
+"1021","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2012","Diesel","4x4",105259
+"1022","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2013","Diesel","4x4",114826
+"1023","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2014","Diesel","4x4",128569
+"1024","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2015","Diesel","4x4",133041
+"1025","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2016","Diesel","4x4",146283
+"1026","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2017","Diesel","4x4",153660
+"1027","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2018","Diesel","4x4",162055
+"1028","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2019","Diesel","4x4",168458
+"1029","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel","2020","Diesel","4x4",173316
+"1030","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2013","Diesel","4x4",119373
+"1031","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2014","Diesel","4x4",129204
+"1032","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2015","Diesel","4x4",137068
+"1033","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2016","Diesel","4x4",150299
+"1034","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2017","Diesel","4x4",162863
+"1035","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2018","Diesel","4x4",171281
+"1036","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2019","Diesel","4x4",181119
+"1037","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2020","Diesel","4x4",190842
+"1038","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2021","Diesel","4x4",220245
+"1039","GM - Chevrolet","S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut","2022","Diesel","4x4",238306
+"1040","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2012","Diesel","4x4",115277
+"1041","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2013","Diesel","4x4",127170
+"1042","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2014","Diesel","4x4",139492
+"1043","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2015","Diesel","4x4",151071
+"1044","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2016","Diesel","4x4",162522
+"1045","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2017","Diesel","4x4",179767
+"1046","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2018","Diesel","4x4",188289
+"1047","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2019","Diesel","4x4",193599
+"1048","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2020","Diesel","4x4",215988
+"1049","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2021","Diesel","4x4",240729
+"1050","GM - Chevrolet","S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut","2022","Diesel","4x4",260218
+"1051","Jeep","Wrangler Sport 3.6 V6 284cv 2p","2012","Gasolina","4x4",177575
+"1052","Jeep","Wrangler Sport 3.6 V6 284cv 2p","2013","Gasolina","4x4",191314
+"1053","Jeep","Wrangler Sport 3.6 V6 284cv 2p","2014","Gasolina","4x4",202271
+"1054","Jeep","Wrangler Sport 3.6 V6 284cv 2p","2015","Gasolina","4x4",207975
+"1055","Jeep","Wrangler Sport 3.6 V6 284cv 2p","2016","Gasolina","4x4",213799
+"1056","Jeep","Wrangler Sport 3.6 V6 284cv 2p","2017","Gasolina","4x4",227701
+"1057","Jeep","Wrangler Sport 3.6 V6 284cv 2p","2018","Gasolina","4x4",266341
+"1058","Jeep","Wrangler Unlimited Sport 3.6 V6 284cv 4p","2012","Gasolina","4x4",188390
+"1059","Jeep","Wrangler Unlimited Sport 3.6 V6 284cv 4p","2013","Gasolina","4x4",193703
+"1060","Jeep","Wrangler Unlimited Sport 3.6 V6 284cv 4p","2014","Gasolina","4x4",216233
+"1061","Jeep","Wrangler Unlimited Sport 3.6 V6 284cv 4p","2015","Gasolina","4x4",224036
+"1062","Jeep","Wrangler Unlimited Sport 3.6 V6 284cv 4p","2016","Gasolina","4x4",230354
+"1063","Jeep","Wrangler Unlimited Sport 3.6 V6 284cv 4p","2017","Gasolina","4x4",244727
+"1064","Land Rover","Discovery4 S 3.0 4X4 TDV6 Diesel Aut.","2012","Diesel","4x4",118073
+"1065","Land Rover","Discovery4 S 3.0 4X4 TDV6 Diesel Aut.","2013","Diesel","4x4",133192
+"1066","Land Rover","Discovery4 S 3.0 4X4 TDV6 Diesel Aut.","2014","Diesel","4x4",164877
+"1067","Land Rover","Discovery4 S 3.0 4X4 TDV6 Diesel Aut.","2015","Diesel","4x4",177265
+"1068","Land Rover","Discovery4 S 3.0 4X4 TDV6 Diesel Aut.","2016","Diesel","4x4",242339
+"1069","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2012","Flex","4x4",102590
+"1070","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2013","Flex","4x4",109738
+"1071","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2014","Flex","4x4",113581
+"1072","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2015","Flex","4x4",120573
+"1073","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2017","Flex","4x4",164023
+"1074","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2018","Flex","4x4",172885
+"1075","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2019","Flex","4x4",189964
+"1076","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2020","Flex","4x4",197365
+"1077","Toyota","Hilux CD SRV 4x4 2.7 Flex 16V Aut.","2021","Flex","4x4",221850
+"1078","Audi","RS3 Sportback 2.5 TFSI Quattro S-tronic","2012","Gasolina","AWD",173442
+"1079","Audi","RS3 Sportback 2.5 TFSI Quattro S-tronic","2013","Gasolina","AWD",179050
+"1080","Audi","RS3 Sportback 2.5 TFSI Quattro S-tronic","2016","Gasolina","AWD",295485
+"1081","Audi","RS3 Sportback 2.5 TFSI Quattro S-tronic","2018","Gasolina","AWD",412277
+"1082","Dodge","Ram 2500 LARAMIE 6.7 TDI CD 4x4 Dies","2012","Diesel","4x4",225167
+"1083","Mitsubishi","L200 Triton GLS 3.2 CD TB Int.Diesel Mec","2012","Diesel","4x4",97714
+"1084","Mitsubishi","L200 Triton GLS 3.2 CD TB Int.Diesel Mec","2013","Diesel","4x4",100470
+"1085","Mitsubishi","L200 Triton GLS 3.2 CD TB Int.Diesel Mec","2014","Diesel","4x4",106896
+"1086","Mitsubishi","L200 Triton GLS 3.2 CD TB Int.Diesel Mec","2015","Diesel","4x4",109911
+"1087","Mitsubishi","L200 Triton GLS 3.2 CD TB Int.Diesel Mec","2016","Diesel","4x4",115956
+"1088","Mitsubishi","L200 Triton GLS 3.2 CD TB Int.Diesel Mec","2017","Diesel","4x4",136206
+"1089","Mitsubishi","L200 Triton GLX 3.2 CD TB Int.Diesel Mec","2012","Diesel","4x4",95494
+"1090","Mitsubishi","L200 Triton GLX 3.2 CD TB Int.Diesel Mec","2013","Diesel","4x4",98187
+"1091","Mitsubishi","L200 Triton GLX 3.2 CD TB Int.Diesel Mec","2014","Diesel","4x4",103680
+"1092","Mitsubishi","L200 Triton GLX 3.2 CD TB Int.Diesel Mec","2015","Diesel","4x4",106604
+"1093","Mitsubishi","L200 Triton GLX 3.2 CD TB Int.Diesel Mec","2016","Diesel","4x4",115930
+"1094","Mitsubishi","L200 Triton GLX 3.2 CD TB Int.Diesel Mec","2017","Diesel","4x4",125685
+"1095","Mitsubishi","L200 Triton GLX 3.2 CD TB Int.Diesel Mec","2018","Diesel","4x4",129023
+"1096","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2011","Diesel","4x4",87785
+"1097","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2012","Diesel","4x4",105166
+"1098","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2013","Diesel","4x4",115252
+"1099","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2014","Diesel","4x4",130521
+"1100","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2015","Diesel","4x4",138463
+"1101","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2016","Diesel","4x4",150251
+"1102","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2017","Diesel","4x4",172953
+"1103","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2018","Diesel","4x4",189664
+"1104","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2019","Diesel","4x4",204840
+"1105","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2020","Diesel","4x4",239112
+"1106","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2021","Diesel","4x4",265110
+"1107","VW - VolksWagen","AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut","2022","Diesel","4x4",272586
+"1108","Audi","R8 GT 5.2 V10 560cv Quattro R-tronic","2012","Gasolina","AWD",627654
+"1109","Toyota","Hilux CD SR D4-D 4x4 3.0 TDI Dies Aut.","2012","Diesel","4x4",128402
+"1110","Toyota","Hilux CD SR D4-D 4x4 3.0 TDI Dies Aut.","2013","Diesel","4x4",132023
+"1111","Toyota","Hilux CD SR D4-D 4x4 3.0 TDI Dies Aut.","2014","Diesel","4x4",145281
+"1112","Toyota","Hilux CD SR D4-D 4x4 3.0 TDI Dies Aut.","2015","Diesel","4x4",149008
+"1113","Toyota","Hilux Chassi D4-D 4x4 3.0 TDI Dies. Mec.","2012","Diesel","4x4",55243
+"1114","Toyota","Hilux Chassi D4-D 4x4 3.0 TDI Dies. Mec.","2013","Diesel","4x4",64468
+"1115","Toyota","Hilux Chassi D4-D 4x4 3.0 TDI Dies. Mec.","2014","Diesel","4x4",66532
+"1116","Toyota","Hilux Chassi D4-D 4x4 3.0 TDI Dies. Mec.","2015","Diesel","4x4",89245
+"1117","Toyota","Hilux CS D4-D 4x4 3.0 TDI Dies. Mec.","2012","Diesel","4x4",93789
+"1118","Toyota","Hilux CS D4-D 4x4 3.0 TDI Dies. Mec.","2013","Diesel","4x4",96999
+"1119","Toyota","Hilux CS D4-D 4x4 3.0 TDI Dies. Mec.","2014","Diesel","4x4",120290
+"1120","Toyota","Hilux CS D4-D 4x4 3.0 TDI Dies. Mec.","2015","Diesel","4x4",139756
+"1121","Mitsubishi","Pajero DAKAR HPE 3.2 4x4 T.I Dies 5p Aut","2011","Diesel","4x4",108326
+"1122","Mitsubishi","Pajero DAKAR HPE 3.2 4x4 T.I Dies 5p Aut","2012","Diesel","4x4",113450
+"1123","Mitsubishi","Pajero DAKAR HPE 3.2 4x4 T.I Dies 5p Aut","2013","Diesel","4x4",124507
+"1124","Mitsubishi","Pajero DAKAR HPE 3.2 4x4 T.I Dies 5p Aut","2014","Diesel","4x4",143274
+"1125","Mitsubishi","Pajero DAKAR HPE 3.2 4x4 T.I Dies 5p Aut","2015","Diesel","4x4",155200
+"1126","Toyota","Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.","2012","Diesel","4x4",114092
+"1127","Toyota","Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.","2013","Diesel","4x4",122837
+"1128","Toyota","Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.","2014","Diesel","4x4",131340
+"1129","Toyota","Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.","2015","Diesel","4x4",135044
+"1130","Toyota","Hilux SW4 SR D4-D 4x4 3.0 TDI Dies. Aut","2012","Diesel","4x4",153336
+"1131","Toyota","Hilux SW4 SR D4-D 4x4 3.0 TDI Dies. Aut","2013","Diesel","4x4",159360
+"1132","Toyota","Hilux SW4 SR D4-D 4x4 3.0 TDI Dies. Aut","2014","Diesel","4x4",172115
+"1133","Toyota","Hilux SW4 SR D4-D 4x4 3.0 TDI Dies. Aut","2015","Diesel","4x4",181582
+"1134","Audi","A5 Cabriolet 2.0 TFSI Quattro Stronic","2012","Gasolina","AWD",138112
+"1135","Audi","A5 Cabriolet 2.0 TFSI Quattro Stronic","2013","Gasolina","AWD",177472
+"1136","Audi","A5 Cabriolet 2.0 TFSI Quattro Stronic","2014","Gasolina","AWD",187571
+"1137","Audi","A5 Cabriolet 2.0 TFSI Quattro Stronic","2015","Gasolina","AWD",192860
+"1138","Audi","A5 Cabriolet 2.0 TFSI Quattro Stronic","2016","Gasolina","AWD",225997
+"1139","Audi","A5 Coupê 2.0 TFSI Quattro Stronic","2012","Gasolina","AWD",105359
+"1140","Audi","A5 Coupê 2.0 TFSI Quattro Stronic","2013","Gasolina","AWD",110000
+"1141","Audi","A5 Coupê 2.0 TFSI Quattro Stronic","2014","Gasolina","AWD",120971
+"1142","Audi","A5 Coupê 2.0 TFSI Quattro Stronic","2015","Gasolina","AWD",129606
+"1143","Audi","A5 Coupê 2.0 TFSI Quattro Stronic","2016","Gasolina","AWD",154977
+"1144","Audi","S4 3.0 Avant TFSI V6 24V Quattro Stronic","2012","Gasolina","AWD",181013
+"1145","Audi","S4 3.0 Avant TFSI V6 24V Quattro Stronic","2013","Gasolina","AWD",198940
+"1146","Audi","S4 3.0 Avant TFSI V6 24V Quattro Stronic","2014","Gasolina","AWD",226002
+"1147","Audi","S4 3.0 TFSI V6 24V Quattro Stronic","2011","Gasolina","AWD",162662
+"1148","Audi","S4 3.0 TFSI V6 24V Quattro Stronic","2012","Gasolina","AWD",167805
+"1149","Audi","S4 3.0 TFSI V6 24V Quattro Stronic","2013","Gasolina","AWD",178350
+"1150","Audi","S4 3.0 TFSI V6 24V Quattro Stronic","2014","Gasolina","AWD",187018
+"1151","Audi","S5 Cabriolet 3.0 TFSI Quattro Stronic","2012","Gasolina","AWD",226945
+"1152","Audi","S5 Cabriolet 3.0 TFSI Quattro Stronic","2013","Gasolina","AWD",258074
+"1153","Audi","S5 Coupê 3.0 TFSI Quattro Stronic","2012","Gasolina","AWD",233360
+"1154","Audi","S5 Coupê 3.0 TFSI Quattro Stronic","2013","Gasolina","AWD",242219
+"1155","Audi","S5 Sportback 3.0 TFSI Quattro Stronic","2012","Gasolina","AWD",181166
+"1156","Audi","S5 Sportback 3.0 TFSI Quattro Stronic","2013","Gasolina","AWD",232437
+"1157","Audi","S5 Sportback 3.0 TFSI Quattro Stronic","2014","Gasolina","AWD",238946
+"1158","Audi","S5 Sportback 3.0 TFSI Quattro Stronic","2015","Gasolina","AWD",245637
+"1159","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2013","Diesel","4x4",102248
+"1160","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2014","Diesel","4x4",107071
+"1161","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2015","Diesel","4x4",110090
+"1162","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2016","Diesel","4x4",123729
+"1163","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2017","Diesel","4x4",135382
+"1164","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2018","Diesel","4x4",145289
+"1165","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2019","Diesel","4x4",149387
+"1166","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2020","Diesel","4x4",155779
+"1167","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2021","Diesel","4x4",170436
+"1168","GM - Chevrolet","S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.","2022","Diesel","4x4",215782
+"1169","Mercedes-Benz","ML-350 Sport CGI 3.5 V6 306cv 4x4 Aut.","2012","Gasolina","4x4",128517
+"1170","Mercedes-Benz","ML-350 Sport CGI 3.5 V6 306cv 4x4 Aut.","2013","Gasolina","4x4",132663
+"1171","Audi","A4 2.0 16V TFSI Quattro Stronic","2013","Gasolina","AWD",73812
+"1172","Audi","A4 2.0 16V TFSI Quattro Stronic","2014","Gasolina","AWD",83630
+"1173","Audi","A4 2.0 Avant 16V TFSI Quattro Stronic","2013","Gasolina","AWD",103405
+"1174","Audi","A4 2.0 Avant 16V TFSI Quattro Stronic","2014","Gasolina","AWD",106321
+"1175","BMW","X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.","2012","Gasolina","4x4",83998
+"1176","BMW","X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.","2013","Gasolina","4x4",88060
+"1177","BMW","X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.","2014","Gasolina","4x4",91977
+"1178","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2013","Diesel","4x4",126738
+"1179","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2014","Diesel","4x4",133770
+"1180","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2015","Diesel","4x4",143855
+"1181","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2016","Diesel","4x4",156901
+"1182","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2017","Diesel","4x4",179281
+"1183","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2018","Diesel","4x4",194300
+"1184","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2019","Diesel","4x4",206108
+"1185","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2020","Diesel","4x4",237256
+"1186","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2021","Diesel","4x4",264195
+"1187","Ford","Ranger Limited 3.2 20V 4x4 CD Aut. Dies.","2022","Diesel","4x4",284368
+"1188","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Mec.","2013","Diesel","4x4",100700
+"1189","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Mec.","2014","Diesel","4x4",112578
+"1190","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Mec.","2015","Diesel","4x4",120834
+"1191","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Mec.","2016","Diesel","4x4",128354
+"1192","Ford","Ranger XLS 3.2 20V 4x4 CS Diesel","2013","Diesel","4x4",93628
+"1193","Ford","Ranger XLS 3.2 20V 4x4 CS Diesel","2014","Diesel","4x4",96250
+"1194","Ford","Ranger XLS 3.2 20V 4x4 CS Diesel","2015","Diesel","4x4",98945
+"1195","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel","2013","Diesel","4x4",114086
+"1196","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel","2014","Diesel","4x4",122240
+"1197","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel","2015","Diesel","4x4",129402
+"1198","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel","2016","Diesel","4x4",133051
+"1199","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2013","Diesel","4x4",122563
+"1200","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2014","Diesel","4x4",126019
+"1201","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2015","Diesel","4x4",134345
+"1202","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2016","Diesel","4x4",144698
+"1203","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2017","Diesel","4x4",163366
+"1204","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2018","Diesel","4x4",177379
+"1205","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2019","Diesel","4x4",191331
+"1206","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2020","Diesel","4x4",211949
+"1207","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2021","Diesel","4x4",236256
+"1208","Ford","Ranger XLT 3.2 20V 4x4 CD Diesel Aut.","2022","Diesel","4x4",256135
+"1209","Troller","T-4 4x4 3.2 TGV tdi Cap. Rígida Diesel","2013","Diesel","4x4",99466
+"1210","Troller","T-4 4x4 3.2 TGV tdi Cap. Rígida Diesel","2014","Diesel","4x4",102770
+"1211","Volvo","V60 T-6 R-DESIGN 3.0 AWD 4p","2012","Gasolina","AWD",78385
+"1212","Volvo","V60 T-6 R-DESIGN 3.0 AWD 4p","2013","Gasolina","AWD",90266
+"1213","Volvo","V60 T-6 R-DESIGN 3.0 AWD 4p","2014","Gasolina","AWD",110343
+"1214","Volvo","V60 T-6 R-DESIGN 3.0 AWD 4p","2015","Gasolina","AWD",113455
+"1215","Mahindra","PIK-UP CD 2.2 4X4 (diesel) Mec.","2013","Gasolina","4x4",48040
+"1216","Mahindra","PIK-UP CD 2.2 4X4 (diesel) Mec.","2014","Gasolina","4x4",52369
+"1217","Mahindra","PIK-UP CS 2.2 4X4 (diesel) Mec.","2013","Gasolina","4x4",41006
+"1218","Mahindra","PIK-UP CS 2.2 4X4 (diesel) Mec.","2014","Gasolina","4x4",52733
+"1219","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Mec.","2013","Diesel","4x4",112716
+"1220","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Mec.","2014","Diesel","4x4",123971
+"1221","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Mec.","2015","Diesel","4x4",127150
+"1222","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Mec.","2016","Diesel","4x4",144687
+"1223","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Mec.","2017","Diesel","4x4",149900
+"1224","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Mec.","2018","Diesel","4x4",172451
+"1225","Nissan","Frontier SL CD 4x4 2.5TB Diesel Aut","2013","Diesel","4x4",111529
+"1226","Nissan","Frontier SL CD 4x4 2.5TB Diesel Aut","2014","Diesel","4x4",119556
+"1227","Nissan","Frontier SL CD 4x4 2.5TB Diesel Aut","2015","Diesel","4x4",129301
+"1228","Nissan","Frontier SL CD 4x4 2.5TB Diesel Aut","2016","Diesel","4x4",136519
+"1229","Nissan","Frontier SV AT.CD 4x4 2.5 TB Diesel Mec.","2013","Diesel","4x4",105396
+"1230","Nissan","Frontier SV AT.CD 4x4 2.5 TB Diesel Mec.","2014","Diesel","4x4",108369
+"1231","Nissan","Frontier SV AT.CD 4x4 2.5 TB Diesel Mec.","2015","Diesel","4x4",118959
+"1232","Nissan","Frontier SV AT.CD 4x4 2.5 TB Diesel Mec.","2016","Diesel","4x4",134325
+"1233","Audi","TTRS 2.5 TFSI QUATTRO S Tronic","2012","Gasolina","AWD",214093
+"1234","Audi","TTRS 2.5 TFSI QUATTRO S Tronic","2013","Gasolina","AWD",222764
+"1235","Audi","TTRS 2.5 TFSI QUATTRO S Tronic","2014","Gasolina","AWD",262192
+"1236","Audi","TTRS 2.5 TFSI QUATTRO S Tronic","2018","Gasolina","AWD",480404
+"1237","Audi","TTRS 2.5 TFSI QUATTRO S Tronic","2021","Gasolina","AWD",524579
+"1238","Audi","TTRS 2.5 TFSI QUATTRO S Tronic","2022","Gasolina","AWD",539371
+"1239","VW - VolksWagen","AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut","2013","Diesel","4x4",110181
+"1240","VW - VolksWagen","AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut","2014","Diesel","4x4",115902
+"1241","VW - VolksWagen","AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut","2015","Diesel","4x4",132119
+"1242","VW - VolksWagen","AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut","2016","Diesel","4x4",138002
+"1243","VW - VolksWagen","AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut","2017","Diesel","4x4",153829
+"1244","VW - VolksWagen","AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut","2018","Diesel","4x4",158524
+"1245","Audi","A1 2.0 TFSI Quattro 256cv 3p","2013","Gasolina","AWD",154409
+"1246","Mitsubishi","Lancer GT 2.0 16V 4X4 160cv Aut.","2013","Gasolina","4x4",56135
+"1247","Mitsubishi","Lancer GT 2.0 16V 4X4 160cv Aut.","2014","Gasolina","4x4",61470
+"1248","Mitsubishi","Lancer GT 2.0 16V 4X4 160cv Aut.","2015","Gasolina","4x4",74746
+"1249","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2012","Diesel","4x4",219924
+"1250","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2016","Diesel","4x4",305108
+"1251","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2017","Diesel","4x4",324505
+"1252","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2018","Diesel","4x4",344881
+"1253","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2019","Diesel","4x4",400215
+"1254","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2020","Diesel","4x4",411784
+"1255","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2021","Diesel","4x4",422878
+"1256","RAM","2500 LARAMIE  6.7 TDI  CD 4x4 Diesel","2022","Diesel","4x4",434400
+"1257","RAM","2500 LARAMIE TROPIV. 6.7 4x4 Diesel","2012","Diesel","4x4",196015
+"1258","Toyota","Hilux CD 4x4 2.7 16V Flex Mec.","2013","Flex","4x4",71143
+"1259","Toyota","Hilux CD 4x4 2.7 16V Flex Mec.","2014","Flex","4x4",73437
+"1260","Toyota","Hilux CD 4x4 2.7 16V Flex Mec.","2015","Flex","4x4",89844
+"1261","Dodge","Durango Citadel 3.6 24V 4x4 Aut.","2013","Gasolina","4x4",111964
+"1262","Dodge","Durango Crew 3.6 24V 4x4 Aut.","2012","Gasolina","4x4",105483
+"1263","Dodge","Durango Crew 3.6 24V 4x4 Aut.","2013","Gasolina","4x4",108458
+"1264","Ford","Fusion Titanium 2.0 GTDI Eco. Awd Aut.","2013","Gasolina","AWD",72764
+"1265","Ford","Fusion Titanium 2.0 GTDI Eco. Awd Aut.","2014","Gasolina","AWD",79574
+"1266","Ford","Fusion Titanium 2.0 GTDI Eco. Awd Aut.","2015","Gasolina","AWD",88310
+"1267","Ford","Fusion Titanium 2.0 GTDI Eco. Awd Aut.","2016","Gasolina","AWD",95886
+"1268","Ford","Fusion Titanium 2.0 GTDI Eco. Awd Aut.","2017","Gasolina","AWD",112858
+"1269","Ford","Fusion Titanium 2.0 GTDI Eco. Awd Aut.","2018","Gasolina","AWD",123623
+"1270","Ford","Fusion Titanium 2.0 GTDI Eco. Awd Aut.","2019","Gasolina","AWD",155862
+"1271","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2012","Gasolina","4x4",54404
+"1272","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2013","Gasolina","4x4",67114
+"1273","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2014","Gasolina","4x4",69007
+"1274","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2016","Gasolina","4x4",88481
+"1275","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2017","Gasolina","4x4",94813
+"1276","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2018","Gasolina","4x4",127854
+"1277","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2019","Gasolina","4x4",131201
+"1278","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2020","Gasolina","4x4",145078
+"1279","Subaru","XV 2.0/2.0 S/2.0 ES 16V 4x4 Aut.","2021","Gasolina","4x4",153642
+"1280","Mercedes-Benz","GLK 300 3.5 CGI V6 4x4 252cv Aut.","2013","Gasolina","4x4",122200
+"1281","Nissan","Frontier S CD 4x4 2.5 TB Diesel","2014","Diesel","4x4",108235
+"1282","Nissan","Frontier S CD 4x4 2.5 TB Diesel","2015","Diesel","4x4",114834
+"1283","Nissan","Frontier S CD 4x4 2.5 TB Diesel","2016","Diesel","4x4",126478
+"1284","Subaru","Impreza SD 2.0/2.0i-S AWD Aut.","2012","Gasolina","AWD",67812
+"1285","Subaru","Impreza SD 2.0/2.0i-S AWD Aut.","2014","Gasolina","AWD",71588
+"1286","Subaru","Impreza SD 2.0/2.0i-S AWD Aut.","2016","Gasolina","AWD",78429
+"1287","Audi","A6 3.0 Avant.TFSI V6 Quattro S tronic 5p","2013","Gasolina","AWD",147046
+"1288","Audi","A6 3.0 Avant.TFSI V6 Quattro S tronic 5p","2014","Gasolina","AWD",152042
+"1289","Audi","A6 3.0 TFSI V6 Quattro S tronic 4p","2013","Gasolina","AWD",137993
+"1290","Audi","A6 3.0 TFSI V6 Quattro S tronic 4p","2014","Gasolina","AWD",141884
+"1291","Audi","A6 3.0 TFSI V6 Quattro S tronic 4p","2015","Gasolina","AWD",177228
+"1292","Audi","A6 3.0 TFSI V6 Quattro S tronic 4p","2016","Gasolina","AWD",185000
+"1293","Audi","A6 3.0 TFSI V6 Quattro S tronic 4p","2017","Gasolina","AWD",199194
+"1294","Audi","A6 3.0 TFSI V6 Quattro S tronic 4p","2018","Gasolina","AWD",251533
+"1295","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2012","Gasolina","4x4",60169
+"1296","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2013","Gasolina","4x4",75393
+"1297","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2014","Gasolina","4x4",103692
+"1298","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2015","Gasolina","4x4",109212
+"1299","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2016","Gasolina","4x4",124378
+"1300","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2017","Gasolina","4x4",138246
+"1301","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2018","Gasolina","4x4",163973
+"1302","Hyundai","Santa Fe/GLS 3.3 V6 4X4 Tiptronic","2019","Gasolina","4x4",181675
+"1303","Mercedes-Benz","GL-500 4.7 Bi-Turbo V8 4x4 Aut.","2013","Gasolina","4x4",230000
+"1304","Mercedes-Benz","GL-500 4.7 Bi-Turbo V8 4x4 Aut.","2014","Gasolina","4x4",279347
+"1305","Mercedes-Benz","GL-500 4.7 Bi-Turbo V8 4x4 Aut.","2015","Gasolina","4x4",385964
+"1306","Mercedes-Benz","GL-500 4.7 Bi-Turbo V8 4x4 Aut.","2016","Gasolina","4x4",444287
+"1307","Mercedes-Benz","GLK 220 CDI 2.2 TB 4X4 170cv Aut. Diesel","2013","Diesel","4x4",130875
+"1308","Mercedes-Benz","GLK 220 CDI 2.2 TB 4X4 170cv Aut. Diesel","2014","Diesel","4x4",134566
+"1309","Mercedes-Benz","GLK 220 CDI 2.2 TB 4X4 170cv Aut. Diesel","2015","Diesel","4x4",155571
+"1310","Mercedes-Benz","GLK 220 Sport CDI 2.2 TB 4X4 Aut. Diesel","2013","Diesel","4x4",136014
+"1311","Mercedes-Benz","GLK 220 Sport CDI 2.2 TB 4X4 Aut. Diesel","2014","Diesel","4x4",149936
+"1312","Mercedes-Benz","GLK 220 Sport CDI 2.2 TB 4X4 Aut. Diesel","2015","Diesel","4x4",158450
+"1313","Audi","A6 Allroad 3.0 TFSI V6 Quattro S tronic","2013","Gasolina","AWD",161782
+"1314","Audi","A6 Allroad 3.0 TFSI V6 Quattro S tronic","2014","Gasolina","AWD",168041
+"1315","Audi","A6 Allroad 3.0 TFSI V6 Quattro S tronic","2015","Gasolina","AWD",199900
+"1316","Audi","A6 Allroad 3.0 TFSI V6 Quattro S tronic","2016","Gasolina","AWD",252291
+"1317","Audi","A6 Allroad 3.0 TFSI V6 Quattro S tronic","2017","Gasolina","AWD",290093
+"1318","Ford","EcoSport FREESTYLE 2.0 16V 4WD Flex 5p","2013","Flex","4x4",53320
+"1319","Ford","EcoSport FREESTYLE 2.0 16V 4WD Flex 5p","2014","Flex","4x4",56120
+"1320","Ford","EcoSport FREESTYLE 2.0 16V 4WD Flex 5p","2015","Flex","4x4",60526
+"1321","Ford","EcoSport FREESTYLE 2.0 16V 4WD Flex 5p","2016","Flex","4x4",65785
+"1322","Ford","EcoSport FREESTYLE 2.0 16V 4WD Flex 5p","2017","Flex","4x4",68854
+"1323","Mercedes-Benz","GL-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2013","Gasolina","4x4",385324
+"1324","Mercedes-Benz","GL-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2014","Gasolina","4x4",403590
+"1325","Mercedes-Benz","GL-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2015","Gasolina","4x4",436509
+"1326","Mercedes-Benz","GL-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2016","Gasolina","4x4",500666
+"1327","Toyota","RAV4 2.5 4x4 16V Aut.","2013","Gasolina","4x4",90746
+"1328","Toyota","RAV4 2.5 4x4 16V Aut.","2014","Gasolina","4x4",98312
+"1329","Toyota","RAV4 2.5 4x4 16V Aut.","2015","Gasolina","4x4",114741
+"1330","Toyota","RAV4 2.5 4x4 16V Aut.","2016","Gasolina","4x4",121980
+"1331","Audi","Q5 3.0 V6 TFSI 272cv Quattro Tiptronic","2013","Gasolina","AWD",118900
+"1332","Audi","Q5 3.0 V6 TFSI 272cv Quattro Tiptronic","2014","Gasolina","AWD",135840
+"1333","Audi","Q5 3.0 V6 TFSI 272cv Quattro Tiptronic","2015","Gasolina","AWD",155966
+"1334","Audi","Q5 3.0 V6 TFSI 272cv Quattro Tiptronic","2016","Gasolina","AWD",183766
+"1335","Audi","RS4 4.2 Avant 32V FSI Quattro S-tronic","2013","Gasolina","AWD",245101
+"1336","Audi","RS4 4.2 Avant 32V FSI Quattro S-tronic","2014","Gasolina","AWD",304500
+"1337","Audi","RS4 4.2 Avant 32V FSI Quattro S-tronic","2015","Gasolina","AWD",316589
+"1338","Mercedes-Benz","G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2013","Gasolina","4x4",905653
+"1339","Mercedes-Benz","G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2014","Gasolina","4x4",965000
+"1340","Mercedes-Benz","G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2015","Gasolina","4x4",1036565
+"1341","Mercedes-Benz","G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2016","Gasolina","4x4",1107198
+"1342","Mercedes-Benz","G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.","2017","Gasolina","4x4",1138417
+"1343","Ford","Ranger TROPICAB 3.2 20V 4X4 TB Diesel","2013","Diesel","4x4",97177
+"1344","Ford","Ranger TROPICAB 3.2 20V 4X4 TB Diesel","2014","Diesel","4x4",100555
+"1345","Ford","Ranger TROPICAB 3.2 20V 4X4 TB Diesel","2015","Diesel","4x4",105343
+"1346","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2013","Diesel","4x4",123508
+"1347","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2014","Diesel","4x4",136115
+"1348","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2015","Diesel","4x4",142516
+"1349","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2016","Diesel","4x4",149684
+"1350","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2017","Diesel","4x4",161877
+"1351","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2018","Diesel","4x4",173246
+"1352","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2019","Diesel","4x4",198590
+"1353","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2020","Diesel","4x4",207103
+"1354","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.","2021","Diesel","4x4",227995
+"1355","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Diesel","2013","Diesel","4x4",108899
+"1356","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Diesel","2014","Diesel","4x4",115482
+"1357","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Diesel","2015","Diesel","4x4",136234
+"1358","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Diesel","2016","Diesel","4x4",144241
+"1359","Ford","Ranger TROPIVAN 3.2 20V 4X4 TB Diesel","2017","Diesel","4x4",154135
+"1360","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Aut.","2013","Diesel","4x4",122337
+"1361","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Aut.","2014","Diesel","4x4",125787
+"1362","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Aut.","2015","Diesel","4x4",130154
+"1363","Ford","Ranger XLS 3.2 20V 4x4 CD Diesel Aut.","2016","Diesel","4x4",133631
+"1364","Audi","Q5 2.0 16V TFSI 225cv Quattro Tiptronic","2013","Gasolina","AWD",102540
+"1365","Audi","Q5 2.0 16V TFSI 225cv Quattro Tiptronic","2014","Gasolina","AWD",115423
+"1366","Audi","Q5 2.0 16V TFSI 225cv Quattro Tiptronic","2015","Gasolina","AWD",128122
+"1367","Audi","Q5 2.0 16V TFSI 225cv Quattro Tiptronic","2016","Gasolina","AWD",152497
+"1368","Audi","Q5 2.0 16V TFSI 225cv Quattro Tiptronic","2017","Gasolina","AWD",190727
+"1369","Mercedes-Benz","ML-350 Sport 3.0 V6 258cv 4X4 Diesel","2014","Diesel","4x4",171970
+"1370","Mercedes-Benz","ML-350 Sport 3.0 V6 258cv 4X4 Diesel","2015","Diesel","4x4",193966
+"1371","Audi","A8 4.0 TFSI Quattro Tiptronic","2013","Gasolina","AWD",291489
+"1372","Audi","A8 4.0 TFSI Quattro Tiptronic","2015","Gasolina","AWD",310941
+"1373","Audi","A8 4.0 TFSI Quattro Tiptronic","2016","Gasolina","AWD",354330
+"1374","Audi","A8 4.0 TFSI Quattro Tiptronic","2017","Gasolina","AWD",525752
+"1375","Audi","S7 4.0 TFSI 420/450cv Quattro S-tronic","2013","Gasolina","AWD",238320
+"1376","Audi","S7 4.0 TFSI 420/450cv Quattro S-tronic","2014","Gasolina","AWD",264987
+"1377","Audi","S7 4.0 TFSI 420/450cv Quattro S-tronic","2015","Gasolina","AWD",371457
+"1378","Audi","S7 4.0 TFSI 420/450cv Quattro S-tronic","2016","Gasolina","AWD",403912
+"1379","Mercedes-Benz","GL-350 Sport 3.0 V6 258cv 4x4 Diesel","2014","Diesel","4x4",243151
+"1380","Mercedes-Benz","GL-350 Sport 3.0 V6 258cv 4x4 Diesel","2015","Diesel","4x4",271208
+"1381","Mercedes-Benz","GL-350 Sport 3.0 V6 258cv 4x4 Diesel","2016","Diesel","4x4",319918
+"1382","Subaru","Forester XT 2.0 16V 4x4 Turbo Aut.","2013","Gasolina","4x4",76896
+"1383","Subaru","Forester XT 2.0 16V 4x4 Turbo Aut.","2014","Gasolina","4x4",86890
+"1384","Subaru","Forester XT 2.0 16V 4x4 Turbo Aut.","2015","Gasolina","4x4",97052
+"1385","Subaru","Forester XT 2.0 16V 4x4 Turbo Aut.","2016","Gasolina","4x4",108560
+"1386","Subaru","Forester XT 2.0 16V 4x4 Turbo Aut.","2017","Gasolina","4x4",139509
+"1387","Subaru","Forester XT 2.0 16V 4x4 Turbo Aut.","2018","Gasolina","4x4",164558
+"1388","Audi","RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p","2014","Gasolina","AWD",372842
+"1389","Audi","RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p","2015","Gasolina","AWD",423464
+"1390","Audi","RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p","2016","Gasolina","AWD",498239
+"1391","Audi","RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p","2017","Gasolina","AWD",547888
+"1392","Audi","RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p","2018","Gasolina","AWD",600060
+"1393","Audi","RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p","2021","Gasolina","AWD",1012030
+"1394","Audi","RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p","2022","Gasolina","AWD",1039845
+"1395","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2013","Diesel","4x4",99480
+"1396","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2014","Diesel","4x4",111445
+"1397","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2015","Diesel","4x4",114589
+"1398","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2016","Diesel","4x4",124429
+"1399","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2017","Diesel","4x4",135760
+"1400","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2018","Diesel","4x4",142440
+"1401","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2019","Diesel","4x4",167586
+"1402","Ford","Ranger XLS 2.2 4x4 CD Diesel Mec.","2020","Diesel","4x4",172313
+"1403","Hyundai","Grand Santa Fé  3.3 V6 4X4 Tiptronic","2013","Gasolina","4x4",91208
+"1404","Hyundai","Grand Santa Fé  3.3 V6 4X4 Tiptronic","2014","Gasolina","4x4",108115
+"1405","Hyundai","Grand Santa Fé  3.3 V6 4X4 Tiptronic","2015","Gasolina","4x4",123113
+"1406","Hyundai","Grand Santa Fé  3.3 V6 4X4 Tiptronic","2016","Gasolina","4x4",136189
+"1407","Renault","DUSTER TECHROAD 4X4 2.0 16V Mec.","2014","Gasolina","4x4",55947
+"1408","Renault","DUSTER TECHROAD 4X4 2.0 16V Mec.","2015","Gasolina","4x4",58488
+"1409","Suzuki","Grand Vitara L.EDI. 2.0 16V 4x2/4x4 Aut.","2013","Gasolina","4x4",58445
+"1410","Suzuki","Grand Vitara L.EDI. 2.0 16V 4x2/4x4 Aut.","2014","Gasolina","4x4",68930
+"1411","Suzuki","Grand Vitara L.EDI. 2.0 16V 4x2/4x4 Aut.","2015","Gasolina","4x4",72950
+"1412","Nissan","Frontier PLATINUM CD 4x4 2.5 TB Diesel","2014","Diesel","4x4",116241
+"1413","Volvo","V40 T-5 Cross Country 2.0 Awd Aut.","2013","Gasolina","AWD",70526
+"1414","Volvo","V40 T-5 Cross Country 2.0 Awd Aut.","2014","Gasolina","AWD",86778
+"1415","Volvo","V40 T-5 Cross Country 2.0 Awd Aut.","2015","Gasolina","AWD",93596
+"1416","Volvo","V40 T-5 Cross Country 2.0 Awd Aut.","2016","Gasolina","AWD",112446
+"1417","Audi","S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic","2014","Gasolina","AWD",175120
+"1418","Audi","S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic","2015","Gasolina","AWD",188045
+"1419","Audi","S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic","2016","Gasolina","AWD",228118
+"1420","Audi","S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic","2017","Gasolina","AWD",263354
+"1421","Audi","S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic","2018","Gasolina","AWD",349692
+"1422","Audi","S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic","2019","Gasolina","AWD",407475
+"1423","Audi","S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic","2020","Gasolina","AWD",464176
+"1424","Audi","RS Q3 2.5 TFSI Quattro S-tronic 5p","2014","Gasolina","AWD",189900
+"1425","Audi","RS Q3 2.5 TFSI Quattro S-tronic 5p","2015","Gasolina","AWD",198564
+"1426","Audi","RS Q3 2.5 TFSI Quattro S-tronic 5p","2016","Gasolina","AWD",229540
+"1427","Audi","RS Q3 2.5 TFSI Quattro S-tronic 5p","2017","Gasolina","AWD",246416
+"1428","Audi","RS Q3 2.5 TFSI Quattro S-tronic 5p","2018","Gasolina","AWD",261186
+"1429","Audi","RS Q3 2.5 TFSI Quattro S-tronic 5p","2021","Gasolina","AWD",550605
+"1430","Audi","RS Q3 2.5 TFSI Quattro S-tronic 5p","2022","Gasolina","AWD",592748
+"1431","Audi","RS7 Sportback 4.0 TFSI Quattro Tiptronic","2014","Gasolina","AWD",414008
+"1432","Audi","RS7 Sportback 4.0 TFSI Quattro Tiptronic","2015","Gasolina","AWD",425683
+"1433","Audi","RS7 Sportback 4.0 TFSI Quattro Tiptronic","2016","Gasolina","AWD",535536
+"1434","Audi","RS7 Sportback 4.0 TFSI Quattro Tiptronic","2017","Gasolina","AWD",550637
+"1435","Audi","RS7 Sportback 4.0 TFSI Quattro Tiptronic","2018","Gasolina","AWD",602363
+"1436","Audi","RS7 Sportback 4.0 TFSI Quattro Tiptronic","2021","Gasolina","AWD",1040132
+"1437","Audi","RS7 Sportback 4.0 TFSI Quattro Tiptronic","2022","Gasolina","AWD",1066802
+"1438","Troller","T-4 4x4 3.2 20V Tdi Cap. Rígida Diesel","2015","Diesel","4x4",157333
+"1439","Troller","T-4 4x4 3.2 20V Tdi Cap. Rígida Diesel","2016","Diesel","4x4",162133
+"1440","Troller","T-4 4x4 3.2 20V Tdi Cap. Rígida Diesel","2017","Diesel","4x4",166868
+"1441","Troller","T-4 4x4 3.2 20V Tdi Cap. Rígida Diesel","2018","Diesel","4x4",171146
+"1442","Troller","T-4 4x4 3.2 20V Tdi Cap. Rígida Diesel","2019","Diesel","4x4",175535
+"1443","Troller","T-4 4x4 3.2 20V Tdi Cap. Rígida Diesel","2020","Diesel","4x4",180036
+"1444","Audi","S3 Sedan 2.0 TFSI Quattro 286cv S-tronic","2014","Gasolina","AWD",160540
+"1445","Audi","S3 Sedan 2.0 TFSI Quattro 286cv S-tronic","2015","Gasolina","AWD",207413
+"1446","Audi","S3 Sedan 2.0 TFSI Quattro 286cv S-tronic","2016","Gasolina","AWD",223745
+"1447","Dodge","JOURNEY RT 3.6 AWD V6 Aut.","2014","Gasolina","AWD",72488
+"1448","Dodge","JOURNEY RT 3.6 AWD V6 Aut.","2015","Gasolina","AWD",79784
+"1449","Dodge","JOURNEY RT 3.6 AWD V6 Aut.","2016","Gasolina","AWD",97317
+"1450","Jeep","Cherokee Limited 3.2 4x4 V6 Aut.","2014","Gasolina","4x4",106374
+"1451","Jeep","Cherokee Limited 3.2 4x4 V6 Aut.","2015","Gasolina","4x4",126791
+"1452","Mahindra","SUV 2.2 4x4 (diesel) Mec.","2015","Gasolina","4x4",63381
+"1453","Nissan","Frontier SV AT. CD 4x4 2.5 TB Dies. Aut.","2015","Diesel","4x4",119562
+"1454","Nissan","Frontier SV AT. CD 4x4 2.5 TB Dies. Aut.","2016","Diesel","4x4",135521
+"1455","GM - Chevrolet","S10 Pick-Up LT 2.5 Flex 4x4 CD","2015","Flex","4x4",101217
+"1456","GM - Chevrolet","S10 Pick-Up LT 2.5 Flex 4x4 CD","2016","Flex","4x4",111720
+"1457","GM - Chevrolet","S10 Pick-Up LT 2.5 Flex 4x4 CD","2017","Flex","4x4",118942
+"1458","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD","2015","Flex","4x4",107490
+"1459","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD","2016","Flex","4x4",115281
+"1460","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD","2017","Flex","4x4",132300
+"1461","Toyota","Hilux CD Limited 4x4 3.0 TDI Diesel Aut.","2015","Diesel","4x4",175650
+"1462","Audi","A8 3.0 TFSI 310cv Quattro Tiptronic 4p","2015","Gasolina","AWD",280000
+"1463","Audi","A8 3.0 TFSI 310cv Quattro Tiptronic 4p","2016","Gasolina","AWD",388409
+"1464","Audi","S8 4.0 TFSI Quattro Tiptronic 4p","2013","Gasolina","AWD",324501
+"1465","Audi","S8 4.0 TFSI Quattro Tiptronic 4p","2015","Gasolina","AWD",514619
+"1466","Audi","S8 4.0 TFSI Quattro Tiptronic 4p","2016","Gasolina","AWD",584363
+"1467","Audi","S8 4.0 TFSI Quattro Tiptronic 4p","2017","Gasolina","AWD",741183
+"1468","Dodge","Durango Limited 3.6 24V 4x4 Aut.","2015","Gasolina","4x4",191381
+"1469","Jeep","Cherokee Longitude 3.2 4x4 V6 Aut.","2015","Gasolina","4x4",110114
+"1470","Jeep","Cherokee Trailhawk 3.2 4x4 V6 Aut.","2014","Gasolina","4x4",118204
+"1471","Jeep","Cherokee Trailhawk 3.2 4x4 V6 Aut.","2015","Gasolina","4x4",134040
+"1472","Jeep","Renegade Longitude 2.0 4x4 TB Diesel Aut","2016","Diesel","4x4",104582
+"1473","Jeep","Renegade Longitude 2.0 4x4 TB Diesel Aut","2017","Diesel","4x4",113654
+"1474","Jeep","Renegade Longitude 2.0 4x4 TB Diesel Aut","2018","Diesel","4x4",123895
+"1475","Jeep","Renegade Longitude 2.0 4x4 TB Diesel Aut","2019","Diesel","4x4",137183
+"1476","Jeep","Renegade Longitude 2.0 4x4 TB Diesel Aut","2020","Diesel","4x4",144918
+"1477","Jeep","Renegade Longitude 2.0 4x4 TB Diesel Aut","2021","Diesel","4x4",168526
+"1478","Jeep","Renegade Sport 2.0 4x4 TB Diesel Aut.","2016","Diesel","4x4",99104
+"1479","Jeep","Renegade Sport 2.0 4x4 TB Diesel Aut.","2017","Diesel","4x4",107794
+"1480","Jeep","Renegade Trailhawk 2.0 4x4 TB Diesel Aut","2015","Diesel","4x4",97242
+"1481","Jeep","Renegade Trailhawk 2.0 4x4 TB Diesel Aut","2016","Diesel","4x4",109207
+"1482","Jeep","Renegade Trailhawk 2.0 4x4 TB Diesel Aut","2017","Diesel","4x4",121242
+"1483","Jeep","Renegade Trailhawk 2.0 4x4 TB Diesel Aut","2018","Diesel","4x4",130239
+"1484","Jeep","Renegade Trailhawk 2.0 4x4 TB Diesel Aut","2019","Diesel","4x4",147632
+"1485","Jeep","Renegade Trailhawk 2.0 4x4 TB Diesel Aut","2020","Diesel","4x4",157890
+"1486","Jeep","Renegade Trailhawk 2.0 4x4 TB Diesel Aut","2021","Diesel","4x4",174686
+"1487","Land Rover","Discovery Sport HSE 2.0 4x4 Aut/ Flex","2015","Flex","4x4",152375
+"1488","Land Rover","Discovery Sport HSE 2.0 4x4 Aut/ Flex","2016","Flex","4x4",165372
+"1489","Land Rover","Discovery Sport HSE 2.0 4x4 Aut/ Flex","2017","Flex","4x4",198937
+"1490","Land Rover","Discovery Sport HSE 2.0 4x4 Aut/ Flex","2018","Flex","4x4",225744
+"1491","Land Rover","Discovery Sport HSE 2.0 4x4 Aut/ Flex","2019","Flex","4x4",274904
+"1492","Land Rover","Discovery Sport HSE Lux. 2.0 4x4 /Flex","2015","Flex","4x4",170098
+"1493","Land Rover","Discovery Sport HSE Lux. 2.0 4x4 /Flex","2016","Flex","4x4",175551
+"1494","Land Rover","Discovery Sport HSE Lux. 2.0 4x4 /Flex","2017","Flex","4x4",216212
+"1495","Land Rover","Discovery Sport HSE Lux. 2.0 4x4 /Flex","2018","Flex","4x4",243823
+"1496","Land Rover","Discovery Sport HSE Lux. 2.0 4x4 /Flex","2019","Flex","4x4",277945
+"1497","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2015","Flex","4x4",143099
+"1498","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2016","Flex","4x4",153002
+"1499","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2017","Flex","4x4",184102
+"1500","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2018","Flex","4x4",203856
+"1501","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2019","Flex","4x4",248736
+"1502","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2020","Flex","4x4",317020
+"1503","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2021","Flex","4x4",325658
+"1504","Land Rover","Discovery Sport SE 2.0 4x4 Aut./Flex","2022","Flex","4x4",334238
+"1505","Mitsubishi","Pajero 3.2 4x4 T.I. Dies. 5p Aut","2016","Diesel","4x4",159518
+"1506","Mitsubishi","Pajero HPE 3.2 4x4 T.I. Dies. 5p Aut.","2016","Diesel","4x4",180308
+"1507","Mitsubishi","Pajero HPE 3.2 4x4 T.I. Dies. 5p Aut.","2017","Diesel","4x4",194454
+"1508","Mitsubishi","Pajero HPE 3.2 4x4 T.I. Dies. 5p Aut.","2018","Diesel","4x4",220974
+"1509","Mitsubishi","Pajero HPE 3.5 4x4 Flex 5p Aut.","2016","Flex","4x4",116380
+"1510","Mitsubishi","Pajero HPE 3.5 4x4 Flex 5p Aut.","2017","Flex","4x4",120376
+"1511","Mitsubishi","Pajero HPE 3.5 4x4 Flex 5p Aut.","2018","Flex","4x4",196999
+"1512","VW - VolksWagen","TOUAREG R-Line 4.2 V8 360cv Tiptronic 5p","2015","Gasolina","AWD",184124
+"1513","VW - VolksWagen","TOUAREG R-Line 4.2 V8 360cv Tiptronic 5p","2016","Gasolina","AWD",257876
+"1514","VW - VolksWagen","TOUAREG R-Line 4.2 V8 360cv Tiptronic 5p","2017","Gasolina","AWD",280363
+"1515","VW - VolksWagen","TOUAREG R-Line 4.2 V8 360cv Tiptronic 5p","2018","Gasolina","AWD",311351
+"1516","Mitsubishi","L200 Triton Savanaoff 3.2 CD TBI Die.Mec","2016","Diesel","4x4",104745
+"1517","Mitsubishi","OUTLANDER PHEV Hybrid 2.0 16V 4x4 Aut.","2014","Gasolina","4x4",144161
+"1518","Mitsubishi","OUTLANDER PHEV Hybrid 2.0 16V 4x4 Aut.","2015","Gasolina","4x4",150707
+"1519","Land Rover","Discovery RAW 3.0 4x4 TDV6 Diesel Aut.","2015","Diesel","4x4",184779
+"1520","Mitsubishi","ASX 2.0 16V  4x4 Aut.(By Armura-Blind.)","2015","Gasolina","4x4",77340
+"1521","Mitsubishi","ASX 2.0 16V  4x4 Aut.(By Armura-Blind.)","2016","Gasolina","4x4",86973
+"1522","Subaru","Impreza SD WRX 2.0 16V TB 4x4 Aut.","2015","Gasolina","4x4",113717
+"1523","Subaru","Impreza SD WRX 2.0 16V TB 4x4 Aut.","2016","Gasolina","4x4",146679
+"1524","Subaru","Impreza SD WRX 2.0 16V TB 4x4 Aut.","2018","Gasolina","4x4",162966
+"1525","Subaru","Impreza SD WRX 2.0 16V TB 4x4 Aut.","2019","Gasolina","4x4",199999
+"1526","Subaru","Impreza SD WRX 2.0 16V TB 4x4 Aut.","2020","Gasolina","4x4",211759
+"1527","Subaru","Impreza SD WRX 2.0 16V TB 4x4 Aut.","2021","Gasolina","4x4",228577
+"1528","Audi","S6 4.0 TFSI Quattro S-Tronic 4p","2013","Gasolina","AWD",238282
+"1529","Audi","S6 4.0 TFSI Quattro S-Tronic 4p","2014","Gasolina","AWD",264735
+"1530","Audi","S6 4.0 TFSI Quattro S-Tronic 4p","2015","Gasolina","AWD",323257
+"1531","Audi","S6 4.0 TFSI Quattro S-Tronic 4p","2016","Gasolina","AWD",360749
+"1532","GM - Chevrolet","S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.","2016","Diesel","4x4",169109
+"1533","GM - Chevrolet","S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.","2017","Diesel","4x4",187842
+"1534","GM - Chevrolet","S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.","2018","Diesel","4x4",197504
+"1535","GM - Chevrolet","S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.","2019","Diesel","4x4",212725
+"1536","GM - Chevrolet","S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.","2020","Diesel","4x4",227149
+"1537","GM - Chevrolet","S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.","2021","Diesel","4x4",263477
+"1538","GM - Chevrolet","S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.","2022","Diesel","4x4",276856
+"1539","Land Rover","Discovery4 BLACK 3.0 4x4 SDV6 Dies. Aut.","2016","Diesel","4x4",258449
+"1540","Mitsubishi","Pajero HPE-S 3.2 4x4 T.I.Diesel 5p Aut.","2016","Diesel","4x4",182153
+"1541","Suzuki","Grand Vitara 4SPORT 2.0 16V 4x4 5p Aut.","2016","Gasolina","4x4",80745
+"1542","VW - VolksWagen","AMAROK T. Dark Label CD 2.0 4x4 Dies Aut","2015","Diesel","4x4",134998
+"1543","VW - VolksWagen","AMAROK T. Dark Label CD 2.0 4x4 Dies Aut","2016","Diesel","4x4",138805
+"1544","Suzuki","Grand Vitara 4SPORT 2.0 16V 4x4 5p Mec.","2016","Gasolina","4x4",73690
+"1545","Land Rover","Discovery Sport HSE 2.2 4x4 Diesel Aut.","2016","Diesel","4x4",188310
+"1546","Land Rover","Discovery Sport HSE 2.2 4x4 Diesel Aut.","2017","Diesel","4x4",204222
+"1547","Land Rover","Discovery Sport SE 2.2 4x4 Diesel Aut.","2016","Diesel","4x4",177915
+"1548","Toyota","Hilux CD SR 4x4 2.8 TDI Diesel Aut.","2016","Diesel","4x4",180086
+"1549","Toyota","Hilux CD SR 4x4 2.8 TDI Diesel Aut.","2017","Diesel","4x4",197893
+"1550","Toyota","Hilux CD SR 4x4 2.8 TDI Diesel Aut.","2018","Diesel","4x4",208197
+"1551","Toyota","Hilux CD SR 4x4 2.8 TDI Diesel Aut.","2019","Diesel","4x4",220386
+"1552","Toyota","Hilux CD SR 4x4 2.8 TDI Diesel Aut.","2020","Diesel","4x4",233462
+"1553","Toyota","Hilux CD SR 4x4 2.8 TDI Diesel Aut.","2021","Diesel","4x4",252845
+"1554","Toyota","Hilux CD SR 4x4 2.8 TDI Diesel Aut.","2022","Diesel","4x4",259328
+"1555","Toyota","Hilux CD SRV 4x4 2.8 TDI Diesel Aut.","2016","Diesel","4x4",195710
+"1556","Toyota","Hilux CD SRV 4x4 2.8 TDI Diesel Aut.","2017","Diesel","4x4",206764
+"1557","Toyota","Hilux CD SRV 4x4 2.8 TDI Diesel Aut.","2018","Diesel","4x4",218178
+"1558","Toyota","Hilux CD SRV 4x4 2.8 TDI Diesel Aut.","2019","Diesel","4x4",241733
+"1559","Toyota","Hilux CD SRV 4x4 2.8 TDI Diesel Aut.","2020","Diesel","4x4",255271
+"1560","Toyota","Hilux CD SRV 4x4 2.8 TDI Diesel Aut.","2021","Diesel","4x4",268326
+"1561","Toyota","Hilux CD SRV 4x4 2.8 TDI Diesel Aut.","2022","Diesel","4x4",275489
+"1562","Toyota","Hilux CD SRX 4x4 2.8 TDI 16V Diesel Aut.","2016","Diesel","4x4",209000
+"1563","Toyota","Hilux CD SRX 4x4 2.8 TDI 16V Diesel Aut.","2017","Diesel","4x4",222479
+"1564","Toyota","Hilux CD SRX 4x4 2.8 TDI 16V Diesel Aut.","2018","Diesel","4x4",239527
+"1565","Toyota","Hilux CD SRX 4x4 2.8 TDI 16V Diesel Aut.","2019","Diesel","4x4",264314
+"1566","Toyota","Hilux CD SRX 4x4 2.8 TDI 16V Diesel Aut.","2020","Diesel","4x4",284477
+"1567","Toyota","Hilux CD SRX 4x4 2.8 TDI 16V Diesel Aut.","2021","Diesel","4x4",301037
+"1568","Toyota","Hilux CD SRX 4x4 2.8 TDI 16V Diesel Aut.","2022","Diesel","4x4",308756
+"1569","Toyota","Hilux Chassi 4x4 2.8 TDI Diesel Mec.","2016","Diesel","4x4",95190
+"1570","Toyota","Hilux Chassi 4x4 2.8 TDI Diesel Mec.","2017","Diesel","4x4",139865
+"1571","Toyota","Hilux Chassi 4x4 2.8 TDI Diesel Mec.","2018","Diesel","4x4",146008
+"1572","Toyota","Hilux Chassi 4x4 2.8 TDI Diesel Mec.","2019","Diesel","4x4",150126
+"1573","Toyota","Hilux Chassi 4x4 2.8 TDI Diesel Mec.","2020","Diesel","4x4",174561
+"1574","Toyota","Hilux Chassi 4x4 2.8 TDI Diesel Mec.","2021","Diesel","4x4",179484
+"1575","Toyota","Hilux Chassi 4x4 2.8 TDI Diesel Mec.","2022","Diesel","4x4",202857
+"1576","Toyota","Hilux CS 4x4 2.8 TDI Diesel Mec.","2016","Diesel","4x4",124052
+"1577","Toyota","Hilux CS 4x4 2.8 TDI Diesel Mec.","2017","Diesel","4x4",161633
+"1578","Toyota","Hilux CS 4x4 2.8 TDI Diesel Mec.","2018","Diesel","4x4",173110
+"1579","Toyota","Hilux CS 4x4 2.8 TDI Diesel Mec.","2019","Diesel","4x4",190282
+"1580","Toyota","Hilux CS 4x4 2.8 TDI Diesel Mec.","2020","Diesel","4x4",195648
+"1581","Toyota","Hilux CS 4x4 2.8 TDI Diesel Mec.","2021","Diesel","4x4",203495
+"1582","Toyota","Hilux CS 4x4 2.8 TDI Diesel Mec.","2022","Diesel","4x4",209233
+"1583","Jaguar","F-Type R AWD Supercharged Coupe 5.0 V8","2016","Gasolina","AWD",449378
+"1584","Jaguar","F-Type R AWD Supercharged Coupe 5.0 V8","2017","Gasolina","AWD",529446
+"1585","Mitsubishi","ASX OUTDOOR 2.0 4X4 16V 160 cv Mec.","2016","Gasolina","4x4",83301
+"1586","Renault","DUSTER DAKAR 4x4 2.0 Hi-Flex 16V Mec.","2016","Flex","4x4",63014
+"1587","Renault","DUSTER DAKAR 4x4 2.0 Hi-Flex 16V Mec.","2017","Flex","4x4",68902
+"1588","Renault","DUSTER DAKAR 4x4 2.0 Hi-Flex 16V Mec.","2018","Flex","4x4",74647
+"1589","Subaru","Legacy 3.6 4x4 256cv Aut.","2015","Gasolina","4x4",108449
+"1590","Land Rover","Discovery Sport HSE L. 2.2 4x4 Die. Aut.","2015","Diesel","4x4",180267
+"1591","Land Rover","Discovery Sport HSE L. 2.2 4x4 Die. Aut.","2016","Diesel","4x4",190055
+"1592","Land Rover","Discovery Sport HSE L. 2.2 4x4 Die. Aut.","2017","Diesel","4x4",215654
+"1593","Fiat","Toro Freedom 2.0 16V 4x4 TB Diesel Mec.","2016","Diesel","4x4",87099
+"1594","Fiat","Toro Freedom 2.0 16V 4x4 TB Diesel Mec.","2017","Diesel","4x4",108180
+"1595","Fiat","Toro Freedom 2.0 16V 4x4 TB Diesel Mec.","2018","Diesel","4x4",114475
+"1596","Fiat","Toro Volcano 2.0 16V 4x4 TB Diesel Aut.","2016","Diesel","4x4",120705
+"1597","Fiat","Toro Volcano 2.0 16V 4x4 TB Diesel Aut.","2017","Diesel","4x4",124825
+"1598","Fiat","Toro Volcano 2.0 16V 4x4 TB Diesel Aut.","2018","Diesel","4x4",133944
+"1599","Fiat","Toro Volcano 2.0 16V 4x4 TB Diesel Aut.","2019","Diesel","4x4",145435
+"1600","Fiat","Toro Volcano 2.0 16V 4x4 TB Diesel Aut.","2020","Diesel","4x4",166485
+"1601","Fiat","Toro Volcano 2.0 16V 4x4 TB Diesel Aut.","2021","Diesel","4x4",173892
+"1602","Fiat","Toro Volcano 2.0 16V 4x4 TB Diesel Aut.","2022","Diesel","4x4",191495
+"1603","Mercedes-Benz","GLE-350 3.0 V6 258cv 4x4 Diesel","2016","Diesel","4x4",282739
+"1604","Mercedes-Benz","GLE-350 Family 3.0 V6 258cv 4x4 Diesel","2016","Diesel","4x4",296200
+"1605","Mercedes-Benz","GLE-350 Sport 4MATIC 3.0 V6 4x4 Diesel","2016","Diesel","4x4",282351
+"1606","Mercedes-Benz","GLE-350 Sport 4MATIC 3.0 V6 4x4 Diesel","2017","Diesel","4x4",322016
+"1607","Mercedes-Benz","GLE-350 Sport 4MATIC 3.0 V6 4x4 Diesel","2018","Diesel","4x4",376667
+"1608","Mercedes-Benz","GLE-350 Sport 4MATIC 3.0 V6 4x4 Diesel","2019","Diesel","4x4",408305
+"1609","Mitsubishi","L200 T. OUTDOOR 3.2 CD TB Int.Dies. Mec.","2017","Diesel","4x4",136650
+"1610","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Aut.","2017","Diesel","4x4",157372
+"1611","Mitsubishi","L200 Triton Savana 3.2 CD TBI Dies. Aut.","2018","Diesel","4x4",173521
+"1612","Mitsubishi","L200 T.OUTDOOR 3.2 CD TB Int. Dies. Aut.","2017","Diesel","4x4",142813
+"1613","Mitsubishi","L200 T.OUTDOOR 3.2 CD TB Int. Dies. Aut.","2018","Diesel","4x4",146841
+"1614","Toyota","Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.","2016","Diesel","4x4",252252
+"1615","Toyota","Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.","2017","Diesel","4x4",267479
+"1616","Toyota","Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.","2018","Diesel","4x4",289271
+"1617","Toyota","Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.","2019","Diesel","4x4",312470
+"1618","Toyota","Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.","2020","Diesel","4x4",345074
+"1619","Toyota","Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.","2021","Diesel","4x4",366987
+"1620","Toyota","Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.","2022","Diesel","4x4",384585
+"1621","Toyota","Hilux SW4 SRX 4x4 4.0 V6 24V Aut.","2016","Gasolina","4x4",213646
+"1622","Toyota","Hilux SW4 SRX 4x4 4.0 V6 24V Aut.","2017","Gasolina","4x4",227920
+"1623","Mitsubishi","L200 Triton KTM 3.2 CD TB Int.Dies. Mec.","2016","Diesel","4x4",155978
+"1624","Land Rover","Discovery Sport BLACK 2.2 4x4 Dies. Aut.","2016","Diesel","4x4",193975
+"1625","Ford","Ranger XLS 2.2 4x4 CD Diesel Aut.","2016","Diesel","4x4",125876
+"1626","Ford","Ranger XLS 2.2 4x4 CD Diesel Aut.","2017","Diesel","4x4",149905
+"1627","Ford","Ranger XLS 2.2 4x4 CD Diesel Aut.","2018","Diesel","4x4",159788
+"1628","Ford","Ranger XLS 2.2 4x4 CD Diesel Aut.","2019","Diesel","4x4",173512
+"1629","Ford","Ranger XLS 2.2 4x4 CD Diesel Aut.","2020","Diesel","4x4",199894
+"1630","Ford","Ranger XLS 2.2 4x4 CD Diesel Aut.","2021","Diesel","4x4",208125
+"1631","Ford","Ranger XLS 2.2 4x4 CD Diesel Aut.","2022","Diesel","4x4",223907
+"1632","Mercedes-Benz","GLS-350 V6 258cv 4x4 Diesel","2016","Diesel","4x4",417842
+"1633","Mercedes-Benz","GLS-350 V6 258cv 4x4 Diesel","2017","Diesel","4x4",488647
+"1634","Mercedes-Benz","GLS-350 V6 258cv 4x4 Diesel","2018","Diesel","4x4",502426
+"1635","Mercedes-Benz","GLS-350 V6 258cv 4x4 Diesel","2019","Diesel","4x4",565760
+"1636","Mitsubishi","Pajero OUTDOOR 3.2 4x4 T.I. Dies.5p Aut.","2017","Diesel","4x4",162437
+"1637","Mitsubishi","Pajero OUTDOOR 3.2 4x4 T.I. Dies.5p Aut.","2018","Diesel","4x4",182255
+"1638","VW - VolksWagen","AMAROK Hig.ULTIMATE CD 2.0 4x4 Dies. Aut","2016","Diesel","4x4",151121
+"1639","Ford","Ranger XL 2.2 4x4 CD Diesel Mec.","2013","Diesel","4x4",99015
+"1640","Ford","Ranger XL 2.2 4x4 CD Diesel Mec.","2014","Diesel","4x4",102826
+"1641","Ford","Ranger XL 2.2 4x4 CD Diesel Mec.","2015","Diesel","4x4",105726
+"1642","Ford","Ranger XL 2.2 4x4 CD Diesel Mec.","2016","Diesel","4x4",113292
+"1643","Ford","Ranger XL 2.2 4x4 CD Diesel Mec.","2019","Diesel","4x4",152843
+"1644","Ford","Ranger XL 2.2 4x4 CD Diesel Mec.","2020","Diesel","4x4",159276
+"1645","Ford","Ranger XL 2.2 4x4 CD Diesel Mec.","2022","Diesel","4x4",197228
+"1646","Jeep","Renegade 75 Anos 2.0 4X4 TB Diesel Aut.","2016","Diesel","4x4",105483
+"1647","Jeep","Renegade 75 Anos 2.0 4X4 TB Diesel Aut.","2017","Diesel","4x4",111329
+"1648","Land Rover","Discovery4 GRAPHITE 3.0 4x4 SDV6 Die.Aut","2016","Diesel","4x4",238610
+"1649","Volvo","XC 60 D-5 KINETIC 2.4 AWD Diesel 5p","2017","Diesel","AWD",144653
+"1650","Volvo","XC 60 D-5 MOMENTUM 2.4  AWD Diesel  5p","2015","Diesel","AWD",143115
+"1651","Volvo","XC 60 D-5 MOMENTUM 2.4  AWD Diesel  5p","2017","Diesel","AWD",156379
+"1652","Ford","EDGE TITANIUM 3.5 V6 24V AWD Aut.","2016","Gasolina","AWD",169348
+"1653","Ford","EDGE TITANIUM 3.5 V6 24V AWD Aut.","2017","Gasolina","AWD",186661
+"1654","Ford","EDGE TITANIUM 3.5 V6 24V AWD Aut.","2018","Gasolina","AWD",219042
+"1655","Mitsubishi","L200 Triton S. HPE FTP 2.4 CD Dies. Aut.","2017","Diesel","4x4",177149
+"1656","Mitsubishi","L200 Triton S. HPE FTP 2.4 CD Dies. Aut.","2018","Diesel","4x4",184947
+"1657","Mitsubishi","L200 Triton Sport GLS 2.4 CD Diesel Mec.","2017","Diesel","4x4",149818
+"1658","Mitsubishi","L200 Triton Sport GLS 2.4 CD Diesel Mec.","2018","Diesel","4x4",153956
+"1659","Mitsubishi","L200 Triton Sport HPE 2.4 CD Diesel Aut.","2017","Diesel","4x4",176870
+"1660","Mitsubishi","L200 Triton Sport HPE 2.4 CD Diesel Aut.","2018","Diesel","4x4",182204
+"1661","Mitsubishi","L200 Triton Sport HPE 2.4 CD Diesel Aut.","2019","Diesel","4x4",191765
+"1662","Mitsubishi","L200 Triton Sport HPE 2.4 CD Diesel Aut.","2020","Diesel","4x4",215131
+"1663","Mitsubishi","L200 Triton Sport HPE 2.4 CD Diesel Aut.","2021","Diesel","4x4",260017
+"1664","Mitsubishi","L200 Triton Sport HPE 2.4 CD Diesel Aut.","2022","Diesel","4x4",267350
+"1665","Jeep","COMPASS LONGITUDE 2.0 4x4 Dies. 16V Aut.","2016","Diesel","4x4",131948
+"1666","Jeep","COMPASS LONGITUDE 2.0 4x4 Dies. 16V Aut.","2017","Diesel","4x4",138034
+"1667","Jeep","COMPASS LONGITUDE 2.0 4x4 Dies. 16V Aut.","2018","Diesel","4x4",149338
+"1668","Jeep","COMPASS LONGITUDE 2.0 4x4 Dies. 16V Aut.","2019","Diesel","4x4",167584
+"1669","Jeep","COMPASS LONGITUDE 2.0 4x4 Dies. 16V Aut.","2020","Diesel","4x4",177490
+"1670","Jeep","COMPASS LONGITUDE 2.0 4x4 Dies. 16V Aut.","2021","Diesel","4x4",190522
+"1671","Jeep","COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.","2016","Diesel","4x4",142349
+"1672","Jeep","COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.","2017","Diesel","4x4",149975
+"1673","Jeep","COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.","2018","Diesel","4x4",165995
+"1674","Jeep","COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.","2019","Diesel","4x4",179067
+"1675","Jeep","COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.","2020","Diesel","4x4",192142
+"1676","Jeep","COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.","2021","Diesel","4x4",209467
+"1677","Jeep","Wrangler Unlimited 75 Anos 3.6 V6 284cv","2016","Gasolina","4x4",217407
+"1678","Mercedes-Benz","GLA 250 Sport 2.0 TB 16V 4x4 211cv Aut.","2016","Gasolina","4x4",164357
+"1679","Mercedes-Benz","GLA 250 Sport 2.0 TB 16V 4x4 211cv Aut.","2017","Gasolina","4x4",185310
+"1680","Land Rover","Discovery Sport HSE 2.0 4x4 Diesel Aut.","2016","Diesel","4x4",188848
+"1681","Land Rover","Discovery Sport HSE 2.0 4x4 Diesel Aut.","2017","Diesel","4x4",215779
+"1682","Land Rover","Discovery Sport HSE 2.0 4x4 Diesel Aut.","2018","Diesel","4x4",240878
+"1683","Land Rover","Discovery Sport HSE 2.0 4x4 Diesel Aut.","2019","Diesel","4x4",262136
+"1684","Land Rover","Discovery Sport SE 2.0 4x4 Diesel Aut.","2016","Diesel","4x4",175811
+"1685","Land Rover","Discovery Sport SE 2.0 4x4 Diesel Aut.","2017","Diesel","4x4",197264
+"1686","Land Rover","Discovery Sport SE 2.0 4x4 Diesel Aut.","2018","Diesel","4x4",225736
+"1687","Land Rover","Discovery Sport SE 2.0 4x4 Diesel Aut.","2019","Diesel","4x4",250396
+"1688","Land Rover","Discovery Sport SE 2.0 4x4 Diesel Aut.","2020","Diesel","4x4",345856
+"1689","Land Rover","Discovery Sport SE 2.0 4x4 Diesel Aut.","2021","Diesel","4x4",360816
+"1690","Land Rover","Discovery Sport SE 2.0 4x4 Diesel Aut.","2022","Diesel","4x4",370068
+"1691","Troller","T-4 BOLD 4x4 3.2 Tdi Cap. Rígida Diesel","2017","Diesel","4x4",172649
+"1692","VW - VolksWagen","AMAROK Hig. Extreme CD 2.0 4x4 Dies. Aut","2017","Diesel","4x4",182143
+"1693","VW - VolksWagen","AMAROK Hig. Extreme CD 2.0 4x4 Dies. Aut","2018","Diesel","4x4",219950
+"1694","Ford","Ranger XL 2.2 4x4 CS Diesel Mec.","2013","Diesel","4x4",91411
+"1695","Ford","Ranger XL 2.2 4x4 CS Diesel Mec.","2014","Diesel","4x4",95372
+"1696","Ford","Ranger XL 2.2 4x4 CS Diesel Mec.","2015","Diesel","4x4",101145
+"1697","Ford","Ranger XL 2.2 4x4 CS Diesel Mec.","2016","Diesel","4x4",105571
+"1698","Ford","Ranger XL 2.2 4x4 CS Diesel Mec.","2019","Diesel","4x4",149028
+"1699","Ford","Ranger XL 2.2 4x4 CS Diesel Mec.","2020","Diesel","4x4",153231
+"1700","Ford","Ranger XL 2.2 4x4 CS Diesel Mec.","2022","Diesel","4x4",187868
+"1701","Jeep","Grand Cherokee Lim. 75 anos 3.6 4x4 Aut.","2016","Gasolina","4x4",177500
+"1702","Nissan","Frontier LE CD 4x4 2.3 Bi-TB Diesel Aut.","2017","Diesel","4x4",168491
+"1703","Nissan","Frontier LE CD 4x4 2.3 Bi-TB Diesel Aut.","2018","Diesel","4x4",174685
+"1704","Nissan","Frontier LE CD 4x4 2.3 Bi-TB Diesel Aut.","2019","Diesel","4x4",206173
+"1705","Nissan","Frontier LE CD 4x4 2.3 Bi-TB Diesel Aut.","2020","Diesel","4x4",230951
+"1706","Nissan","Frontier LE CD 4x4 2.3 Bi-TB Diesel Aut.","2021","Diesel","4x4",247636
+"1707","Nissan","Frontier LE CD 4x4 2.3 Bi-TB Diesel Aut.","2022","Diesel","4x4",263114
+"1708","Audi","A4 Ambition 2.0 TFSI Quattro S tronic","2017","Gasolina","AWD",171651
+"1709","Audi","A4 Ambition 2.0 TFSI Quattro S tronic","2018","Gasolina","AWD",196577
+"1710","Land Rover","Discovery Sport HSE L. 2.0 4x4 Die. Aut.","2017","Diesel","4x4",222505
+"1711","Fiat","Toro Freedom 2.0 16V 4x4 Diesel Aut.","2018","Diesel","4x4",126699
+"1712","Fiat","Toro Freedom 2.0 16V 4x4 Diesel Aut.","2019","Diesel","4x4",135801
+"1713","Fiat","Toro Freedom 2.0 16V 4x4 Diesel Aut.","2020","Diesel","4x4",148695
+"1714","Fiat","Toro Freedom 2.0 16V 4x4 Diesel Aut.","2021","Diesel","4x4",163196
+"1715","Fiat","Toro Freedom 2.0 16V 4x4 Diesel Aut.","2022","Diesel","4x4",177001
+"1716","GM - Chevrolet","S10 Pick-Up LT 2.5 Flex 4x4 CD Aut.","2018","Flex","4x4",145306
+"1717","GM - Chevrolet","S10 Pick-Up LT 2.5 Flex 4x4 CD Aut.","2019","Flex","4x4",157547
+"1718","GM - Chevrolet","S10 Pick-Up LT 2.5 Flex 4x4 CD Aut.","2020","Flex","4x4",162697
+"1719","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD Aut.","2018","Flex","4x4",152949
+"1720","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD Aut.","2019","Flex","4x4",162262
+"1721","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD Aut.","2020","Flex","4x4",166823
+"1722","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD Aut.","2021","Flex","4x4",207586
+"1723","GM - Chevrolet","S10 Pick-Up LTZ 2.5 Flex 4x4 CD Aut.","2022","Flex","4x4",213440
+"1724","Land Rover","Discovery HSE 3.0 V6 4x4 TD6 Diesel Aut.","2017","Diesel","4x4",407287
+"1725","Land Rover","Discovery HSE 3.0 V6 4x4 TD6 Diesel Aut.","2018","Diesel","4x4",457999
+"1726","Land Rover","Discovery HSE 3.0 V6 4x4 TD6 Diesel Aut.","2019","Diesel","4x4",514064
+"1727","Land Rover","Discovery HSE 3.0 V6 4x4 TD6 Diesel Aut.","2020","Diesel","4x4",582809
+"1728","Mitsubishi","ASX 2.0 16V 4x4 Flex Aut.","2016","Flex","4x4",86495
+"1729","Mitsubishi","ASX 2.0 16V 4x4 Flex Aut.","2017","Flex","4x4",99522
+"1730","Mitsubishi","ASX 2.0 16V 4x4 Flex Aut.","2018","Flex","4x4",102329
+"1731","Mitsubishi","ASX 2.0 16V 4x4 Flex Aut.","2019","Flex","4x4",117833
+"1732","Land Rover","Discovery First Ed. 3.0 TD6 4x4 Die. Aut","2017","Diesel","4x4",438651
+"1733","Land Rover","Discovery HSE Lux. 3.0 TD6 4x4 Die. Aut.","2017","Diesel","4x4",411407
+"1734","Land Rover","Discovery HSE Lux. 3.0 TD6 4x4 Die. Aut.","2018","Diesel","4x4",482496
+"1735","Land Rover","Discovery HSE Lux. 3.0 TD6 4x4 Die. Aut.","2019","Diesel","4x4",560736
+"1736","Land Rover","Discovery HSE Lux. 3.0 TD6 4x4 Die. Aut.","2020","Diesel","4x4",607880
+"1737","Land Rover","Discovery SE 3.0 V6 4x4 TD6  Diesel Aut.","2017","Diesel","4x4",387991
+"1738","Land Rover","Discovery SE 3.0 V6 4x4 TD6  Diesel Aut.","2018","Diesel","4x4",419813
+"1739","Land Rover","Discovery SE 3.0 V6 4x4 TD6  Diesel Aut.","2019","Diesel","4x4",491343
+"1740","Land Rover","Discovery SE 3.0 V6 4x4 TD6  Diesel Aut.","2020","Diesel","4x4",530631
+"1741","Audi","Q5 Ambiente 2.0 TFSI Quattro S tronic","2018","Gasolina","AWD",223214
+"1742","Audi","Q5 Ambition 2.0 TFSI Quattro S tronic","2018","Gasolina","AWD",236532
+"1743","Audi","Q5 Attraction 2.0 TFSI Quattro S tronic","2018","Gasolina","AWD",211612
+"1744","Jeep","COMPASS LIMITED 2.0 4x4 Diesel 16V Aut.","2018","Diesel","4x4",165671
+"1745","Jeep","COMPASS LIMITED 2.0 4x4 Diesel 16V Aut.","2019","Diesel","4x4",178846
+"1746","Jeep","COMPASS LIMITED 2.0 4x4 Diesel 16V Aut.","2020","Diesel","4x4",191912
+"1747","Jeep","COMPASS LIMITED 2.0 4x4 Diesel 16V Aut.","2021","Diesel","4x4",207585
+"1748","Volvo","XC 60 T-5 MOMENTUM 2.0 254cv AWD 5p","2018","Gasolina","AWD",233487
+"1749","Volvo","XC 60 T-5 MOMENTUM 2.0 254cv AWD 5p","2019","Gasolina","AWD",246142
+"1750","Volvo","XC 60 T-5 MOMENTUM 2.0 254cv AWD 5p","2020","Gasolina","AWD",282687
+"1751","Volvo","XC 60 T-5 MOMENTUM 2.0 254cv AWD 5p","2021","Gasolina","AWD",315489
+"1752","Volvo","XC 60 T-5 R-DESIGN 2.0 AWD 5p","2018","Gasolina","AWD",242796
+"1753","Jeep","COMPASS SPORT 2.0 4x4 flex 16V Aut.","2018","Gasolina","4x4",113453
+"1754","Jeep","Renegade Custom 2.0 4x4 TB Diesel Aut.","2018","Diesel","4x4",116326
+"1755","Jeep","Renegade Limited 2.0 4x4 TB Diesel Aut.","2018","Diesel","4x4",126297
+"1756","Jeep","Renegade Night Eagle 2.0 4x4 TB Die. Aut","2018","Diesel","4x4",124451
+"1757","Volvo","XC 60 T-5 INSCRIPTION 2.0 AWD 5p","2018","Gasolina","AWD",242160
+"1758","Volvo","XC 60 T-5 INSCRIPTION 2.0 AWD 5p","2019","Gasolina","AWD",260611
+"1759","Ford","Ranger SPORTRAC 2.2 16V 4x4 CD Dies Aut.","2018","Diesel","4x4",165769
+"1760","GM - Chevrolet","EQUINOX Premier 2.0 Turbo AWD 262cv Aut.","2018","Gasolina","AWD",145998
+"1761","GM - Chevrolet","EQUINOX Premier 2.0 Turbo AWD 262cv Aut.","2019","Gasolina","AWD",164551
+"1762","GM - Chevrolet","EQUINOX Premier 2.0 Turbo AWD 262cv Aut.","2020","Gasolina","AWD",185662
+"1763","GM - Chevrolet","S10 P.Up 100YEARS 2.8 4x4 CD Dies. Aut.","2018","Diesel","4x4",198674
+"1764","Land Rover","Range R. VELAR 2.0 4x4 TB 250cv Aut.","2018","Gasolina","4x4",376068
+"1765","Land Rover","Range R. VELAR 3.0 4x4 V6 380cv Aut.","2018","Gasolina","4x4",394424
+"1766","Land Rover","Range R. VELAR First Ed. 3.0 4x4 V6 Aut.","2018","Gasolina","4x4",492860
+"1767","Land Rover","Range R. VELAR HSE 2.0 4x4 TB 250cv Aut.","2018","Gasolina","4x4",431304
+"1768","Land Rover","Range R. VELAR HSE 3.0 4x4 V6 380cv Aut","2018","Gasolina","4x4",492997
+"1769","Land Rover","Range R. VEL. R-Dyn. 2.0 4x4 250cv Aut.","2018","Gasolina","4x4",403915
+"1770","Land Rover","Range R. VELAR R-Dyn. 3.0 4x4 V6 Aut.","2018","Gasolina","4x4",440172
+"1771","Land Rover","Range R. VELAR R-Dyn. HSE 2.0 4x4 TB Aut","2018","Gasolina","4x4",443077
+"1772","Land Rover","Range R. VELAR R-Dyn. HSE 3.0 4x4 V6 Aut","2018","Gasolina","4x4",479453
+"1773","Land Rover","Range R. VELAR R-Dyn. HSE 3.0 4x4 V6 Aut","2019","Gasolina","4x4",524585
+"1774","Land Rover","Range R. VELAR R-Dyn. HSE 3.0 4x4 V6 Aut","2020","Gasolina","4x4",572105
+"1775","Land Rover","Range R. VELAR R-Dyn. S 3.0 4x4 V6 Aut.","2018","Gasolina","4x4",461388
+"1776","Land Rover","Range R. VE. R-Dyn SE 2.0 4x4 250cv Aut.","2018","Gasolina","4x4",424295
+"1777","Land Rover","Range R. VELAR R-Dyn. SE 3.0 4x4 V6 Aut.","2018","Gasolina","4x4",461991
+"1778","Land Rover","Range R. VELAR R-Dyn. SE 3.0 4x4 V6 Aut.","2019","Gasolina","4x4",477100
+"1779","Land Rover","Range R. VELAR R-Dyn. S 2.0 4x4 TB Aut.","2018","Gasolina","4x4",411588
+"1780","Land Rover","Range R. VELAR S 2.0 4x4 TB 250cv Aut.","2018","Gasolina","4x4",401951
+"1781","Land Rover","Range R. VELAR S 3.0 4x4 V6 380cv Aut.","2018","Gasolina","4x4",463380
+"1782","Land Rover","Range R. VELAR SE 2.0 4x4 TB 250cv Aut.","2018","Gasolina","4x4",414960
+"1783","Land Rover","Range R. VELAR SE 3.0 4x4 V6 380cv Aut.","2018","Gasolina","4x4",465478
+"1784","Subaru","Forester 2.0 L 16V 4x4 Aut.","2017","Gasolina","4x4",104212
+"1785","Subaru","Forester 2.0 L 16V 4x4 Aut.","2018","Gasolina","4x4",111402
+"1786","Toyota","Hilux CD SR CHALL. 4x4 2.8 TDI Dies Aut.","2018","Diesel","4x4",205997
+"1787","Jeep","COMPASS Night Eagle 2.0 4x4 TB Dies. Aut","2018","Diesel","4x4",153925
+"1788","Nissan","Frontier SE CD 4x4 2.3 Bi-TB Diesel Aut.","2018","Diesel","4x4",166718
+"1789","Nissan","Frontier SE CD 4x4 2.3 Bi-TB Diesel Aut.","2019","Diesel","4x4",174972
+"1790","Audi","RS3 Sedan 2.5 TFSI Quattro S-tronic","2017","Gasolina","AWD",297309
+"1791","Audi","RS3 Sedan 2.5 TFSI Quattro S-tronic","2018","Gasolina","AWD",428921
+"1792","Mitsubishi","L200 Triton Sport GLS 2.4 CD Diesel Aut.","2018","Diesel","4x4",171311
+"1793","Mitsubishi","L200 Triton Sport GLS 2.4 CD Diesel Aut.","2019","Diesel","4x4",179287
+"1794","Mitsubishi","L200 Triton Sport GLS 2.4 CD Diesel Aut.","2020","Diesel","4x4",186717
+"1795","Mitsubishi","L200 Triton Sport GLS 2.4 CD Diesel Aut.","2021","Diesel","4x4",208298
+"1796","Mitsubishi","L200 Triton Sport GLS 2.4 CD Diesel Aut.","2022","Diesel","4x4",244264
+"1797","VW - VolksWagen","AMAROK Highline CD 3.0 4x4 TB Dies. Aut.","2018","Diesel","4x4",213026
+"1798","VW - VolksWagen","AMAROK Highline CD 3.0 4x4 TB Dies. Aut.","2019","Diesel","4x4",240088
+"1799","VW - VolksWagen","AMAROK Highline CD 3.0 4x4 TB Dies. Aut.","2020","Diesel","4x4",255380
+"1800","VW - VolksWagen","AMAROK Highline CD 3.0 4x4 TB Dies. Aut.","2021","Diesel","4x4",282027
+"1801","VW - VolksWagen","AMAROK Highline CD 3.0 4x4 TB Dies. Aut.","2022","Diesel","4x4",290536
+"1802","Ford","EcoSport STORM 2.0 4WD 16V Flex 5p Aut.","2018","Flex","4x4",82927
+"1803","Ford","EcoSport STORM 2.0 4WD 16V Flex 5p Aut.","2019","Flex","4x4",90305
+"1804","Ford","EcoSport STORM 2.0 4WD 16V Flex 5p Aut.","2020","Flex","4x4",92852
+"1805","Ford","EcoSport STORM 2.0 4WD 16V Flex 5p Aut.","2021","Flex","4x4",104917
+"1806","Mitsubishi","L200 Triton Sport GLX 2.4 CD Diesel Mec.","2017","Diesel","4x4",111397
+"1807","Mitsubishi","L200 Triton Sport GLX 2.4 CD Diesel Mec.","2018","Diesel","4x4",135511
+"1808","Mitsubishi","L200 Triton Sport GLX 2.4 CD Diesel Mec.","2019","Diesel","4x4",149324
+"1809","Mitsubishi","L200 Triton Sport GLX 2.4 CD Diesel Mec.","2020","Diesel","4x4",167840
+"1810","Mitsubishi","L200 Triton Sport HPE-S 2.4 CD Dies. Aut","2018","Diesel","4x4",186077
+"1811","Mitsubishi","L200 Triton Sport HPE-S 2.4 CD Dies. Aut","2019","Diesel","4x4",202445
+"1812","Mitsubishi","L200 Triton Sport HPE-S 2.4 CD Dies. Aut","2020","Diesel","4x4",222161
+"1813","Mitsubishi","L200 Triton Sport HPE-S 2.4 CD Dies. Aut","2021","Diesel","4x4",284395
+"1814","Mitsubishi","L200 Triton Sport HPE-S 2.4 CD Dies. Aut","2022","Diesel","4x4",294604
+"1815","Mitsubishi","Pajero HD-S 3.2 4x4 T.I. Diesel 5p Mec.","2018","Diesel","4x4",157210
+"1816","Audi","Q5 2.0 TFSI Quattro S tronic (Blindado)","2018","Gasolina","AWD",291897
+"1817","Audi","Q5 2.0 TFSI Quattro S tronic (Blindado)","2019","Gasolina","AWD",302741
+"1818","Audi","Q5 2.0 TFSI Quattro S tronic (Blindado)","2020","Gasolina","AWD",322595
+"1819","Volvo","XC 40 T-5 MOMENT FIRST ED. 2.0 252cv AWD","2018","Gasolina","AWD",194065
+"1820","Volvo","XC 40 T-5 MOMENTUM 2.0 252cv AWD","2018","Gasolina","AWD",193450
+"1821","Volvo","XC 40 T-5 MOMENTUM 2.0 252cv AWD","2019","Gasolina","AWD",212139
+"1822","Volvo","XC 40 T-5 MOMENTUM 2.0 252cv AWD","2020","Gasolina","AWD",234150
+"1823","Volvo","XC 40 T-5 R-DESIGN 2.0 252cv AWD","2018","Gasolina","AWD",220197
+"1824","Volvo","XC 40 T-5 R-DESIGN 2.0 252cv AWD","2019","Gasolina","AWD",245883
+"1825","Volvo","XC 40 T-5 R-DESIGN 2.0 252cv AWD","2020","Gasolina","AWD",257669
+"1826","Volvo","XC 40 T-5 R-DESIGN FIR. ED 2.0 252cv AWD","2018","Gasolina","AWD",186944
+"1827","GM - Chevrolet","S10 Pick-Up Midnight 2.8 4x4 CD Dies Aut","2019","Diesel","4x4",193927
+"1828","Honda","CR-V Touring 1.5 16V 4WD 5p Aut.","2018","Gasolina","4x4",198107
+"1829","Honda","CR-V Touring 1.5 16V 4WD 5p Aut.","2019","Gasolina","4x4",216928
+"1830","Honda","CR-V Touring 1.5 16V 4WD 5p Aut.","2021","Gasolina","4x4",271545
+"1831","Jaguar","E-Pace 2.0 AWD 249cv Aut/Flex","2018","Flex","AWD",250693
+"1832","Jaguar","E-Pace 2.0 AWD 249cv Aut/Flex","2019","Flex","AWD",258722
+"1833","Jaguar","E-Pace 2.0 AWD 249cv Aut/Flex","2020","Flex","AWD",269318
+"1834","Jaguar","E-Pace FIRST EDITION 2.0 AWD 249cv Aut.","2018","Gasolina","AWD",286726
+"1835","Jaguar","E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex","2018","Flex","AWD",266203
+"1836","Jaguar","E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex","2019","Flex","AWD",294298
+"1837","Jaguar","E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex","2020","Flex","AWD",319784
+"1838","Jaguar","E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex","2021","Flex","AWD",374369
+"1839","Jaguar","E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.","2018","Gasolina","AWD",279365
+"1840","Jaguar","E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.","2019","Gasolina","AWD",314349
+"1841","Jaguar","E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.","2020","Gasolina","AWD",331964
+"1842","SSANGYONG","ACTYON SP DLX 2.2 7 4x4 178cv Dies. Aut.","2018","Diesel","4x4",147462
+"1843","SSANGYONG","ACTYON SPORTS 2.2 4x4 178cv TB Dies Aut.","2018","Diesel","4x4",135550
+"1844","SSANGYONG","Korando 2.2 AWD 178cv TB Diesel Aut.","2018","Diesel","AWD",135564
+"1845","SSANGYONG","Korando DLX 2.2 AWD 178cv TB Diesel Aut.","2018","Diesel","AWD",145400
+"1846","Toyota","Hilux SW4 SRX Diamo. 4x4 2.8 TB Die Aut.","2019","Diesel","4x4",331168
+"1847","Toyota","Hilux SW4 SRX Diamo. 4x4 2.8 TB Die Aut.","2020","Diesel","4x4",342890
+"1848","VW - VolksWagen","TIGUAN Allspac R-Line 350 TSI 2.0 4x4","2018","Gasolina","4x4",208121
+"1849","VW - VolksWagen","TIGUAN Allspac R-Line 350 TSI 2.0 4x4","2019","Gasolina","4x4",221634
+"1850","VW - VolksWagen","TIGUAN Allspac R-Line 350 TSI 2.0 4x4","2020","Gasolina","4x4",239909
+"1851","VW - VolksWagen","TIGUAN Allspac R-Line 350 TSI 2.0 4x4","2021","Gasolina","4x4",258250
+"1852","Jaguar","F-Type SVR AWD Supercharged Coupe 5.0 V8","2017","Gasolina","AWD",669920
+"1853","Jaguar","F-Type SVR AWD Supercharged Coupe 5.0 V8","2019","Gasolina","AWD",691215
+"1854","Jaguar","F-Type SVR AWD Supercharged Coupe 5.0 V8","2020","Gasolina","AWD",709325
+"1855","Jeep","Wrangler Unlimited SAHARA 3.6 V6 4p","2018","Gasolina","4x4",299446
+"1856","Mitsubishi","L200 Triton GL 3.2 CD TB Int. Dies. Mec.","2013","Diesel","4x4",82116
+"1857","Mitsubishi","L200 Triton GL 3.2 CD TB Int. Dies. Mec.","2014","Diesel","4x4",89990
+"1858","Mitsubishi","L200 Triton GL 3.2 CD TB Int. Dies. Mec.","2015","Diesel","4x4",100084
+"1859","Mitsubishi","L200 Triton GL 3.2 CD TB Int. Dies. Mec.","2016","Diesel","4x4",108996
+"1860","Mitsubishi","L200 Triton GL 3.2 CD TB Int. Dies. Mec.","2017","Diesel","4x4",114220
+"1861","Mitsubishi","L200 Triton GL 3.2 CD TB Int. Dies. Mec.","2018","Diesel","4x4",133010
+"1862","Subaru","XV 2.0 L 16V 4x4 Aut.","2018","Gasolina","4x4",127352
+"1863","Subaru","XV 2.0 L 16V 4x4 Aut.","2019","Gasolina","4x4",130943
+"1864","Jaguar","E-Pace R-Dynamic HSE 2.0 AWD 300cv Aut.","2018","Gasolina","AWD",280215
+"1865","Land Rover","Discovery HSE 3.0 V6 4x4 Aut.","2018","Gasolina","4x4",378306
+"1866","Land Rover","Discovery HSE Lux. 3.0 V6 4x4 Aut.","2018","Gasolina","4x4",444906
+"1867","Land Rover","Discovery S 3.0 V6 4x4 Aut.","2018","Gasolina","4x4",270693
+"1868","Land Rover","Discovery S 3.0 V6 4x4 TD6 Diesel Aut.","2018","Diesel","4x4",271926
+"1869","Land Rover","Discovery SE 3.0 V6 4x4 Aut.","2018","Gasolina","4x4",297167
+"1870","Fiat","Toro Ranch 2.0 16V 4x4 Diesel Aut.","2019","Diesel","4x4",154950
+"1871","Fiat","Toro Ranch 2.0 16V 4x4 Diesel Aut.","2020","Diesel","4x4",170102
+"1872","Fiat","Toro Ranch 2.0 16V 4x4 Diesel Aut.","2021","Diesel","4x4",177237
+"1873","Fiat","Toro Ranch 2.0 16V 4x4 Diesel Aut.","2022","Diesel","4x4",201274
+"1874","Land Rover","Range R. VE. R-Dyn SE 2.0 4x4 300cv Aut.","2019","Gasolina","4x4",459900
+"1875","Land Rover","Range R. VE. R-Dyn SE 2.0 4x4 300cv Aut.","2020","Gasolina","4x4",517717
+"1876","Land Rover","Range R. VEL. R-Dyn. 2.0 4x4 300cv Aut.","2019","Gasolina","4x4",437543
+"1877","Volvo","XC 60 D-5 MOMENTUM 2.0 AWD Diesel 5p","2019","Diesel","AWD",280666
+"1878","Volvo","XC 60 D-5 MOMENTUM 2.0 AWD Diesel 5p","2020","Diesel","AWD",304796
+"1879","Volvo","XC 60 D-5 MOMENTUM 2.0 AWD Diesel 5p","2021","Diesel","AWD",316751
+"1880","Jaguar","E-Pace R-Dyn. SE 2.0 AWD 250cv Aut/Flex.","2018","Flex","AWD",269888
+"1881","Jaguar","E-Pace R-Dyn. SE 2.0 AWD 250cv Aut/Flex.","2019","Flex","AWD",316963
+"1882","Land Rover","Range R. VELAR S 2.0 4x4 TB 300cv Aut.","2019","Gasolina","4x4",433446
+"1883","Mercedes-Benz","G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.","2019","Gasolina","4x4",1650320
+"1884","Mercedes-Benz","G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.","2020","Gasolina","4x4",1704521
+"1885","Mercedes-Benz","G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.","2021","Gasolina","4x4",1750120
+"1886","Mercedes-Benz","G-63 AMG ED1 4MATIC 4.0 V8 Bi-TB Aut.","2019","Gasolina","4x4",1968333
+"1887","Volvo","XC 60 D-5 INSCRIPT 2.0 AWD Diesel 5p","2019","Diesel","AWD",311485
+"1888","Volvo","XC 60 D-5 INSCRIPT 2.0 AWD Diesel 5p","2020","Diesel","AWD",327218
+"1889","Land Rover","Range R. VE. R-Dyn HSE 2.0 4X4 300cv Aut","2019","Gasolina","4x4",459003
+"1890","Land Rover","Range R. VE. R-Dyn S 2.0 4X4 300cv Aut.","2019","Gasolina","4x4",445120
+"1891","Volvo","S90 T-8  INSCRIPT 2.0 AWD 407cv Híbrido","2019","Gasolina","AWD",301321
+"1892","Volvo","S90 T-8  INSCRIPT 2.0 AWD 407cv Híbrido","2020","Gasolina","AWD",334960
+"1893","Volvo","S90 T-8  INSCRIPT 2.0 AWD 407cv Híbrido","2021","Gasolina","AWD",375919
+"1894","Volvo","S90 T-8  INSCRIPT 2.0 AWD 407cv Híbrido","2022","Gasolina","AWD",385558
+"1895","VW - VolksWagen","AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.","2019","Diesel","4x4",178469
+"1896","VW - VolksWagen","AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.","2020","Diesel","4x4",201500
+"1897","VW - VolksWagen","AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.","2021","Diesel","4x4",233717
+"1898","VW - VolksWagen","AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.","2022","Diesel","4x4",240308
+"1899","VW - VolksWagen","AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.","2018","Diesel","4x4",226658
+"1900","VW - VolksWagen","AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.","2019","Diesel","4x4",251441
+"1901","VW - VolksWagen","AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.","2020","Diesel","4x4",274013
+"1902","VW - VolksWagen","AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.","2021","Diesel","4x4",291624
+"1903","VW - VolksWagen","AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.","2022","Diesel","4x4",299847
+"1904","Nissan","Frontier ATTAC.CD 4x4 2.3 Bi-TB Die. Aut","2019","Diesel","4x4",184650
+"1905","Nissan","Frontier ATTAC.CD 4x4 2.3 Bi-TB Die. Aut","2020","Diesel","4x4",196743
+"1906","Nissan","Frontier ATTAC.CD 4x4 2.3 Bi-TB Die. Aut","2021","Diesel","4x4",213342
+"1907","Nissan","Frontier ATTAC.CD 4x4 2.3 Bi-TB Die. Aut","2022","Diesel","4x4",232339
+"1908","Nissan","Frontier XE CD 4x4 2.3 Bi-TB Diesel Aut.","2019","Diesel","4x4",183229
+"1909","Nissan","Frontier XE CD 4x4 2.3 Bi-TB Diesel Aut.","2020","Diesel","4x4",206054
+"1910","Nissan","Frontier XE CD 4x4 2.3 Bi-TB Diesel Aut.","2021","Diesel","4x4",221973
+"1911","Nissan","Frontier XE CD 4x4 2.3 Bi-TB Diesel Aut.","2022","Diesel","4x4",243499
+"1912","Toyota","Hilux CD GR-S 4x4 2.8 TDI Dies. Aut.","2019","Diesel","4x4",248700
+"1913","Toyota","Hilux CD GR-S 4x4 2.8 TDI Dies. Aut.","2020","Diesel","4x4",264939
+"1914","Audi","Q5 Black 2.0 TFSI Quattro S tronic","2019","Gasolina","AWD",285917
+"1915","Audi","Q5 Black 2.0 TFSI Quattro S tronic","2020","Gasolina","AWD",309660
+"1916","Audi","Q5 Prestige 2.0 TFSI Quattro S tronic","2019","Gasolina","AWD",244432
+"1917","Audi","Q5 Prestige 2.0 TFSI Quattro S tronic","2020","Gasolina","AWD",264840
+"1918","Audi","Q5 Prestige 2.0 TFSI Quattro S tronic","2021","Gasolina","AWD",315766
+"1919","Audi","Q5 Prestige 2.0 TFSI Quattro S tronic","2022","Gasolina","AWD",330455
+"1920","Ford","EDGE ST 2.7 V6 24V AWD Aut.","2019","Gasolina","AWD",290727
+"1921","Ford","EDGE ST 2.7 V6 24V AWD Aut.","2020","Gasolina","AWD",317506
+"1922","Mitsubishi","OUTLANDER HPE-S 3.0 V6 4x4 5p Aut.","2019","Gasolina","4x4",210055
+"1923","Mitsubishi","OUTLANDER HPE-S 3.0 V6 4x4 5p Aut.","2020","Gasolina","4x4",220149
+"1924","Mitsubishi","OUTLANDER HPE-S 3.0 V6 4x4 5p Aut.","2021","Gasolina","4x4",253702
+"1925","Mitsubishi","OUTLANDER HPE-S 3.0 V6 4x4 5p Aut.","2022","Gasolina","4x4",260856
+"1926","Audi","RS4 2.9 Avant V6 TFSI Quattro Tiptronic","2019","Gasolina","AWD",547305
+"1927","Audi","RS4 2.9 Avant V6 TFSI Quattro Tiptronic","2021","Gasolina","AWD",672250
+"1928","Audi","RS4 2.9 Avant V6 TFSI Quattro Tiptronic","2022","Gasolina","AWD",691206
+"1929","Audi","RS5 Coupê 2.9 V6 TFSI Quattro Tiptronic","2019","Gasolina","AWD",491079
+"1930","Land Rover","Discovery Sport Landmark 2.0 4x4 Diesel","2019","Diesel","4x4",288583
+"1931","Mitsubishi","ASX HPE-S AWD Flex 2.0 16V Aut.","2020","Flex","AWD",155045
+"1932","Mitsubishi","OUTLANDER HPE-S 2.2 Diesel 4x4 Aut.","2019","Diesel","4x4",229128
+"1933","Mitsubishi","OUTLANDER HPE-S 2.2 Diesel 4x4 Aut.","2020","Diesel","4x4",238734
+"1934","Mitsubishi","OUTLANDER HPE-S 2.2 Diesel 4x4 Aut.","2021","Diesel","4x4",252063
+"1935","Mitsubishi","OUTLANDER HPE-S 2.2 Diesel 4x4 Aut.","2022","Diesel","4x4",290144
+"1936","Nissan","Frontier S CD 4x4 2.3 TB Diesel Mec.","2019","Diesel","4x4",157803
+"1937","Nissan","Frontier S CD 4x4 2.3 TB Diesel Mec.","2020","Diesel","4x4",175966
+"1938","Nissan","Frontier S CD 4x4 2.3 TB Diesel Mec.","2021","Diesel","4x4",190445
+"1939","Nissan","Frontier S CD 4x4 2.3 TB Diesel Mec.","2022","Diesel","4x4",195816
+"1940","Jeep","COMPASS S 2.0 4x4 TB 16V Diesel Aut.","2019","Diesel","4x4",184908
+"1941","Jeep","COMPASS S 2.0 4x4 TB 16V Diesel Aut.","2020","Diesel","4x4",201861
+"1942","Jeep","COMPASS S 2.0 4x4 TB 16V Diesel Aut.","2021","Diesel","4x4",219909
+"1943","Jeep","Renegade Willys 2.0 4x4 TB Diesel Aut.","2019","Diesel","4x4",152521
+"1944","Jeep","Wrangler SAHARA 2.0 4x4 271cv 2p Aut.","2018","Gasolina","4x4",264018
+"1945","Jeep","Wrangler SAHARA 2.0 4x4 271cv 2p Aut.","2019","Gasolina","4x4",347123
+"1946","Jeep","Wrangler SAHARA 2.0 4x4 271cv 2p Aut.","2020","Gasolina","4x4",356911
+"1947","Jeep","Wrangler SAHARA 2.0 4x4 271cv 2p Aut.","2021","Gasolina","4x4",374514
+"1948","Jeep","Wrangler SAHARA Overland 2.0 4x4 4p Aut.","2019","Gasolina","4x4",356063
+"1949","Jeep","Wrangler SAHARA Overland 2.0 4x4 4p Aut.","2020","Gasolina","4x4",385657
+"1950","Jeep","Wrangler SAHARA Overland 2.0 4x4 4p Aut.","2021","Gasolina","4x4",406598
+"1951","Mitsubishi","ASX HPE AWD 2.0 16V Flex Aut.","2020","Flex","AWD",124712
+"1952","Mitsubishi","Pajero Sport HPE 2.4 4x4 Diesel Aut.","2018","Diesel","4x4",236021
+"1953","Mitsubishi","Pajero Sport HPE 2.4 4x4 Diesel Aut.","2019","Diesel","4x4",253766
+"1954","Mitsubishi","Pajero Sport HPE 2.4 4x4 Diesel Aut.","2020","Diesel","4x4",309359
+"1955","Mitsubishi","Pajero Sport HPE 2.4 4x4 Diesel Aut.","2021","Diesel","4x4",343412
+"1956","Mitsubishi","Pajero Sport HPE 2.4 4x4 Diesel Aut.","2022","Diesel","4x4",352082
+"1957","Jaguar","I-Pace SE EV400 AWD Aut. (Elétrico)","2019","Elétrico","AWD",447255
+"1958","Jaguar","I-Pace SE EV400 AWD Aut. (Elétrico)","2020","Elétrico","AWD",463365
+"1959","Jaguar","I-Pace SE EV400 AWD Aut. (Elétrico)","2021","Elétrico","AWD",587423
+"1960","Jaguar","I-Pace SE EV400 AWD Aut. (Elétrico)","2022","Elétrico","AWD",608473
+"1961","Toyota","RAV4 2.5 S 4x4 Hybrid Aut.","2019","Gasolina","4x4",228485
+"1962","Toyota","RAV4 2.5 S 4x4 Hybrid Aut.","2020","Gasolina","4x4",246171
+"1963","Toyota","RAV4 2.5 SX 4x4 Hybrid Aut.","2019","Gasolina","4x4",246527
+"1964","Toyota","RAV4 2.5 SX 4x4 Hybrid Aut.","2020","Gasolina","4x4",258567
+"1965","Fiat","Toro Endurance 2.0 16V 4x4 Diesel Aut.","2020","Diesel","4x4",144390
+"1966","Fiat","Toro Endurance 2.0 16V 4x4 Diesel Aut.","2021","Diesel","4x4",154262
+"1967","Fiat","Toro Endurance 2.0 16V 4x4 Diesel Aut.","2022","Diesel","4x4",165818
+"1968","Audi","Q5 S-Line 2.0 TFSI Quattro S-tronic","2019","Gasolina","AWD",268391
+"1969","Audi","Q5 S-Line 2.0 TFSI Quattro S-tronic","2020","Gasolina","AWD",291912
+"1970","Audi","Q5 S-Line 2.0 TFSI Quattro S-tronic","2021","Gasolina","AWD",369998
+"1971","Audi","Q5 S-Line 2.0 TFSI Quattro S-tronic","2022","Gasolina","AWD",379485
+"1972","Mitsubishi","L200 Tri. Sport Outd. GLX 2.4 4x4 Diesel","2020","Diesel","4x4",150304
+"1973","Renault","DUSTER GoPro 4x4 2.0 Hi-Flex 16V Mec.","2020","Flex","4x4",90081
+"1974","Troller","T-4 TRAIL 4x4 3.2 Tdi Cap. Ríg. Diesel","2019","Diesel","4x4",181810
+"1975","Audi","A6 Performance 3.0 TFSI Quattro S.tronic","2020","Gasolina","AWD",396071
+"1976","Jaguar","E-Pace S 2.0 AWD 249cv Flex Aut.","2019","Flex","AWD",287087
+"1977","Jaguar","E-Pace S 2.0 AWD 249cv Flex Aut.","2020","Flex","AWD",305155
+"1978","Hyundai","Santa Fe 3.5 V6 4X4 Aut.","2020","Gasolina","4x4",308589
+"1979","Volvo","XC 40 T-5 R-DESIGN SPE. ED 2.0 252cv AWD","2020","Gasolina","AWD",273240
+"1980","Fiat","Toro Ultra 2.0 16V 4x4 Diesel Aut.","2020","Diesel","4x4",169784
+"1981","Fiat","Toro Ultra 2.0 16V 4x4 Diesel Aut.","2021","Diesel","4x4",188766
+"1982","Fiat","Toro Ultra 2.0 16V 4x4 Diesel Aut.","2022","Diesel","4x4",202188
+"1983","Troller","T-4 TX4 4x4 3.2 20V Cap.Ríg Diesel Aut.","2020","Diesel","4x4",214622
+"1984","Troller","T-4 TX4 4x4 3.2 20V Cap.Ríg Diesel Aut.","2021","Diesel","4x4",220125
+"1985","Land Rover","Discovery Sport S 2.0 4x4 Diesel. Aut","2020","Diesel","4x4",333155
+"1986","Land Rover","Discovery Sport S 2.0 4x4 Diesel. Aut","2021","Diesel","4x4",342936
+"1987","Land Rover","Discovery Sport S 2.0 4x4 Flex Aut.","2020","Flex","4x4",284195
+"1988","Land Rover","Discovery Sport S 2.0 4x4 Flex Aut.","2021","Flex","4x4",311950
+"1989","Toyota","Hilux CD GR-S 4x4 4.0 V6 234cv Aut.","2020","Gasolina","4x4",211102
+"1990","Mitsubishi","L200 Tri. Sport Outdoor 2.4 CD 4x4 Dies.","2020","Diesel","4x4",147651
+"1991","Troller","T-4 4x4 3.2 Tdi Cap.Rígida Die. Aut.","2020","Diesel","4x4",206616
+"1992","Troller","T-4 4x4 3.2 Tdi Cap.Rígida Die. Aut.","2021","Diesel","4x4",223713
+"1993","Ford","Ranger Storm 3.2 20V 4x4 CD Diesel Aut.","2020","Diesel","4x4",210958
+"1994","Ford","Ranger Storm 3.2 20V 4x4 CD Diesel Aut.","2021","Diesel","4x4",225889
+"1995","Ford","Ranger Storm 3.2 20V 4x4 CD Diesel Aut.","2022","Diesel","4x4",231918
+"1996","Troller","T-4 TX4 4x4 3.2 20V Cap. Rígido Diesel","2020","Diesel","4x4",204900
+"1997","Troller","T-4 TX4 4x4 3.2 20V Cap. Rígido Diesel","2021","Diesel","4x4",212783
+"1998","Jeep","Wrangler RUBICON 2.0 Turbo 4x4 4p Aut.","2020","Gasolina","4x4",434788
+"1999","Jeep","Wrangler RUBICON 2.0 Turbo 4x4 4p Aut.","2021","Gasolina","4x4",447854
+"2000","Toyota","RAV4 2.5 S Connect 4x4 Hybrid Aut.","2020","Gasolina","4x4",236915
+"2001","Toyota","RAV4 2.5 SX Connect 4x4 Hybrid Aut.","2020","Gasolina","4x4",255842
+"2002","Toyota","RAV4 2.5 SX Connect 4x4 Hybrid Aut.","2021","Gasolina","4x4",279117
+"2003","Mitsubishi","L200 Triton MotorSports HPE 2.4 Dies.","2020","Diesel","4x4",177735
+"2004","Mitsubishi","L200 Triton MotorSports HPE 2.4 Dies.","2021","Diesel","4x4",182603
+"2005","Mitsubishi","Pajero Sport HPE-S 2.4  4x4 Diesel Aut.","2021","Diesel","4x4",376257
+"2006","Mitsubishi","Pajero Sport HPE-S 2.4  4x4 Diesel Aut.","2022","Diesel","4x4",385905
+"2007","Land Rover","Defender 110 2.0 Turbo HSE Si4 Aut.","2020","Gasolina","4x4",577482
+"2008","Land Rover","Defender 110 2.0 Turbo HSE Si4 Aut.","2021","Gasolina","4x4",593266
+"2009","Land Rover","Defender 110 2.0 Turbo HSE Si4 Aut.","2022","Gasolina","4x4",610125
+"2010","Land Rover","Defender 110 2.0 Turbo S Si4 Aut.","2020","Gasolina","4x4",462152
+"2011","Land Rover","Defender 110 2.0 Turbo SE Si4 Aut.","2020","Gasolina","4x4",541375
+"2012","Land Rover","Defender 110 2.0 Turbo SE Si4 Aut.","2021","Gasolina","4x4",556985
+"2013","Land Rover","Defender 110 2.0 Turbo SE Si4 Aut.","2022","Gasolina","4x4",572025
+"2014","Mitsubishi","L200 Tri. Out. HPE-S 2-4 CD 4X4 Die. Aut","2021","Diesel","4x4",225408
+"2015","Mitsubishi","L200 Tri. Outd. GLX 2.4 CD 4x4 Die. Mec.","2021","Diesel","4x4",185111
+"2016","Mitsubishi","L200 Tri. Outd. GLX 2.4 CD 4x4 Die. Mec.","2022","Diesel","4x4",199613
+"2017","Mitsubishi","L200 Tri. Outd. HPE 2.4 CD 4x4 Die. Aut.","2021","Diesel","4x4",205649
+"2018","Mitsubishi","L200 Tri. Outdo. GLS 2.4 CD 4x4 Die. Aut","2021","Diesel","4x4",207928
+"2019","Mitsubishi","L200 Tri. Outdo. GLS 2.4 CD 4x4 Die. Aut","2022","Diesel","4x4",216101
+"2020","Mitsubishi","OUTLANDER Sport HPE 4x4 2.0 16V Flex Aut","2020","Flex","4x4",136547
+"2021","Mitsubishi","OUTLANDER Sport HPE 4x4 2.0 16V Flex Aut","2021","Flex","4x4",159990
+"2022","Mitsubishi","OUTLANDER Sport HPE 4x4 2.0 16V Flex Aut","2022","Flex","4x4",167845
+"2023","Jeep","Renegade Moab 2.0 4x4 TB Diesel Aut.","2021","Diesel","4x4",151613
+"2024","Audi","Q7 S-Line 3.0 V6 TFSI Quattro Tiptronic","2020","Gasolina","AWD",502117
+"2025","Audi","Q7 S-Line 3.0 V6 TFSI Quattro Tiptronic","2021","Gasolina","AWD",567535
+"2026","Audi","Q7 S-Line 3.0 V6 TFSI Quattro Tiptronic","2022","Gasolina","AWD",582088
+"2027","RAM","2500 LARAM. 6.7 NIGHT ED. TB CD 4x4 Die.","2020","Diesel","4x4",438147
+"2028","RAM","2500 LARAM. 6.7 NIGHT ED. TB CD 4x4 Die.","2021","Diesel","4x4",450326
+"2029","RAM","2500 LARAM. 6.7 NIGHT ED. TB CD 4x4 Die.","2022","Diesel","4x4",462261
+"2030","Audi","RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic","2021","Gasolina","AWD",1121030
+"2031","Audi","RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic","2022","Gasolina","AWD",1163256
+"2032","Audi","RS5 Sportback 2.9 V6 TFSI Quattro Tip.","2021","Gasolina","AWD",673903
+"2033","Audi","RS5 Sportback 2.9 V6 TFSI Quattro Tip.","2022","Gasolina","AWD",692905
+"2034","RAM","1500 REBEL 5.7 HEMI CD V8 4x4 Aut.","2021","Gasolina","4x4",434895
+"2035","Audi","Q8 Perf.Black 3.0 TFSI Quattro S-tronic","2019","Gasolina","AWD",619359
+"2036","Audi","Q8 Perf.Black 3.0 TFSI Quattro S-tronic","2020","Gasolina","AWD",637550
+"2037","Audi","Q8 Perf.Black 3.0 TFSI Quattro S-tronic","2021","Gasolina","AWD",666903
+"2038","Audi","Q8 Perf.Black 3.0 TFSI Quattro S-tronic","2022","Gasolina","AWD",684003
+"2039","Audi","Q8 Performance 3.0 TFSI Quattro S-tronic","2019","Gasolina","AWD",576144
+"2040","Audi","Q8 Performance 3.0 TFSI Quattro S-tronic","2020","Gasolina","AWD",601989
+"2041","Audi","Q8 Performance 3.0 TFSI Quattro S-tronic","2021","Gasolina","AWD",618963
+"2042","Audi","Q8 Performance 3.0 TFSI Quattro S-tronic","2022","Gasolina","AWD",636911
+"2043","Audi","RS Q3 Sportback 2.5 TFSI Quattro S-tron.","2021","Gasolina","AWD",567010
+"2044","Audi","RS Q3 Sportback 2.5 TFSI Quattro S-tron.","2022","Gasolina","AWD",591650
+"2045","Audi","A6 Perf. Black 3.0 TFSI Quattro S-tronic","2021","Gasolina","AWD",483804
+"2046","Audi","A6 Perf. Black 3.0 TFSI Quattro S-tronic","2022","Gasolina","AWD",522037
+"2047","Land Rover","Range R. VEL. R-Dyn HSE 3.0 PH6 4x4 Aut.","2021","Gasolina","4x4",596636
+"2048","Land Rover","Range R. VEL. R-Dyn.SE 3.0 PH6 4x4 Aut.","2021","Gasolina","4x4",578573
+"2049","Troller","T-4 Connect 4x4 3.2 Tdi Cap.Rig.Die.Aut.","2021","Diesel","4x4",207938
+"2050","Land Rover","Range R. Sport HSE 3.0 4x4 I6 TB Diesel","2021","Diesel","4x4",625234
+"2051","Land Rover","Range R. Sport HSE 3.0 4x4 I6 TB Diesel","2022","Diesel","4x4",649246
+"2052","Land Rover","Range Rover Sport SE 3.0 4x4 I6 TB Die.","2021","Diesel","4x4",554909
+"2053","Land Rover","Range Rover Sport SE 3.0 4x4 I6 TB Die.","2022","Diesel","4x4",591236
+"2054","Troller","T-4 TX4 Connect 4x4 3.2 Cap.Ríg.Die.Aut.","2021","Diesel","4x4",222804
+"2055","Troller","T-4 TX4 Connect 4x4 3.2 Cap.Ríg.Die.Mec.","2021","Diesel","4x4",212189
+"2056","Audi","A6 Prestige Plus 2.0 TFSI Quattro S-tro.","2021","Gasolina","AWD",408411
+"2057","Audi","A6 Prestige Plus 2.0 TFSI Quattro S-tro.","2022","Gasolina","AWD",439472
+"2058","Ford","Bronco Sport Wildtrak 2.0 Tb 16V AWD Aut","2021","Gasolina","AWD",266343
+"2059","Jeep","COMPASS LIMITED TD 350 2.0 4x4 Die. Aut.","2022","Diesel","4x4",234997
+"2060","Jeep","COMPASS LONG. TD 350 2.0 4x4 Diesel Aut.","2022","Diesel","4x4",213878
+"2061","Jeep","COMPASS TD 350 80 Anos 2.0 4x4 Die. Aut.","2022","Diesel","4x4",224890
+"2062","Jeep","COMPASS TRAILHAWK TD350 2.0 4x4 Die. Aut","2022","Diesel","4x4",237894
+"2063","Mercedes-Benz","G-63 AMG 4M 4.0 Bi-TB Magno Edition Aut.","2021","Gasolina","4x4",1939895
+"2064","Mitsubishi","L200 Triton Savana GLS 2.4 4x4 Die. Aut.","2022","Diesel","4x4",231754
+"2065","Jaguar","F-Pace 3.0 AWD R-Dynamic S 340cv Aut.","2021","Gasolina","AWD",489412
+"2066","Jeep","Wrangler Unlimited 80 Anos 2.0 TB 4p ","2021","Gasolina","4x4",385222
+"2067","RAM","2500 LARAM. 6.7 RODEO ED. TB CD 4x4 Die.","2021","Diesel","4x4",448126
+"2068","Jaguar","F-Pace 3.0 R-Dynamic SE AWD 340cv Aut.","2021","Gasolina","AWD",493256
+"2069","Land Rover","Range R. Sp.SVR AWD 5.0 Carbon Ed. Aut.","2022","Gasolina","AWD",997728
+"2070","CAB Motors","Stark Mountaim 2.3 AWD TDI Diesel 3p ","2021","Diesel","AWD",185150
+"2071","CAB Motors","Stark Superação 2.3 AWD 2.3 TDI Die. 3p","2021","Diesel","AWD",204591
+"2072","Troller","T-4 Connect 4x4 3.2 Tdi Cap.Rig. Diesel","2021","Diesel","4x4",191986
+"2073","Mitsubishi","OUTLANDER Sp. HPE BL.ED 4x4 2.0 Flex Aut","2022","Flex","4x4",178912
+"2074","Audi","RS E-TRON GT Quattro Aut. (Elétrico)","2022","Elétrico","AWD",1012300
+"2075","Jeep","Commander Limited TD380 2.0 4x4 Die.Aut.","2022","Diesel","4x4",268552
+"2076","Jeep","Commander Overl. TD380 2.0 4x4 Die. Aut.","2022","Diesel","4x4",295125
+"2077","Mitsubishi","OUTLANDER HPE-S BLACK ED. 3.0 4x4 Aut.","2022","Gasolina","4x4",257017
+"2078","Land Rover","Defender 90 2.0 Turbo SE Si4 Aut.","2022","Gasolina","4x4",530563
+"2079","Nissan","Frontier X-GEAR CD 4x4 2.3 Bi-TB Die.Aut","2022","Diesel","4x4",248597
+"2080","Volvo","XC 60 T-8 HÍBRIDO INSC. EXPRESS. 2.0 AWD","2022","Gasolina","AWD",386215
+"2081","Toyota","Hilux SW4 Diamond 2.8 TB 4x4 Die. Aut.","2022","Diesel","4x4",401133
+"2082","Toyota","Hilux SW4 GRS 2.8 TB 4x4 Diesel Aut.","2022","Diesel","4x4",405342
+"2083","GM - Chevrolet","S10 Pick-Up Z71 2.8 TDI 4x4 CD Dies. Aut","2022","Diesel","4x4",251406
+"2084","RAM","2500 LARAM. 6.7 Ed. ABQM TB CD 4X4 Die.","2022","Diesel","4x4",464309
+"2085","Jaguar","F-Pace 3.0 S AWD 340 cv Aut.","2021","Gasolina","AWD",464916
+"2086","Jaguar","I-Pace BLACK EV 400 AWD Aut.(Elétrico)","2022","Elétrico","AWD",566375
